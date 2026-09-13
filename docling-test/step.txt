@@ -1,0 +1,5 @@
+python3.12 -m venv .venv
+
+pip install docling
+
+docling sample.pdf

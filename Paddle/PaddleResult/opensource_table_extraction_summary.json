@@ -1,0 +1,6510 @@
+{
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": 0,
+      "width": 2382,
+      "height": 3368,
+      "spans": [
+        {
+          "offset": 0,
+          "length": 4159
+        }
+      ],
+      "words": [
+        {
+          "content": "VISA",
+          "confidence": 0.999772,
+          "geometry": {
+            "x0": 1852.0,
+            "y0": 66.0,
+            "x1": 2049.0,
+            "y1": 143.0
+          },
+          "source": "D(1,1852,66,2049,143)",
+          "span": {
+            "offset": 0,
+            "length": 4
+          }
+        },
+        {
+          "content": "PUBLIC BANK",
+          "confidence": 0.999337,
+          "geometry": {
+            "x0": 240.0,
+            "y0": 82.0,
+            "x1": 744.0,
+            "y1": 129.0
+          },
+          "source": "D(1,240,82,744,129)",
+          "span": {
+            "offset": 5,
+            "length": 11
+          }
+        },
+        {
+          "content": "PUBLIC ISLAMIC BANK",
+          "confidence": 0.987506,
+          "geometry": {
+            "x0": 955.0,
+            "y0": 85.0,
+            "x1": 1573.0,
+            "y1": 119.0
+          },
+          "source": "D(1,955,85,1573,119)",
+          "span": {
+            "offset": 17,
+            "length": 19
+          }
+        },
+        {
+          "content": "PERBANKAN",
+          "confidence": 0.999073,
+          "geometry": {
+            "x0": 1676.0,
+            "y0": 133.0,
+            "x1": 1796.0,
+            "y1": 150.0
+          },
+          "source": "D(1,1676,133,1796,150)",
+          "span": {
+            "offset": 37,
+            "length": 9
+          }
+        },
+        {
+          "content": "ISLAM",
+          "confidence": 0.997369,
+          "geometry": {
+            "x0": 1702.0,
+            "y0": 150.0,
+            "x1": 1769.0,
+            "y1": 168.0
+          },
+          "source": "D(1,1702,150,1769,168)",
+          "span": {
+            "offset": 47,
+            "length": 5
+          }
+        },
+        {
+          "content": "Supplementary Card Application Form / Borang Permohonan Kad Tambahan",
+          "confidence": 0.999895,
+          "geometry": {
+            "x0": 160.0,
+            "y0": 202.0,
+            "x1": 2220.0,
+            "y1": 267.0
+          },
+          "source": "D(1,160,202,2220,267)",
+          "span": {
+            "offset": 53,
+            "length": 68
+          }
+        },
+        {
+          "content": "I WISH TO APPLY FOR (TICK",
+          "confidence": 0.98824,
+          "geometry": {
+            "x0": 86.0,
+            "y0": 349.0,
+            "x1": 532.0,
+            "y1": 386.0
+          },
+          "source": "D(1,86,349,532,386)",
+          "span": {
+            "offset": 122,
+            "length": 25
+          }
+        },
+        {
+          "content": "WHERE APPROPRIATE): / SAYA INGIN MEMOHON UNTUK (TANDAKAN",
+          "confidence": 0.99194,
+          "geometry": {
+            "x0": 588.0,
+            "y0": 348.0,
+            "x1": 1682.0,
+            "y1": 386.0
+          },
+          "source": "D(1,588,348,1682,386)",
+          "span": {
+            "offset": 148,
+            "length": 56
+          }
+        },
+        {
+          "content": "DALAM KOTAK YANG BERKENAAN):",
+          "confidence": 0.999776,
+          "geometry": {
+            "x0": 1737.0,
+            "y0": 348.0,
+            "x1": 2297.0,
+            "y1": 386.0
+          },
+          "source": "D(1,1737,348,2297,386)",
+          "span": {
+            "offset": 205,
+            "length": 28
+          }
+        },
+        {
+          "content": "PUBLIC BANK CREDIT CARD / KAD KREDIT PUBLIC BANK:",
+          "confidence": 0.989622,
+          "geometry": {
+            "x0": 89.0,
+            "y0": 417.0,
+            "x1": 994.0,
+            "y1": 452.0
+          },
+          "source": "D(1,89,417,994,452)",
+          "span": {
+            "offset": 234,
+            "length": 49
+          }
+        },
+        {
+          "content": "PUBLIC BANK VISA INFINITE",
+          "confidence": 0.999875,
+          "geometry": {
+            "x0": 150.0,
+            "y0": 469.0,
+            "x1": 601.0,
+            "y1": 500.0
+          },
+          "source": "D(1,150,469,601,500)",
+          "span": {
+            "offset": 284,
+            "length": 25
+          }
+        },
+        {
+          "content": "PUBLIC BANK WORLD MASTERCARD",
+          "confidence": 0.999958,
+          "geometry": {
+            "x0": 932.0,
+            "y0": 468.0,
+            "x1": 1523.0,
+            "y1": 503.0
+          },
+          "source": "D(1,932,468,1523,503)",
+          "span": {
+            "offset": 310,
+            "length": 28
+          }
+        },
+        {
+          "content": "PUBLIC BANK VISA SIGNATURE",
+          "confidence": 0.999806,
+          "geometry": {
+            "x0": 1658.0,
+            "y0": 468.0,
+            "x1": 2166.0,
+            "y1": 503.0
+          },
+          "source": "D(1,1658,468,2166,503)",
+          "span": {
+            "offset": 339,
+            "length": 26
+          }
+        },
+        {
+          "content": "PUBLIC BANK QUANTUM CREDIT CARDS",
+          "confidence": 0.999927,
+          "geometry": {
+            "x0": 148.0,
+            "y0": 514.0,
+            "x1": 799.0,
+            "y1": 549.0
+          },
+          "source": "D(1,148,514,799,549)",
+          "span": {
+            "offset": 366,
+            "length": 32
+          }
+        },
+        {
+          "content": "PUBLIC BANK VISA PLATINUM",
+          "confidence": 0.999109,
+          "geometry": {
+            "x0": 934.0,
+            "y0": 519.0,
+            "x1": 1414.0,
+            "y1": 550.0
+          },
+          "source": "D(1,934,519,1414,550)",
+          "span": {
+            "offset": 399,
+            "length": 25
+          }
+        },
+        {
+          "content": "PUBLIC BANK PLATINUM MASTERCARD",
+          "confidence": 0.999923,
+          "geometry": {
+            "x0": 1659.0,
+            "y0": 518.0,
+            "x1": 2293.0,
+            "y1": 551.0
+          },
+          "source": "D(1,1659,518,2293,551)",
+          "span": {
+            "offset": 425,
+            "length": 31
+          }
+        },
+        {
+          "content": "PUBLIC BANK AIA VISA GOLD",
+          "confidence": 0.999672,
+          "geometry": {
+            "x0": 149.0,
+            "y0": 563.0,
+            "x1": 624.0,
+            "y1": 597.0
+          },
+          "source": "D(1,149,563,624,597)",
+          "span": {
+            "offset": 457,
+            "length": 25
+          }
+        },
+        {
+          "content": "PUBLIC BANK VISA GOLD",
+          "confidence": 0.999853,
+          "geometry": {
+            "x0": 933.0,
+            "y0": 566.0,
+            "x1": 1341.0,
+            "y1": 597.0
+          },
+          "source": "D(1,933,566,1341,597)",
+          "span": {
+            "offset": 483,
+            "length": 21
+          }
+        },
+        {
+          "content": "PUBLIC BANK GOLD MASTERCARD",
+          "confidence": 0.999523,
+          "geometry": {
+            "x0": 1659.0,
+            "y0": 566.0,
+            "x1": 2221.0,
+            "y1": 599.0
+          },
+          "source": "D(1,1659,566,2221,599)",
+          "span": {
+            "offset": 505,
+            "length": 27
+          }
+        },
+        {
+          "content": "PUBLIC BANK PETRON VISA GOLD",
+          "confidence": 0.999929,
+          "geometry": {
+            "x0": 149.0,
+            "y0": 611.0,
+            "x1": 701.0,
+            "y1": 645.0
+          },
+          "source": "D(1,149,611,701,645)",
+          "span": {
+            "offset": 533,
+            "length": 28
+          }
+        },
+        {
+          "content": "PUBLIC ISLAMIC BANK CREDIT CARD-i/ KAD KREDIT-i PUBLIC ISLAMIC BANK:",
+          "confidence": 0.988443,
+          "geometry": {
+            "x0": 93.0,
+            "y0": 674.0,
+            "x1": 1312.0,
+            "y1": 707.0
+          },
+          "source": "D(1,93,674,1312,707)",
+          "span": {
+            "offset": 562,
+            "length": 68
+          }
+        },
+        {
+          "content": "PUBLIC ISLAMIC BANK VISA PLATINUM",
+          "confidence": 0.999665,
+          "geometry": {
+            "x0": 153.0,
+            "y0": 722.0,
+            "x1": 777.0,
+            "y1": 755.0
+          },
+          "source": "D(1,153,722,777,755)",
+          "span": {
+            "offset": 631,
+            "length": 33
+          }
+        },
+        {
+          "content": "PUBLIC ISLAMIC BANK PLATINUM MASTERCARD",
+          "confidence": 0.996644,
+          "geometry": {
+            "x0": 932.0,
+            "y0": 722.0,
+            "x1": 1708.0,
+            "y1": 755.0
+          },
+          "source": "D(1,932,722,1708,755)",
+          "span": {
+            "offset": 665,
+            "length": 39
+          }
+        },
+        {
+          "content": "PUBLIC ISLAMIC BANK VISA GOLD",
+          "confidence": 0.999767,
+          "geometry": {
+            "x0": 153.0,
+            "y0": 770.0,
+            "x1": 703.0,
+            "y1": 803.0
+          },
+          "source": "D(1,153,770,703,803)",
+          "span": {
+            "offset": 705,
+            "length": 29
+          }
+        },
+        {
+          "content": "PUBLIC ISLAMIC BANK GOLD MASTERCARD",
+          "confidence": 0.999932,
+          "geometry": {
+            "x0": 932.0,
+            "y0": 770.0,
+            "x1": 1637.0,
+            "y1": 803.0
+          },
+          "source": "D(1,932,770,1637,803)",
+          "span": {
+            "offset": 735,
+            "length": 35
+          }
+        },
+        {
+          "content": "PLEASE COMPLETE APPLICATION FORM IN FULL. Type or print in BLOCK LETTERS throughout.",
+          "confidence": 0.995852,
+          "geometry": {
+            "x0": 83.0,
+            "y0": 832.0,
+            "x1": 1542.0,
+            "y1": 871.0
+          },
+          "source": "D(1,83,832,1542,871)",
+          "span": {
+            "offset": 771,
+            "length": 84
+          }
+        },
+        {
+          "content": "SILA ISI BORANG PERMOHONAN DENGAN LENGKAP.Taip atau tulis dengan HURUF BESAR keseluruhannya.",
+          "confidence": 0.990197,
+          "geometry": {
+            "x0": 84.0,
+            "y0": 872.0,
+            "x1": 1735.0,
+            "y1": 909.0
+          },
+          "source": "D(1,84,872,1735,909)",
+          "span": {
+            "offset": 856,
+            "length": 92
+          }
+        },
+        {
+          "content": "1",
+          "confidence": 0.999994,
+          "geometry": {
+            "x0": 120.0,
+            "y0": 997.0,
+            "x1": 141.0,
+            "y1": 1026.0
+          },
+          "source": "D(1,120,997,141,1026)",
+          "span": {
+            "offset": 949,
+            "length": 1
+          }
+        },
+        {
+          "content": "PRINCIPAL CARDMEMBER PERSONAL DATA",
+          "confidence": 0.98713,
+          "geometry": {
+            "x0": 182.0,
+            "y0": 994.0,
+            "x1": 887.0,
+            "y1": 1026.0
+          },
+          "source": "D(1,182,994,887,1026)",
+          "span": {
+            "offset": 951,
+            "length": 34
+          }
+        },
+        {
+          "content": "OFFICE TELEPHONE & EXTENSION NO. /NO. TELEFON PEJABAT DAN SAMBUNGAN",
+          "confidence": 0.984663,
+          "geometry": {
+            "x0": 1224.0,
+            "y0": 997.0,
+            "x1": 2227.0,
+            "y1": 1027.0
+          },
+          "source": "D(1,1224,997,2227,1027)",
+          "span": {
+            "offset": 986,
+            "length": 67
+          }
+        },
+        {
+          "content": "BUTIR-BUTIR PERIBADI KAD UTAMA",
+          "confidence": 0.998825,
+          "geometry": {
+            "x0": 184.0,
+            "y0": 1030.0,
+            "x1": 759.0,
+            "y1": 1064.0
+          },
+          "source": "D(1,184,1030,759,1064)",
+          "span": {
+            "offset": 1054,
+            "length": 30
+          }
+        },
+        {
+          "content": "NEW NRIC NO. / NO. KP BAHARU",
+          "confidence": 0.992047,
+          "geometry": {
+            "x0": 103.0,
+            "y0": 1100.0,
+            "x1": 504.0,
+            "y1": 1131.0
+          },
+          "source": "D(1,103,1100,504,1131)",
+          "span": {
+            "offset": 1085,
+            "length": 28
+          }
+        },
+        {
+          "content": "NAME OF EMPLOYER/COMPANY",
+          "confidence": 0.999708,
+          "geometry": {
+            "x0": 1224.0,
+            "y0": 1112.0,
+            "x1": 1628.0,
+            "y1": 1142.0
+          },
+          "source": "D(1,1224,1112,1628,1142)",
+          "span": {
+            "offset": 1114,
+            "length": 24
+          }
+        },
+        {
+          "content": "NAMA MAJIKAN/SYARIKAT",
+          "confidence": 0.999722,
+          "geometry": {
+            "x0": 1226.0,
+            "y0": 1148.0,
+            "x1": 1547.0,
+            "y1": 1178.0
+          },
+          "source": "D(1,1226,1148,1547,1178)",
+          "span": {
+            "offset": 1139,
+            "length": 21
+          }
+        },
+        {
+          "content": "OLD NRIC/PASSPORT NO.",
+          "confidence": 0.999333,
+          "geometry": {
+            "x0": 105.0,
+            "y0": 1158.0,
+            "x1": 426.0,
+            "y1": 1189.0
+          },
+          "source": "D(1,105,1158,426,1189)",
+          "span": {
+            "offset": 1161,
+            "length": 21
+          }
+        },
+        {
+          "content": "NO. KP LAMA/PASPORT",
+          "confidence": 0.974074,
+          "geometry": {
+            "x0": 106.0,
+            "y0": 1195.0,
+            "x1": 392.0,
+            "y1": 1225.0
+          },
+          "source": "D(1,106,1195,392,1225)",
+          "span": {
+            "offset": 1183,
+            "length": 19
+          }
+        },
+        {
+          "content": "SALARIED / BERGAJI",
+          "confidence": 0.974081,
+          "geometry": {
+            "x0": 1289.0,
+            "y0": 1209.0,
+            "x1": 1526.0,
+            "y1": 1240.0
+          },
+          "source": "D(1,1289,1209,1526,1240)",
+          "span": {
+            "offset": 1203,
+            "length": 18
+          }
+        },
+        {
+          "content": "NON-SALARIED / TIDAK BERGAJI",
+          "confidence": 0.997716,
+          "geometry": {
+            "x0": 1700.0,
+            "y0": 1209.0,
+            "x1": 2065.0,
+            "y1": 1240.0
+          },
+          "source": "D(1,1700,1209,2065,1240)",
+          "span": {
+            "offset": 1222,
+            "length": 28
+          }
+        },
+        {
+          "content": "FULL NAME AS IN NRIC/PASSPORT / NAMA PENUH SEPERTI DALAM KP/PASPORT",
+          "confidence": 0.995412,
+          "geometry": {
+            "x0": 104.0,
+            "y0": 1242.0,
+            "x1": 1095.0,
+            "y1": 1272.0
+          },
+          "source": "D(1,104,1242,1095,1272)",
+          "span": {
+            "offset": 1251,
+            "length": 67
+          }
+        },
+        {
+          "content": "POSITION / JAWATAN",
+          "confidence": 0.968905,
+          "geometry": {
+            "x0": 1224.0,
+            "y0": 1279.0,
+            "x1": 1493.0,
+            "y1": 1310.0
+          },
+          "source": "D(1,1224,1279,1493,1310)",
+          "span": {
+            "offset": 1319,
+            "length": 18
+          }
+        },
+        {
+          "content": "YEARS OF SERVICE / TEMPOH PERKHIDMATAN",
+          "confidence": 0.988154,
+          "geometry": {
+            "x0": 1225.0,
+            "y0": 1333.0,
+            "x1": 1802.0,
+            "y1": 1366.0
+          },
+          "source": "D(1,1225,1333,1802,1366)",
+          "span": {
+            "offset": 1338,
+            "length": 38
+          }
+        },
+        {
+          "content": "EXISTING PRINCIPAL PB CARD ACCOUNT",
+          "confidence": 0.999634,
+          "geometry": {
+            "x0": 104.0,
+            "y0": 1354.0,
+            "x1": 616.0,
+            "y1": 1384.0
+          },
+          "source": "D(1,104,1354,616,1384)",
+          "span": {
+            "offset": 1377,
+            "length": 34
+          }
+        },
+        {
+          "content": "NO. AKAUN AHLI KAD PB UTAMA YANG SEDIA ADA",
+          "confidence": 0.987992,
+          "geometry": {
+            "x0": 106.0,
+            "y0": 1396.0,
+            "x1": 702.0,
+            "y1": 1423.0
+          },
+          "source": "D(1,106,1396,702,1423)",
+          "span": {
+            "offset": 1412,
+            "length": 42
+          }
+        },
+        {
+          "content": "NATURE OF BUSINESS",
+          "confidence": 0.999618,
+          "geometry": {
+            "x0": 1223.0,
+            "y0": 1390.0,
+            "x1": 1505.0,
+            "y1": 1420.0
+          },
+          "source": "D(1,1223,1390,1505,1420)",
+          "span": {
+            "offset": 1455,
+            "length": 18
+          }
+        },
+        {
+          "content": "JENIS PERNIAGAAN",
+          "confidence": 0.999298,
+          "geometry": {
+            "x0": 1224.0,
+            "y0": 1426.0,
+            "x1": 1463.0,
+            "y1": 1457.0
+          },
+          "source": "D(1,1224,1426,1463,1457)",
+          "span": {
+            "offset": 1474,
+            "length": 16
+          }
+        },
+        {
+          "content": "VISA:",
+          "confidence": 0.999003,
+          "geometry": {
+            "x0": 103.0,
+            "y0": 1438.0,
+            "x1": 179.0,
+            "y1": 1472.0
+          },
+          "source": "D(1,103,1438,179,1472)",
+          "span": {
+            "offset": 1491,
+            "length": 5
+          }
+        },
+        {
+          "content": "MONTHLY STATEMENT / PENYATA BULANAN",
+          "confidence": 0.998021,
+          "geometry": {
+            "x0": 1227.0,
+            "y0": 1483.0,
+            "x1": 1794.0,
+            "y1": 1513.0
+          },
+          "source": "D(1,1227,1483,1794,1513)",
+          "span": {
+            "offset": 1497,
+            "length": 35
+          }
+        },
+        {
+          "content": "COMBINED / DIGABUNGKAN",
+          "confidence": 0.99866,
+          "geometry": {
+            "x0": 1293.0,
+            "y0": 1534.0,
+            "x1": 1648.0,
+            "y1": 1561.0
+          },
+          "source": "D(1,1293,1534,1648,1561)",
+          "span": {
+            "offset": 1533,
+            "length": 22
+          }
+        },
+        {
+          "content": "MASTERCARD:",
+          "confidence": 0.999847,
+          "geometry": {
+            "x0": 103.0,
+            "y0": 1548.0,
+            "x1": 294.0,
+            "y1": 1582.0
+          },
+          "source": "D(1,103,1548,294,1582)",
+          "span": {
+            "offset": 1556,
+            "length": 11
+          }
+        },
+        {
+          "content": "PRINCIPAL AND SUPPLEMENTARY CARDMEMBER'S CARD ACTIVITIES TO BE SENT",
+          "confidence": 0.992054,
+          "geometry": {
+            "x0": 1293.0,
+            "y0": 1573.0,
+            "x1": 2283.0,
+            "y1": 1600.0
+          },
+          "source": "D(1,1293,1573,2283,1600)",
+          "span": {
+            "offset": 1568,
+            "length": 67
+          }
+        },
+        {
+          "content": "TO PRINCIPAL CARDMEMBER / AKTIVITI KAD AHLI KAD UTAMA DAN TAMBAHAN",
+          "confidence": 0.995868,
+          "geometry": {
+            "x0": 1292.0,
+            "y0": 1610.0,
+            "x1": 2287.0,
+            "y1": 1640.0
+          },
+          "source": "D(1,1292,1610,2287,1640)",
+          "span": {
+            "offset": 1636,
+            "length": 66
+          }
+        },
+        {
+          "content": "AKAN DIHANTAR KEPADA AHLI KAD UTAMA",
+          "confidence": 0.989381,
+          "geometry": {
+            "x0": 1293.0,
+            "y0": 1648.0,
+            "x1": 1810.0,
+            "y1": 1678.0
+          },
+          "source": "D(1,1293,1648,1810,1678)",
+          "span": {
+            "offset": 1703,
+            "length": 35
+          }
+        },
+        {
+          "content": "2",
+          "confidence": 0.996909,
+          "geometry": {
+            "x0": 118.0,
+            "y0": 1672.0,
+            "x1": 145.0,
+            "y1": 1703.0
+          },
+          "source": "D(1,118,1672,145,1703)",
+          "span": {
+            "offset": 1739,
+            "length": 1
+          }
+        },
+        {
+          "content": "SUPPLEMENTARY CARD/ KAD TAMBAHAN",
+          "confidence": 0.99104,
+          "geometry": {
+            "x0": 183.0,
+            "y0": 1672.0,
+            "x1": 866.0,
+            "y1": 1702.0
+          },
+          "source": "D(1,183,1672,866,1702)",
+          "span": {
+            "offset": 1741,
+            "length": 32
+          }
+        },
+        {
+          "content": "SEPARATE / BERASINGAN",
+          "confidence": 0.992276,
+          "geometry": {
+            "x0": 1293.0,
+            "y0": 1705.0,
+            "x1": 1623.0,
+            "y1": 1732.0
+          },
+          "source": "D(1,1293,1705,1623,1732)",
+          "span": {
+            "offset": 1774,
+            "length": 21
+          }
+        },
+        {
+          "content": "NEW NRIC NO. / NO. KP BAHARU",
+          "confidence": 0.981721,
+          "geometry": {
+            "x0": 104.0,
+            "y0": 1743.0,
+            "x1": 503.0,
+            "y1": 1773.0
+          },
+          "source": "D(1,104,1743,503,1773)",
+          "span": {
+            "offset": 1796,
+            "length": 28
+          }
+        },
+        {
+          "content": "SUPPLEMENTARY",
+          "confidence": 0.999982,
+          "geometry": {
+            "x0": 1293.0,
+            "y0": 1744.0,
+            "x1": 1508.0,
+            "y1": 1772.0
+          },
+          "source": "D(1,1293,1744,1508,1772)",
+          "span": {
+            "offset": 1825,
+            "length": 13
+          }
+        },
+        {
+          "content": "CARDMEMBER'S CARD ACTIVITIES TO BE SENT TO",
+          "confidence": 0.998276,
+          "geometry": {
+            "x0": 1530.0,
+            "y0": 1741.0,
+            "x1": 2285.0,
+            "y1": 1774.0
+          },
+          "source": "D(1,1530,1741,2285,1774)",
+          "span": {
+            "offset": 1839,
+            "length": 42
+          }
+        },
+        {
+          "content": "SUPPLEMENTARY CARDMEMBER / AKTIVITI KAD AHLI KAD TAMBAHAN AKAN",
+          "confidence": 0.988255,
+          "geometry": {
+            "x0": 1292.0,
+            "y0": 1781.0,
+            "x1": 2286.0,
+            "y1": 1811.0
+          },
+          "source": "D(1,1292,1781,2286,1811)",
+          "span": {
+            "offset": 1882,
+            "length": 62
+          }
+        },
+        {
+          "content": "OLD NRIC/PASSPORT NO.",
+          "confidence": 0.998671,
+          "geometry": {
+            "x0": 105.0,
+            "y0": 1804.0,
+            "x1": 426.0,
+            "y1": 1835.0
+          },
+          "source": "D(1,105,1804,426,1835)",
+          "span": {
+            "offset": 1945,
+            "length": 21
+          }
+        },
+        {
+          "content": "DIHANTAR KEPADA AHLI KAD TAMBAHAN",
+          "confidence": 0.998284,
+          "geometry": {
+            "x0": 1296.0,
+            "y0": 1821.0,
+            "x1": 1788.0,
+            "y1": 1848.0
+          },
+          "source": "D(1,1296,1821,1788,1848)",
+          "span": {
+            "offset": 1967,
+            "length": 33
+          }
+        },
+        {
+          "content": "NO. KP LAMA/PASPORT",
+          "confidence": 0.976397,
+          "geometry": {
+            "x0": 106.0,
+            "y0": 1841.0,
+            "x1": 393.0,
+            "y1": 1871.0
+          },
+          "source": "D(1,106,1841,393,1871)",
+          "span": {
+            "offset": 2001,
+            "length": 19
+          }
+        },
+        {
+          "content": "NOMINATED CREDIT LINE PER CARD (MINIMUM RM1,000) / KEMUDAHAN KREDIT",
+          "confidence": 0.985982,
+          "geometry": {
+            "x0": 1292.0,
+            "y0": 1880.0,
+            "x1": 2288.0,
+            "y1": 1915.0
+          },
+          "source": "D(1,1292,1880,2288,1915)",
+          "span": {
+            "offset": 2021,
+            "length": 67
+          }
+        },
+        {
+          "content": "NAME TO APPEAR ON CARD / NAMA PADA KAD",
+          "confidence": 0.994493,
+          "geometry": {
+            "x0": 104.0,
+            "y0": 1891.0,
+            "x1": 686.0,
+            "y1": 1922.0
+          },
+          "source": "D(1,104,1891,686,1922)",
+          "span": {
+            "offset": 2089,
+            "length": 38
+          }
+        },
+        {
+          "content": "YANG DIPERUNTUKKAN UNTUK SETIAP KAD (MINIMUM RM1,000)",
+          "confidence": 0.989398,
+          "geometry": {
+            "x0": 1294.0,
+            "y0": 1919.0,
+            "x1": 2066.0,
+            "y1": 1954.0
+          },
+          "source": "D(1,1294,1919,2066,1954)",
+          "span": {
+            "offset": 2128,
+            "length": 53
+          }
+        },
+        {
+          "content": "RM",
+          "confidence": 0.999857,
+          "geometry": {
+            "x0": 1289.0,
+            "y0": 1956.0,
+            "x1": 1338.0,
+            "y1": 1992.0
+          },
+          "source": "D(1,1289,1956,1338,1992)",
+          "span": {
+            "offset": 2182,
+            "length": 2
+          }
+        },
+        {
+          "content": "FULL NAME AS IN NRIC/PASSPORT / NAMA PENUH SEPERTI DALAM KP/PASPORT",
+          "confidence": 0.988842,
+          "geometry": {
+            "x0": 104.0,
+            "y0": 1995.0,
+            "x1": 1095.0,
+            "y1": 2025.0
+          },
+          "source": "D(1,104,1995,1095,2025)",
+          "span": {
+            "offset": 2185,
+            "length": 67
+          }
+        },
+        {
+          "content": "3",
+          "confidence": 0.999995,
+          "geometry": {
+            "x0": 1241.0,
+            "y0": 2022.0,
+            "x1": 1267.0,
+            "y1": 2053.0
+          },
+          "source": "D(1,1241,2022,1267,2053)",
+          "span": {
+            "offset": 2253,
+            "length": 1
+          }
+        },
+        {
+          "content": "SMS TRANSACTION ALERT FOR SIGNATURE BASED",
+          "confidence": 0.990704,
+          "geometry": {
+            "x0": 1305.0,
+            "y0": 2020.0,
+            "x1": 2214.0,
+            "y1": 2053.0
+          },
+          "source": "D(1,1305,2020,2214,2053)",
+          "span": {
+            "offset": 2255,
+            "length": 41
+          }
+        },
+        {
+          "content": "TRANSACTIONS / MAKLUMAN SEGERA TENTANG URUS",
+          "confidence": 0.994668,
+          "geometry": {
+            "x0": 1306.0,
+            "y0": 2056.0,
+            "x1": 2171.0,
+            "y1": 2089.0
+          },
+          "source": "D(1,1306,2056,2171,2089)",
+          "span": {
+            "offset": 2297,
+            "length": 43
+          }
+        },
+        {
+          "content": "NIAGA BERASASKAN TANDATANGAN MELALUI SMS",
+          "confidence": 0.992622,
+          "geometry": {
+            "x0": 1307.0,
+            "y0": 2092.0,
+            "x1": 2071.0,
+            "y1": 2125.0
+          },
+          "source": "D(1,1307,2092,2071,2125)",
+          "span": {
+            "offset": 2341,
+            "length": 40
+          }
+        },
+        {
+          "content": "DATE OF BIRTH (DD-MM-YY) / TARIKH LAHIR (HH-BB-TT)",
+          "confidence": 0.992383,
+          "geometry": {
+            "x0": 106.0,
+            "y0": 2105.0,
+            "x1": 776.0,
+            "y1": 2139.0
+          },
+          "source": "D(1,106,2105,776,2139)",
+          "span": {
+            "offset": 2382,
+            "length": 50
+          }
+        },
+        {
+          "content": "PLEASE SELECT YOUR PREFERRED THRESHOLD AMOUNT",
+          "confidence": 0.991927,
+          "geometry": {
+            "x0": 1226.0,
+            "y0": 2154.0,
+            "x1": 1940.0,
+            "y1": 2184.0
+          },
+          "source": "D(1,1226,2154,1940,2184)",
+          "span": {
+            "offset": 2433,
+            "length": 45
+          }
+        },
+        {
+          "content": "SEX / JANTINA",
+          "confidence": 0.964786,
+          "geometry": {
+            "x0": 109.0,
+            "y0": 2181.0,
+            "x1": 293.0,
+            "y1": 2212.0
+          },
+          "source": "D(1,109,2181,293,2212)",
+          "span": {
+            "offset": 2479,
+            "length": 13
+          }
+        },
+        {
+          "content": "MALE / LELAKI",
+          "confidence": 0.961769,
+          "geometry": {
+            "x0": 428.0,
+            "y0": 2178.0,
+            "x1": 614.0,
+            "y1": 2213.0
+          },
+          "source": "D(1,428,2178,614,2213)",
+          "span": {
+            "offset": 2493,
+            "length": 13
+          }
+        },
+        {
+          "content": "FEMALE / PEREMPUAN",
+          "confidence": 0.995415,
+          "geometry": {
+            "x0": 732.0,
+            "y0": 2176.0,
+            "x1": 1011.0,
+            "y1": 2207.0
+          },
+          "source": "D(1,732,2176,1011,2207)",
+          "span": {
+            "offset": 2507,
+            "length": 18
+          }
+        },
+        {
+          "content": "SILA PILIH HAD AMBANG PILIHAN ANDA",
+          "confidence": 0.999909,
+          "geometry": {
+            "x0": 1227.0,
+            "y0": 2191.0,
+            "x1": 1701.0,
+            "y1": 2221.0
+          },
+          "source": "D(1,1227,2191,1701,2221)",
+          "span": {
+            "offset": 2526,
+            "length": 34
+          }
+        },
+        {
+          "content": "RELATION TO PRINCIPAL CARD APPLICANT",
+          "confidence": 0.999707,
+          "geometry": {
+            "x0": 103.0,
+            "y0": 2244.0,
+            "x1": 592.0,
+            "y1": 2274.0
+          },
+          "source": "D(1,103,2244,592,2274)",
+          "span": {
+            "offset": 2561,
+            "length": 36
+          }
+        },
+        {
+          "content": "RM500",
+          "confidence": 0.99995,
+          "geometry": {
+            "x0": 1281.0,
+            "y0": 2238.0,
+            "x1": 1387.0,
+            "y1": 2277.0
+          },
+          "source": "D(1,1281,2238,1387,2277)",
+          "span": {
+            "offset": 2598,
+            "length": 5
+          }
+        },
+        {
+          "content": "RM1,000",
+          "confidence": 0.99994,
+          "geometry": {
+            "x0": 1479.0,
+            "y0": 2237.0,
+            "x1": 1611.0,
+            "y1": 2279.0
+          },
+          "source": "D(1,1479,2237,1611,2279)",
+          "span": {
+            "offset": 2604,
+            "length": 7
+          }
+        },
+        {
+          "content": "RM2,000",
+          "confidence": 0.999943,
+          "geometry": {
+            "x0": 1708.0,
+            "y0": 2237.0,
+            "x1": 1841.0,
+            "y1": 2279.0
+          },
+          "source": "D(1,1708,2237,1841,2279)",
+          "span": {
+            "offset": 2612,
+            "length": 7
+          }
+        },
+        {
+          "content": "RM3,000",
+          "confidence": 0.999934,
+          "geometry": {
+            "x0": 1935.0,
+            "y0": 2240.0,
+            "x1": 2067.0,
+            "y1": 2279.0
+          },
+          "source": "D(1,1935,2240,2067,2279)",
+          "span": {
+            "offset": 2620,
+            "length": 7
+          }
+        },
+        {
+          "content": "RM5,000",
+          "confidence": 0.999951,
+          "geometry": {
+            "x0": 2157.0,
+            "y0": 2237.0,
+            "x1": 2289.0,
+            "y1": 2279.0
+          },
+          "source": "D(1,2157,2237,2289,2279)",
+          "span": {
+            "offset": 2628,
+            "length": 7
+          }
+        },
+        {
+          "content": "HUBUNGAN DENGAN PEMOHON KAD UTAMA",
+          "confidence": 0.990679,
+          "geometry": {
+            "x0": 105.0,
+            "y0": 2280.0,
+            "x1": 584.0,
+            "y1": 2310.0
+          },
+          "source": "D(1,105,2280,584,2310)",
+          "span": {
+            "offset": 2636,
+            "length": 33
+          }
+        },
+        {
+          "content": "OPT OUT (DO NOT SEND ANY SMS TRANSACTION ALERT TO ME.) Please refer to",
+          "confidence": 0.989715,
+          "geometry": {
+            "x0": 1281.0,
+            "y0": 2317.0,
+            "x1": 2284.0,
+            "y1": 2351.0
+          },
+          "source": "D(1,1281,2317,2284,2351)",
+          "span": {
+            "offset": 2670,
+            "length": 70
+          }
+        },
+        {
+          "content": "E-MAIL ADDRESS / ALAMAT E-MEL (MANDATORY/ WAJIB)",
+          "confidence": 0.996195,
+          "geometry": {
+            "x0": 101.0,
+            "y0": 2330.0,
+            "x1": 707.0,
+            "y1": 2365.0
+          },
+          "source": "D(1,101,2330,707,2365)",
+          "span": {
+            "offset": 2741,
+            "length": 48
+          }
+        },
+        {
+          "content": "the Product Disclosure Sheet for the risks. / TIDAK PERLU (JANGAN HANTAR",
+          "confidence": 0.982047,
+          "geometry": {
+            "x0": 1279.0,
+            "y0": 2356.0,
+            "x1": 2287.0,
+            "y1": 2389.0
+          },
+          "source": "D(1,1279,2356,2287,2389)",
+          "span": {
+            "offset": 2790,
+            "length": 72
+          }
+        },
+        {
+          "content": "MAKLUMAN SEGERA TENTANG URUS NIAGA MELALUI SMS KEPADA SAYA.) Sila rUJUK",
+          "confidence": 0.971445,
+          "geometry": {
+            "x0": 1279.0,
+            "y0": 2394.0,
+            "x1": 2287.0,
+            "y1": 2429.0
+          },
+          "source": "D(1,1279,2394,2287,2429)",
+          "span": {
+            "offset": 2863,
+            "length": 71
+          }
+        },
+        {
+          "content": "kepada Lembaran Pendedahan Produk tentang risiko-risikonya.",
+          "confidence": 0.999881,
+          "geometry": {
+            "x0": 1280.0,
+            "y0": 2433.0,
+            "x1": 2034.0,
+            "y1": 2468.0
+          },
+          "source": "D(1,1280,2433,2034,2468)",
+          "span": {
+            "offset": 2935,
+            "length": 59
+          }
+        },
+        {
+          "content": "MOTHER'S MAIDEN NAME / NAMA PENUH IBU",
+          "confidence": 0.988381,
+          "geometry": {
+            "x0": 103.0,
+            "y0": 2446.0,
+            "x1": 670.0,
+            "y1": 2476.0
+          },
+          "source": "D(1,103,2446,670,2476)",
+          "span": {
+            "offset": 2995,
+            "length": 37
+          }
+        },
+        {
+          "content": "NOTE: THE BANK'S DEFAULT VALUE (RM500) APPLIES IF LEFT BLANK",
+          "confidence": 0.995336,
+          "geometry": {
+            "x0": 1227.0,
+            "y0": 2486.0,
+            "x1": 2100.0,
+            "y1": 2520.0
+          },
+          "source": "D(1,1227,2486,2100,2520)",
+          "span": {
+            "offset": 3033,
+            "length": 60
+          }
+        },
+        {
+          "content": "NOTA: JIKALAU TIDAK DITANDA, HAD AKAN MENGIKUTI KADAR (RM500) YANG TELAH",
+          "confidence": 0.979659,
+          "geometry": {
+            "x0": 1230.0,
+            "y0": 2524.0,
+            "x1": 2287.0,
+            "y1": 2554.0
+          },
+          "source": "D(1,1230,2524,2287,2554)",
+          "span": {
+            "offset": 3094,
+            "length": 72
+          }
+        },
+        {
+          "content": "EMERGENCY CONTACT NO. / NO. TELEFON KECEMASAN",
+          "confidence": 0.983292,
+          "geometry": {
+            "x0": 103.0,
+            "y0": 2561.0,
+            "x1": 790.0,
+            "y1": 2591.0
+          },
+          "source": "D(1,103,2561,790,2591)",
+          "span": {
+            "offset": 3167,
+            "length": 45
+          }
+        },
+        {
+          "content": "DITETAPKAN OLEH PIHAK BANK",
+          "confidence": 0.998996,
+          "geometry": {
+            "x0": 1232.0,
+            "y0": 2561.0,
+            "x1": 1609.0,
+            "y1": 2588.0
+          },
+          "source": "D(1,1232,2561,1609,2588)",
+          "span": {
+            "offset": 3213,
+            "length": 26
+          }
+        },
+        {
+          "content": "4",
+          "confidence": 0.999983,
+          "geometry": {
+            "x0": 1241.0,
+            "y0": 2628.0,
+            "x1": 1267.0,
+            "y1": 2658.0
+          },
+          "source": "D(1,1241,2628,1267,2658)",
+          "span": {
+            "offset": 3240,
+            "length": 1
+          }
+        },
+        {
+          "content": "CARD DELIVERY AND BILLING OPTIONS INSTRUCTIONS",
+          "confidence": 0.993097,
+          "geometry": {
+            "x0": 1306.0,
+            "y0": 2626.0,
+            "x1": 2224.0,
+            "y1": 2659.0
+          },
+          "source": "D(1,1306,2626,2224,2659)",
+          "span": {
+            "offset": 3242,
+            "length": 46
+          }
+        },
+        {
+          "content": "PENGHANTARAN KAD DAN OPSYEN PENERIMAAN PENYATA",
+          "confidence": 0.99996,
+          "geometry": {
+            "x0": 1308.0,
+            "y0": 2661.0,
+            "x1": 2287.0,
+            "y1": 2694.0
+          },
+          "source": "D(1,1308,2661,2287,2694)",
+          "span": {
+            "offset": 3289,
+            "length": 46
+          }
+        },
+        {
+          "content": "RACE",
+          "confidence": 0.999817,
+          "geometry": {
+            "x0": 101.0,
+            "y0": 2671.0,
+            "x1": 178.0,
+            "y1": 2705.0
+          },
+          "source": "D(1,101,2671,178,2705)",
+          "span": {
+            "offset": 3336,
+            "length": 4
+          }
+        },
+        {
+          "content": "NATIONALITY",
+          "confidence": 0.999972,
+          "geometry": {
+            "x0": 569.0,
+            "y0": 2672.0,
+            "x1": 743.0,
+            "y1": 2703.0
+          },
+          "source": "D(1,569,2672,743,2703)",
+          "span": {
+            "offset": 3341,
+            "length": 11
+          }
+        },
+        {
+          "content": "BANGSA",
+          "confidence": 0.999989,
+          "geometry": {
+            "x0": 103.0,
+            "y0": 2707.0,
+            "x1": 210.0,
+            "y1": 2743.0
+          },
+          "source": "D(1,103,2707,210,2743)",
+          "span": {
+            "offset": 3353,
+            "length": 6
+          }
+        },
+        {
+          "content": "KEWARGANEGARAAN",
+          "confidence": 0.99997,
+          "geometry": {
+            "x0": 571.0,
+            "y0": 2709.0,
+            "x1": 828.0,
+            "y1": 2740.0
+          },
+          "source": "D(1,571,2709,828,2740)",
+          "span": {
+            "offset": 3360,
+            "length": 15
+          }
+        },
+        {
+          "content": "CARD COLLECTION INSTRUCTIONS / MAKLUMAN MENGENAI PENGHANTARAN KAD",
+          "confidence": 0.996558,
+          "geometry": {
+            "x0": 1227.0,
+            "y0": 2723.0,
+            "x1": 2227.0,
+            "y1": 2754.0
+          },
+          "source": "D(1,1227,2723,2227,2754)",
+          "span": {
+            "offset": 3376,
+            "length": 65
+          }
+        },
+        {
+          "content": "MAILING ADRESS / ALAMAT SURAT MENYURAT",
+          "confidence": 0.97908,
+          "geometry": {
+            "x0": 107.0,
+            "y0": 2765.0,
+            "x1": 688.0,
+            "y1": 2795.0
+          },
+          "source": "D(1,107,2765,688,2795)",
+          "span": {
+            "offset": 3442,
+            "length": 38
+          }
+        },
+        {
+          "content": "HOME ADDRESS / ALAMAT RUMAH",
+          "confidence": 0.997243,
+          "geometry": {
+            "x0": 1284.0,
+            "y0": 2786.0,
+            "x1": 1715.0,
+            "y1": 2816.0
+          },
+          "source": "D(1,1284,2786,1715,2816)",
+          "span": {
+            "offset": 3481,
+            "length": 27
+          }
+        },
+        {
+          "content": "OFFICE ADDRESS / ALAMAT PEJABAT",
+          "confidence": 0.981197,
+          "geometry": {
+            "x0": 1817.0,
+            "y0": 2784.0,
+            "x1": 2280.0,
+            "y1": 2815.0
+          },
+          "source": "D(1,1817,2784,2280,2815)",
+          "span": {
+            "offset": 3509,
+            "length": 31
+          }
+        },
+        {
+          "content": "PUBLIC BANK/PUBLIC ISLAMIC BANK BRANCH",
+          "confidence": 0.981832,
+          "geometry": {
+            "x0": 1288.0,
+            "y0": 2840.0,
+            "x1": 1873.0,
+            "y1": 2870.0
+          },
+          "source": "D(1,1288,2840,1873,2870)",
+          "span": {
+            "offset": 3541,
+            "length": 38
+          }
+        },
+        {
+          "content": "CAWANGAN PUBLIC BANK/PUBLIC ISLAMIC BANK",
+          "confidence": 0.998927,
+          "geometry": {
+            "x0": 1291.0,
+            "y0": 2879.0,
+            "x1": 1878.0,
+            "y1": 2909.0
+          },
+          "source": "D(1,1291,2879,1878,2909)",
+          "span": {
+            "offset": 3580,
+            "length": 40
+          }
+        },
+        {
+          "content": "PLEASE SPECIFY / SILA NYATAKAN",
+          "confidence": 0.985202,
+          "geometry": {
+            "x0": 1291.0,
+            "y0": 2949.0,
+            "x1": 1724.0,
+            "y1": 2979.0
+          },
+          "source": "D(1,1291,2949,1724,2979)",
+          "span": {
+            "offset": 3621,
+            "length": 30
+          }
+        },
+        {
+          "content": "POSTCODE / POSKOD",
+          "confidence": 0.970426,
+          "geometry": {
+            "x0": 106.0,
+            "y0": 2965.0,
+            "x1": 350.0,
+            "y1": 2996.0
+          },
+          "source": "D(1,106,2965,350,2996)",
+          "span": {
+            "offset": 3652,
+            "length": 17
+          }
+        },
+        {
+          "content": "STATE / NEGERI",
+          "confidence": 0.984589,
+          "geometry": {
+            "x0": 659.0,
+            "y0": 2965.0,
+            "x1": 842.0,
+            "y1": 2996.0
+          },
+          "source": "D(1,659,2965,842,2996)",
+          "span": {
+            "offset": 3670,
+            "length": 14
+          }
+        },
+        {
+          "content": "STATEMENT DELIVERY INSTRUCTIONS / MAKLUMAN MENGENAI PENERIMAAN PENYATA",
+          "confidence": 0.998359,
+          "geometry": {
+            "x0": 1226.0,
+            "y0": 3009.0,
+            "x1": 2300.0,
+            "y1": 3043.0
+          },
+          "source": "D(1,1226,3009,2300,3043)",
+          "span": {
+            "offset": 3685,
+            "length": 70
+          }
+        },
+        {
+          "content": "HOME TEL. NO.",
+          "confidence": 0.948771,
+          "geometry": {
+            "x0": 106.0,
+            "y0": 3019.0,
+            "x1": 299.0,
+            "y1": 3050.0
+          },
+          "source": "D(1,106,3019,299,3050)",
+          "span": {
+            "offset": 3756,
+            "length": 13
+          }
+        },
+        {
+          "content": "NO. TEL. RUMAH",
+          "confidence": 0.998574,
+          "geometry": {
+            "x0": 107.0,
+            "y0": 3055.0,
+            "x1": 312.0,
+            "y1": 3086.0
+          },
+          "source": "D(1,107,3055,312,3086)",
+          "span": {
+            "offset": 3770,
+            "length": 14
+          }
+        },
+        {
+          "content": "E-MAIL ADDRESS / ALAMAT E-MEL",
+          "confidence": 0.988875,
+          "geometry": {
+            "x0": 1283.0,
+            "y0": 3069.0,
+            "x1": 1718.0,
+            "y1": 3100.0
+          },
+          "source": "D(1,1283,3069,1718,3100)",
+          "span": {
+            "offset": 3785,
+            "length": 29
+          }
+        },
+        {
+          "content": "MOBILE NO.",
+          "confidence": 0.998692,
+          "geometry": {
+            "x0": 108.0,
+            "y0": 3105.0,
+            "x1": 264.0,
+            "y1": 3139.0
+          },
+          "source": "D(1,108,3105,264,3139)",
+          "span": {
+            "offset": 3815,
+            "length": 10
+          }
+        },
+        {
+          "content": "HOME ADDRESS / ALAMAT RUMAH",
+          "confidence": 0.995937,
+          "geometry": {
+            "x0": 1284.0,
+            "y0": 3132.0,
+            "x1": 1715.0,
+            "y1": 3164.0
+          },
+          "source": "D(1,1284,3132,1715,3164)",
+          "span": {
+            "offset": 3826,
+            "length": 27
+          }
+        },
+        {
+          "content": "OFFICE ADDRESS / ALAMAT PEJABAT",
+          "confidence": 0.996552,
+          "geometry": {
+            "x0": 1817.0,
+            "y0": 3132.0,
+            "x1": 2282.0,
+            "y1": 3164.0
+          },
+          "source": "D(1,1817,3132,2282,3164)",
+          "span": {
+            "offset": 3854,
+            "length": 31
+          }
+        },
+        {
+          "content": "NO. TELEFON MUDAH ALIH",
+          "confidence": 0.986694,
+          "geometry": {
+            "x0": 111.0,
+            "y0": 3143.0,
+            "x1": 435.0,
+            "y1": 3174.0
+          },
+          "source": "D(1,111,3143,435,3174)",
+          "span": {
+            "offset": 3886,
+            "length": 22
+          }
+        },
+        {
+          "content": "(A MONTHLY FEE OF RM1 IS CHARGEABLE FOR HARDCOPY STATEMENT / FI BULANAN",
+          "confidence": 0.983409,
+          "geometry": {
+            "x0": 1226.0,
+            "y0": 3191.0,
+            "x1": 2289.0,
+            "y1": 3225.0
+          },
+          "source": "D(1,1226,3191,2289,3225)",
+          "span": {
+            "offset": 3909,
+            "length": 71
+          }
+        },
+        {
+          "content": "SEBANYAK RM1 DIKENAKAN BAGI PENYATA DALAM SALINAN KERAS)",
+          "confidence": 0.991766,
+          "geometry": {
+            "x0": 1225.0,
+            "y0": 3227.0,
+            "x1": 2050.0,
+            "y1": 3263.0
+          },
+          "source": "D(1,1225,3227,2050,3263)",
+          "span": {
+            "offset": 3981,
+            "length": 56
+          }
+        },
+        {
+          "content": "PUBLIC BANK BERHAD 196501000672 (6463-H) / PUBLIC ISLAMIC BANK BERHAD 197301001433 (14328-V)",
+          "confidence": 0.995072,
+          "geometry": {
+            "x0": 54.0,
+            "y0": 3294.0,
+            "x1": 1460.0,
+            "y1": 3334.0
+          },
+          "source": "D(1,54,3294,1460,3334)",
+          "span": {
+            "offset": 4038,
+            "length": 92
+          }
+        },
+        {
+          "content": "FORMS/PBC009/REV261125/YJX",
+          "confidence": 0.999951,
+          "geometry": {
+            "x0": 1812.0,
+            "y0": 3301.0,
+            "x1": 2308.0,
+            "y1": 3336.0
+          },
+          "source": "D(1,1812,3301,2308,3336)",
+          "span": {
+            "offset": 4131,
+            "length": 26
+          }
+        },
+        {
+          "content": "O",
+          "confidence": 0.553474,
+          "geometry": {
+            "x0": 842.7249755859375,
+            "y0": 49.65462112426758,
+            "x1": 935.7279052734375,
+            "y1": 161.66078186035156
+          },
+          "source": "D(1,842,49,935,161)",
+          "span": {
+            "offset": 4158,
+            "length": 1
+          }
+        }
+      ]
+    },
+    {
+      "pageNumber": 2,
+      "angle": 0,
+      "width": 2382,
+      "height": 3368,
+      "spans": [
+        {
+          "offset": 0,
+          "length": 7919
+        }
+      ],
+      "words": [
+        {
+          "content": "5",
+          "confidence": 0.999993,
+          "geometry": {
+            "x0": 115.0,
+            "y0": 52.0,
+            "x1": 141.0,
+            "y1": 83.0
+          },
+          "source": "D(2,115,52,141,83)",
+          "span": {
+            "offset": 0,
+            "length": 1
+          }
+        },
+        {
+          "content": "PREFERENCE TO RECEIVE E-INVOICE (MANDATORY FOR",
+          "confidence": 0.990157,
+          "geometry": {
+            "x0": 180.0,
+            "y0": 52.0,
+            "x1": 1155.0,
+            "y1": 86.0
+          },
+          "source": "D(2,180,52,1155,86)",
+          "span": {
+            "offset": 2,
+            "length": 46
+          }
+        },
+        {
+          "content": "7",
+          "confidence": 0.99999,
+          "geometry": {
+            "x0": 1245.0,
+            "y0": 53.0,
+            "x1": 1275.0,
+            "y1": 87.0
+          },
+          "source": "D(2,1245,53,1275,87)",
+          "span": {
+            "offset": 49,
+            "length": 1
+          }
+        },
+        {
+          "content": "POLITICALLY EXPOSED PERSON (PEP) DECLARATION",
+          "confidence": 0.999465,
+          "geometry": {
+            "x0": 1311.0,
+            "y0": 52.0,
+            "x1": 2148.0,
+            "y1": 87.0
+          },
+          "source": "D(2,1311,52,2148,87)",
+          "span": {
+            "offset": 51,
+            "length": 44
+          }
+        },
+        {
+          "content": "SEPARATE MONTHLY STATEMENT) / KEUTAMAAN UNTUK",
+          "confidence": 0.997906,
+          "geometry": {
+            "x0": 180.0,
+            "y0": 90.0,
+            "x1": 1158.0,
+            "y1": 124.0
+          },
+          "source": "D(2,180,90,1158,124)",
+          "span": {
+            "offset": 96,
+            "length": 45
+          }
+        },
+        {
+          "content": "PERAKUAN ORANG YANG TERDEDAH KEPADA POLITIK (PEP)",
+          "confidence": 0.984301,
+          "geometry": {
+            "x0": 1313.0,
+            "y0": 89.0,
+            "x1": 2261.0,
+            "y1": 124.0
+          },
+          "source": "D(2,1313,89,2261,124)",
+          "span": {
+            "offset": 142,
+            "length": 49
+          }
+        },
+        {
+          "content": "MENERIMA E-INVOIS (WAJIB UNTUK PENYATA BULANAN",
+          "confidence": 0.993814,
+          "geometry": {
+            "x0": 181.0,
+            "y0": 128.0,
+            "x1": 1157.0,
+            "y1": 162.0
+          },
+          "source": "D(2,181,128,1157,162)",
+          "span": {
+            "offset": 192,
+            "length": 46
+          }
+        },
+        {
+          "content": "BERASINGAN)",
+          "confidence": 0.999015,
+          "geometry": {
+            "x0": 182.0,
+            "y0": 166.0,
+            "x1": 414.0,
+            "y1": 202.0
+          },
+          "source": "D(2,182,166,414,202)",
+          "span": {
+            "offset": 239,
+            "length": 11
+          }
+        },
+        {
+          "content": "Yes, I am a Politicaly Exposed Person (PEP) or a family members and close",
+          "confidence": 0.992155,
+          "geometry": {
+            "x0": 1295.0,
+            "y0": 165.0,
+            "x1": 2291.0,
+            "y1": 199.0
+          },
+          "source": "D(2,1295,165,2291,199)",
+          "span": {
+            "offset": 251,
+            "length": 73
+          }
+        },
+        {
+          "content": "associate of a PEP / Ya, saya adalah Orang yang Terdedah Kepada Politik (PEP) atau",
+          "confidence": 0.995697,
+          "geometry": {
+            "x0": 1292.0,
+            "y0": 203.0,
+            "x1": 2293.0,
+            "y1": 239.0
+          },
+          "source": "D(2,1292,203,2293,239)",
+          "span": {
+            "offset": 325,
+            "length": 82
+          }
+        },
+        {
+          "content": "WOULD YOU LIKE TO REGISTER FOR E-INVOICE?",
+          "confidence": 0.997092,
+          "geometry": {
+            "x0": 102.0,
+            "y0": 230.0,
+            "x1": 702.0,
+            "y1": 260.0
+          },
+          "source": "D(2,102,230,702,260)",
+          "span": {
+            "offset": 408,
+            "length": 41
+          }
+        },
+        {
+          "content": "YES / YA",
+          "confidence": 0.938281,
+          "geometry": {
+            "x0": 809.0,
+            "y0": 241.0,
+            "x1": 925.0,
+            "y1": 280.0
+          },
+          "source": "D(2,809,241,925,280)",
+          "span": {
+            "offset": 450,
+            "length": 8
+          }
+        },
+        {
+          "content": "NO / TIDAK",
+          "confidence": 0.952749,
+          "geometry": {
+            "x0": 1023.0,
+            "y0": 243.0,
+            "x1": 1170.0,
+            "y1": 282.0
+          },
+          "source": "D(2,1023,243,1170,282)",
+          "span": {
+            "offset": 459,
+            "length": 10
+          }
+        },
+        {
+          "content": "ahli keluarga dan rakan rapat PEP",
+          "confidence": 0.989826,
+          "geometry": {
+            "x0": 1296.0,
+            "y0": 244.0,
+            "x1": 1696.0,
+            "y1": 275.0
+          },
+          "source": "D(2,1296,244,1696,275)",
+          "span": {
+            "offset": 470,
+            "length": 33
+          }
+        },
+        {
+          "content": "ADAKAH ANDA INGIN MENDAFTAR UNTUK E-INVOIS?",
+          "confidence": 0.99942,
+          "geometry": {
+            "x0": 102.0,
+            "y0": 268.0,
+            "x1": 731.0,
+            "y1": 298.0
+          },
+          "source": "D(2,102,268,731,298)",
+          "span": {
+            "offset": 504,
+            "length": 43
+          }
+        },
+        {
+          "content": "POSITION HELD",
+          "confidence": 0.999786,
+          "geometry": {
+            "x0": 1232.0,
+            "y0": 291.0,
+            "x1": 1429.0,
+            "y1": 322.0
+          },
+          "source": "D(2,1232,291,1429,322)",
+          "span": {
+            "offset": 548,
+            "length": 13
+          }
+        },
+        {
+          "content": "NOTE: IF YOU TICK \"NO\", NO E-INVOICE WILL BE GENERATED/ISSUED TO YOU.",
+          "confidence": 0.987281,
+          "geometry": {
+            "x0": 100.0,
+            "y0": 316.0,
+            "x1": 1028.0,
+            "y1": 346.0
+          },
+          "source": "D(2,100,316,1028,346)",
+          "span": {
+            "offset": 562,
+            "length": 69
+          }
+        },
+        {
+          "content": "JAWATAN DIPEGANG",
+          "confidence": 0.999877,
+          "geometry": {
+            "x0": 1234.0,
+            "y0": 329.0,
+            "x1": 1488.0,
+            "y1": 359.0
+          },
+          "source": "D(2,1234,329,1488,359)",
+          "span": {
+            "offset": 632,
+            "length": 16
+          }
+        },
+        {
+          "content": "NOTA: JIKA ANDA TANDA \"TIDAK\", TIADA E-INVOIS AKAN DIKELUARKAN KEPADA ANDA.",
+          "confidence": 0.980743,
+          "geometry": {
+            "x0": 102.0,
+            "y0": 358.0,
+            "x1": 1141.0,
+            "y1": 385.0
+          },
+          "source": "D(2,102,358,1141,385)",
+          "span": {
+            "offset": 649,
+            "length": 75
+          }
+        },
+        {
+          "content": "Please (1) tick your preference to receive and/or be informed of the products and",
+          "confidence": 0.987556,
+          "geometry": {
+            "x0": 1231.0,
+            "y0": 377.0,
+            "x1": 2281.0,
+            "y1": 410.0
+          },
+          "source": "D(2,1231,377,2281,410)",
+          "span": {
+            "offset": 725,
+            "length": 81
+          }
+        },
+        {
+          "content": "TAX IDENTIFICATION NUMBER (TIN)",
+          "confidence": 0.999131,
+          "geometry": {
+            "x0": 99.0,
+            "y0": 412.0,
+            "x1": 550.0,
+            "y1": 447.0
+          },
+          "source": "D(2,99,412,550,447)",
+          "span": {
+            "offset": 807,
+            "length": 31
+          }
+        },
+        {
+          "content": "services, promotional offers and marketing material of the Bank and its Affiliates",
+          "confidence": 0.995894,
+          "geometry": {
+            "x0": 1230.0,
+            "y0": 416.0,
+            "x1": 2280.0,
+            "y1": 449.0
+          },
+          "source": "D(2,1230,416,2280,449)",
+          "span": {
+            "offset": 839,
+            "length": 82
+          }
+        },
+        {
+          "content": "NOMBOR PENGENALAN CUKAI (TIN)",
+          "confidence": 0.997662,
+          "geometry": {
+            "x0": 101.0,
+            "y0": 450.0,
+            "x1": 528.0,
+            "y1": 485.0
+          },
+          "source": "D(2,101,450,528,485)",
+          "span": {
+            "offset": 922,
+            "length": 29
+          }
+        },
+        {
+          "content": "and strategic business partners. / Sila tandakan () mengikut pilihan anda untuk",
+          "confidence": 0.982528,
+          "geometry": {
+            "x0": 1231.0,
+            "y0": 454.0,
+            "x1": 2283.0,
+            "y1": 487.0
+          },
+          "source": "D(2,1231,454,2283,487)",
+          "span": {
+            "offset": 952,
+            "length": 79
+          }
+        },
+        {
+          "content": "NOTE: E-INVOICE CANNOT BE GENERATED/ISSUED UNTIL A VALID TIN IS PROVIDED.",
+          "confidence": 0.986471,
+          "geometry": {
+            "x0": 100.0,
+            "y0": 498.0,
+            "x1": 1089.0,
+            "y1": 528.0
+          },
+          "source": "D(2,100,498,1089,528)",
+          "span": {
+            "offset": 1032,
+            "length": 73
+          }
+        },
+        {
+          "content": "menerima dan/atau dimaklumkan mengenai produk dan perkhidmatan, tawaran promosi",
+          "confidence": 0.988696,
+          "geometry": {
+            "x0": 1232.0,
+            "y0": 490.0,
+            "x1": 2282.0,
+            "y1": 522.0
+          },
+          "source": "D(2,1232,490,2282,522)",
+          "span": {
+            "offset": 1106,
+            "length": 79
+          }
+        },
+        {
+          "content": "dan bahan pemasaran Bank dan Anggota Gabungan serta rakan kongsi perniagaan",
+          "confidence": 0.996537,
+          "geometry": {
+            "x0": 1232.0,
+            "y0": 525.0,
+            "x1": 2282.0,
+            "y1": 560.0
+          },
+          "source": "D(2,1232,525,2282,560)",
+          "span": {
+            "offset": 1186,
+            "length": 75
+          }
+        },
+        {
+          "content": "NOTA: E-INVOIS TIDAK BOLEH DIKELUARKAN SEHINGGA TIN YANG SAH DIKEMUKAKAN.",
+          "confidence": 0.997889,
+          "geometry": {
+            "x0": 101.0,
+            "y0": 535.0,
+            "x1": 1130.0,
+            "y1": 565.0
+          },
+          "source": "D(2,101,535,1130,565)",
+          "span": {
+            "offset": 1262,
+            "length": 73
+          }
+        },
+        {
+          "content": "strategiknya.",
+          "confidence": 0.999947,
+          "geometry": {
+            "x0": 1232.0,
+            "y0": 562.0,
+            "x1": 1389.0,
+            "y1": 596.0
+          },
+          "source": "D(2,1232,562,1389,596)",
+          "span": {
+            "offset": 1336,
+            "length": 13
+          }
+        },
+        {
+          "content": "SALES & SERVICE TAX (SST) REGISTRATION NUMBER (MANDATORY FOR SST",
+          "confidence": 0.992107,
+          "geometry": {
+            "x0": 100.0,
+            "y0": 583.0,
+            "x1": 1159.0,
+            "y1": 617.0
+          },
+          "source": "D(2,100,583,1159,617)",
+          "span": {
+            "offset": 1350,
+            "length": 64
+          }
+        },
+        {
+          "content": "REGISTRANT) / NOMBOR PENDAFTARAN CUKAI JUALAN & PERKIHDMATAN (WAJIB",
+          "confidence": 0.989847,
+          "geometry": {
+            "x0": 100.0,
+            "y0": 622.0,
+            "x1": 1162.0,
+            "y1": 657.0
+          },
+          "source": "D(2,100,622,1162,657)",
+          "span": {
+            "offset": 1415,
+            "length": 67
+          }
+        },
+        {
+          "content": "Yes / Ya",
+          "confidence": 0.988911,
+          "geometry": {
+            "x0": 1296.0,
+            "y0": 614.0,
+            "x1": 1400.0,
+            "y1": 651.0
+          },
+          "source": "D(2,1296,614,1400,651)",
+          "span": {
+            "offset": 1483,
+            "length": 8
+          }
+        },
+        {
+          "content": "No / Tidak",
+          "confidence": 0.995584,
+          "geometry": {
+            "x0": 1651.0,
+            "y0": 616.0,
+            "x1": 1781.0,
+            "y1": 652.0
+          },
+          "source": "D(2,1651,616,1781,652)",
+          "span": {
+            "offset": 1492,
+            "length": 10
+          }
+        },
+        {
+          "content": "UNTUK PENDAFTAR SST)",
+          "confidence": 0.982102,
+          "geometry": {
+            "x0": 101.0,
+            "y0": 659.0,
+            "x1": 402.0,
+            "y1": 696.0
+          },
+          "source": "D(2,101,659,402,696)",
+          "span": {
+            "offset": 1503,
+            "length": 20
+          }
+        },
+        {
+          "content": "By signing below, I confirm that I have read and agree to abide all the declarations as",
+          "confidence": 0.982615,
+          "geometry": {
+            "x0": 1235.0,
+            "y0": 689.0,
+            "x1": 2287.0,
+            "y1": 719.0
+          },
+          "source": "D(2,1235,689,2287,719)",
+          "span": {
+            "offset": 1524,
+            "length": 87
+          }
+        },
+        {
+          "content": "stated in the overleaf application and the Terms & Conditions of the respective Credit Card",
+          "confidence": 0.998184,
+          "geometry": {
+            "x0": 1232.0,
+            "y0": 727.0,
+            "x1": 2287.0,
+            "y1": 757.0
+          },
+          "source": "D(2,1232,727,2287,757)",
+          "span": {
+            "offset": 1612,
+            "length": 91
+          }
+        },
+        {
+          "content": "that includes the Product Disclosure Sheet which is available at www.pbebank.com or at",
+          "confidence": 0.996263,
+          "geometry": {
+            "x0": 1232.0,
+            "y0": 763.0,
+            "x1": 2288.0,
+            "y1": 796.0
+          },
+          "source": "D(2,1232,763,2288,796)",
+          "span": {
+            "offset": 1704,
+            "length": 86
+          }
+        },
+        {
+          "content": "6",
+          "confidence": 0.999985,
+          "geometry": {
+            "x0": 118.0,
+            "y0": 787.0,
+            "x1": 143.0,
+            "y1": 817.0
+          },
+          "source": "D(2,118,787,143,817)",
+          "span": {
+            "offset": 1791,
+            "length": 1
+          }
+        },
+        {
+          "content": "FATCA AND CRS SELF-CERTIFICATION/ PENGESAHAN",
+          "confidence": 0.995861,
+          "geometry": {
+            "x0": 183.0,
+            "y0": 787.0,
+            "x1": 1054.0,
+            "y1": 817.0
+          },
+          "source": "D(2,183,787,1054,817)",
+          "span": {
+            "offset": 1793,
+            "length": 44
+          }
+        },
+        {
+          "content": "any Public Bank/Public Islamic Bank branches. / Dengan menandatangani di bawah, saya",
+          "confidence": 0.989947,
+          "geometry": {
+            "x0": 1231.0,
+            "y0": 801.0,
+            "x1": 2289.0,
+            "y1": 836.0
+          },
+          "source": "D(2,1231,801,2289,836)",
+          "span": {
+            "offset": 1838,
+            "length": 84
+          }
+        },
+        {
+          "content": "DIRI-FATCA DAN CRS",
+          "confidence": 0.999686,
+          "geometry": {
+            "x0": 185.0,
+            "y0": 823.0,
+            "x1": 526.0,
+            "y1": 854.0
+          },
+          "source": "D(2,185,823,526,854)",
+          "span": {
+            "offset": 1923,
+            "length": 18
+          }
+        },
+        {
+          "content": "mengesahkan bahawa saya telah membaca dan bersetuju untuk mematuhi semua",
+          "confidence": 0.992042,
+          "geometry": {
+            "x0": 1232.0,
+            "y0": 840.0,
+            "x1": 2291.0,
+            "y1": 874.0
+          },
+          "source": "D(2,1232,840,2291,874)",
+          "span": {
+            "offset": 1942,
+            "length": 72
+          }
+        },
+        {
+          "content": "Are you a resident for tax purposes in any country other than Malaysia? / Adakah anda",
+          "confidence": 0.987348,
+          "geometry": {
+            "x0": 103.0,
+            "y0": 885.0,
+            "x1": 1165.0,
+            "y1": 920.0
+          },
+          "source": "D(2,103,885,1165,920)",
+          "span": {
+            "offset": 2015,
+            "length": 85
+          }
+        },
+        {
+          "content": "pengesahan dalam permohonan pada halaman seterusnya dan juga mematuhi segala",
+          "confidence": 0.994853,
+          "geometry": {
+            "x0": 1233.0,
+            "y0": 880.0,
+            "x1": 2290.0,
+            "y1": 913.0
+          },
+          "source": "D(2,1233,880,2290,913)",
+          "span": {
+            "offset": 2101,
+            "length": 76
+          }
+        },
+        {
+          "content": "pemastautin yang membayar cukai di mana-mana negara selain Malaysia?",
+          "confidence": 0.993195,
+          "geometry": {
+            "x0": 103.0,
+            "y0": 921.0,
+            "x1": 1000.0,
+            "y1": 957.0
+          },
+          "source": "D(2,103,921,1000,957)",
+          "span": {
+            "offset": 2178,
+            "length": 68
+          }
+        },
+        {
+          "content": "Terma dan Syarat yang berkaitan dengan Kad Kredit tertentu termasuk Lembaran",
+          "confidence": 0.998265,
+          "geometry": {
+            "x0": 1234.0,
+            "y0": 916.0,
+            "x1": 2291.0,
+            "y1": 951.0
+          },
+          "source": "D(2,1234,916,2291,951)",
+          "span": {
+            "offset": 2247,
+            "length": 76
+          }
+        },
+        {
+          "content": "Pendedahan Produk yang boleh diperoleh di www.pbebank.com atau cawangan Public",
+          "confidence": 0.999604,
+          "geometry": {
+            "x0": 1233.0,
+            "y0": 954.0,
+            "x1": 2290.0,
+            "y1": 989.0
+          },
+          "source": "D(2,1233,954,2290,989)",
+          "span": {
+            "offset": 2324,
+            "length": 78
+          }
+        },
+        {
+          "content": "YES. Please indicate Country of Tax Residency and Tax ID Number / YA. Sila",
+          "confidence": 0.988751,
+          "geometry": {
+            "x0": 160.0,
+            "y0": 975.0,
+            "x1": 1164.0,
+            "y1": 1010.0
+          },
+          "source": "D(2,160,975,1164,1010)",
+          "span": {
+            "offset": 2403,
+            "length": 74
+          }
+        },
+        {
+          "content": "Bank/Public Islamic Bank yang berdekatan.",
+          "confidence": 0.999479,
+          "geometry": {
+            "x0": 1234.0,
+            "y0": 993.0,
+            "x1": 1747.0,
+            "y1": 1026.0
+          },
+          "source": "D(2,1234,993,1747,1026)",
+          "span": {
+            "offset": 2478,
+            "length": 41
+          }
+        },
+        {
+          "content": "nyatakan Negara Residensi Cukai dan Nombor ID Cukai",
+          "confidence": 0.995286,
+          "geometry": {
+            "x0": 162.0,
+            "y0": 1012.0,
+            "x1": 824.0,
+            "y1": 1048.0
+          },
+          "source": "D(2,162,1012,824,1048)",
+          "span": {
+            "offset": 2520,
+            "length": 51
+          }
+        },
+        {
+          "content": "COUNTRY OF TAX RESIDENCY / NEGARA RESIDENSI CUKAI",
+          "confidence": 0.986671,
+          "geometry": {
+            "x0": 105.0,
+            "y0": 1078.0,
+            "x1": 818.0,
+            "y1": 1108.0
+          },
+          "source": "D(2,105,1078,818,1108)",
+          "span": {
+            "offset": 2572,
+            "length": 49
+          }
+        },
+        {
+          "content": "TAX ID NUMBER / NOMBOR ID CUKAI",
+          "confidence": 0.998425,
+          "geometry": {
+            "x0": 103.0,
+            "y0": 1208.0,
+            "x1": 558.0,
+            "y1": 1238.0
+          },
+          "source": "D(2,103,1208,558,1238)",
+          "span": {
+            "offset": 2622,
+            "length": 31
+          }
+        },
+        {
+          "content": "If no Tax ID Number, please indicate the reason / Jika tiada Nombor ID Cukai, sila nyatakan sebabnya",
+          "confidence": 0.995405,
+          "geometry": {
+            "x0": 101.0,
+            "y0": 1264.0,
+            "x1": 1164.0,
+            "y1": 1299.0
+          },
+          "source": "D(2,101,1264,1164,1299)",
+          "span": {
+            "offset": 2654,
+            "length": 100
+          }
+        },
+        {
+          "content": "Please sign here with dark black ink only.",
+          "confidence": 0.990556,
+          "geometry": {
+            "x0": 1234.0,
+            "y0": 1314.0,
+            "x1": 1732.0,
+            "y1": 1345.0
+          },
+          "source": "D(2,1234,1314,1732,1345)",
+          "span": {
+            "offset": 2755,
+            "length": 42
+          }
+        },
+        {
+          "content": "Please sign here with dark black ink",
+          "confidence": 0.99942,
+          "geometry": {
+            "x0": 1793.0,
+            "y0": 1314.0,
+            "x1": 2289.0,
+            "y1": 1345.0
+          },
+          "source": "D(2,1793,1314,2289,1345)",
+          "span": {
+            "offset": 2798,
+            "length": 36
+          }
+        },
+        {
+          "content": "Signature must not exceed box",
+          "confidence": 0.998679,
+          "geometry": {
+            "x0": 1233.0,
+            "y0": 1349.0,
+            "x1": 1736.0,
+            "y1": 1383.0
+          },
+          "source": "D(2,1233,1349,1736,1383)",
+          "span": {
+            "offset": 2835,
+            "length": 29
+          }
+        },
+        {
+          "content": "only. Signature must not exceed box",
+          "confidence": 0.998601,
+          "geometry": {
+            "x0": 1792.0,
+            "y0": 1351.0,
+            "x1": 2289.0,
+            "y1": 1381.0
+          },
+          "source": "D(2,1792,1351,2289,1381)",
+          "span": {
+            "offset": 2865,
+            "length": 35
+          }
+        },
+        {
+          "content": "CERTIFIED RELEVANT AND VALID FATCA DOCUMENTS / DOKUMEN FATCA YANG",
+          "confidence": 0.986576,
+          "geometry": {
+            "x0": 105.0,
+            "y0": 1386.0,
+            "x1": 1092.0,
+            "y1": 1416.0
+          },
+          "source": "D(2,105,1386,1092,1416)",
+          "span": {
+            "offset": 2901,
+            "length": 65
+          }
+        },
+        {
+          "content": "boundaries. / Sila tandatangan di sini",
+          "confidence": 0.990235,
+          "geometry": {
+            "x0": 1232.0,
+            "y0": 1385.0,
+            "x1": 1736.0,
+            "y1": 1417.0
+          },
+          "source": "D(2,1232,1385,1736,1417)",
+          "span": {
+            "offset": 2967,
+            "length": 38
+          }
+        },
+        {
+          "content": "boundaries. / Sila tandatangan di sini",
+          "confidence": 0.984351,
+          "geometry": {
+            "x0": 1792.0,
+            "y0": 1387.0,
+            "x1": 2291.0,
+            "y1": 1417.0
+          },
+          "source": "D(2,1792,1387,2291,1417)",
+          "span": {
+            "offset": 3006,
+            "length": 38
+          }
+        },
+        {
+          "content": "DISAHKAN BERKAITAN DAN SAH",
+          "confidence": 0.999704,
+          "geometry": {
+            "x0": 106.0,
+            "y0": 1423.0,
+            "x1": 494.0,
+            "y1": 1453.0
+          },
+          "source": "D(2,106,1423,494,1453)",
+          "span": {
+            "offset": 3045,
+            "length": 26
+          }
+        },
+        {
+          "content": "dengan menggunakan dakwat hitam",
+          "confidence": 0.999003,
+          "geometry": {
+            "x0": 1234.0,
+            "y0": 1420.0,
+            "x1": 1737.0,
+            "y1": 1455.0
+          },
+          "source": "D(2,1234,1420,1737,1455)",
+          "span": {
+            "offset": 3072,
+            "length": 31
+          }
+        },
+        {
+          "content": "dengan menggunakan dakwat hitam",
+          "confidence": 0.997923,
+          "geometry": {
+            "x0": 1793.0,
+            "y0": 1423.0,
+            "x1": 2290.0,
+            "y1": 1454.0
+          },
+          "source": "D(2,1793,1423,2290,1454)",
+          "span": {
+            "offset": 3104,
+            "length": 31
+          }
+        },
+        {
+          "content": "sahaja. Tandatangan hendaklah tidak",
+          "confidence": 0.98285,
+          "geometry": {
+            "x0": 1235.0,
+            "y0": 1458.0,
+            "x1": 1736.0,
+            "y1": 1490.0
+          },
+          "source": "D(2,1235,1458,1736,1490)",
+          "span": {
+            "offset": 3136,
+            "length": 35
+          }
+        },
+        {
+          "content": "sahaja. Tandatangan hendaklah tidak",
+          "confidence": 0.996171,
+          "geometry": {
+            "x0": 1793.0,
+            "y0": 1458.0,
+            "x1": 2291.0,
+            "y1": 1490.0
+          },
+          "source": "D(2,1793,1458,2291,1490)",
+          "span": {
+            "offset": 3172,
+            "length": 35
+          }
+        },
+        {
+          "content": "FORM W-9 / BORANG W-9",
+          "confidence": 0.970704,
+          "geometry": {
+            "x0": 160.0,
+            "y0": 1487.0,
+            "x1": 485.0,
+            "y1": 1518.0
+          },
+          "source": "D(2,160,1487,485,1518)",
+          "span": {
+            "offset": 3208,
+            "length": 21
+          }
+        },
+        {
+          "content": "FORM W-8BEN / BORANG W-8BEN",
+          "confidence": 0.966632,
+          "geometry": {
+            "x0": 682.0,
+            "y0": 1487.0,
+            "x1": 1107.0,
+            "y1": 1518.0
+          },
+          "source": "D(2,682,1487,1107,1518)",
+          "span": {
+            "offset": 3230,
+            "length": 27
+          }
+        },
+        {
+          "content": "melebihi sempadan petak.",
+          "confidence": 0.999281,
+          "geometry": {
+            "x0": 1235.0,
+            "y0": 1495.0,
+            "x1": 1557.0,
+            "y1": 1526.0
+          },
+          "source": "D(2,1235,1495,1557,1526)",
+          "span": {
+            "offset": 3258,
+            "length": 24
+          }
+        },
+        {
+          "content": "melebihi sempadan petak.",
+          "confidence": 0.999761,
+          "geometry": {
+            "x0": 1793.0,
+            "y0": 1496.0,
+            "x1": 2113.0,
+            "y1": 1526.0
+          },
+          "source": "D(2,1793,1496,2113,1526)",
+          "span": {
+            "offset": 3283,
+            "length": 24
+          }
+        },
+        {
+          "content": "OTHERS, PLEASE SPECIFY",
+          "confidence": 0.999561,
+          "geometry": {
+            "x0": 159.0,
+            "y0": 1545.0,
+            "x1": 490.0,
+            "y1": 1581.0
+          },
+          "source": "D(2,159,1545,490,1581)",
+          "span": {
+            "offset": 3308,
+            "length": 22
+          }
+        },
+        {
+          "content": "SIGNATURE: PRINCIPAL CARD APPLICANT",
+          "confidence": 0.999191,
+          "geometry": {
+            "x0": 1234.0,
+            "y0": 1558.0,
+            "x1": 1703.0,
+            "y1": 1585.0
+          },
+          "source": "D(2,1234,1558,1703,1585)",
+          "span": {
+            "offset": 3331,
+            "length": 35
+          }
+        },
+        {
+          "content": "SIGNATURE: SUPPLEMENTARY CARD APPLICANT",
+          "confidence": 0.991541,
+          "geometry": {
+            "x0": 1793.0,
+            "y0": 1558.0,
+            "x1": 2273.0,
+            "y1": 1585.0
+          },
+          "source": "D(2,1793,1558,2273,1585)",
+          "span": {
+            "offset": 3367,
+            "length": 39
+          }
+        },
+        {
+          "content": "LAIN-LAIN, SILA NYATAKAN",
+          "confidence": 0.997079,
+          "geometry": {
+            "x0": 160.0,
+            "y0": 1584.0,
+            "x1": 492.0,
+            "y1": 1617.0
+          },
+          "source": "D(2,160,1584,492,1617)",
+          "span": {
+            "offset": 3407,
+            "length": 24
+          }
+        },
+        {
+          "content": "TANDATANGAN: PEMOHON KAD UTAMA",
+          "confidence": 0.998726,
+          "geometry": {
+            "x0": 1237.0,
+            "y0": 1595.0,
+            "x1": 1686.0,
+            "y1": 1622.0
+          },
+          "source": "D(2,1237,1595,1686,1622)",
+          "span": {
+            "offset": 3432,
+            "length": 30
+          }
+        },
+        {
+          "content": "TANDATANGAN: PEMOHON KAD TAMBAHAN",
+          "confidence": 0.999558,
+          "geometry": {
+            "x0": 1794.0,
+            "y0": 1592.0,
+            "x1": 2269.0,
+            "y1": 1623.0
+          },
+          "source": "D(2,1794,1592,2269,1623)",
+          "span": {
+            "offset": 3463,
+            "length": 33
+          }
+        },
+        {
+          "content": "DATE FULL DOCUMENTS FURNISHED (DD-MM-YY)",
+          "confidence": 0.999474,
+          "geometry": {
+            "x0": 101.0,
+            "y0": 1625.0,
+            "x1": 728.0,
+            "y1": 1661.0
+          },
+          "source": "D(2,101,1625,728,1661)",
+          "span": {
+            "offset": 3497,
+            "length": 40
+          }
+        },
+        {
+          "content": "TARIKH DOKUMEN LENGKAP DIBEKALKAN (HH-BB-TT)",
+          "confidence": 0.999714,
+          "geometry": {
+            "x0": 104.0,
+            "y0": 1662.0,
+            "x1": 744.0,
+            "y1": 1697.0
+          },
+          "source": "D(2,104,1662,744,1697)",
+          "span": {
+            "offset": 3538,
+            "length": 44
+          }
+        },
+        {
+          "content": "DATE: / TARIKH:",
+          "confidence": 0.988666,
+          "geometry": {
+            "x0": 1233.0,
+            "y0": 1668.0,
+            "x1": 1431.0,
+            "y1": 1702.0
+          },
+          "source": "D(2,1233,1668,1431,1702)",
+          "span": {
+            "offset": 3583,
+            "length": 15
+          }
+        },
+        {
+          "content": "DATE: / TARIKH:",
+          "confidence": 0.987409,
+          "geometry": {
+            "x0": 1791.0,
+            "y0": 1668.0,
+            "x1": 1990.0,
+            "y1": 1702.0
+          },
+          "source": "D(2,1791,1668,1990,1702)",
+          "span": {
+            "offset": 3599,
+            "length": 15
+          }
+        },
+        {
+          "content": "FOR BANK'S USE / UNTUK KEGUNAAN BANK",
+          "confidence": 0.981076,
+          "geometry": {
+            "x0": 102.0,
+            "y0": 1767.0,
+            "x1": 796.0,
+            "y1": 1800.0
+          },
+          "source": "D(2,102,1767,796,1800)",
+          "span": {
+            "offset": 3615,
+            "length": 36
+          }
+        },
+        {
+          "content": "EMPLOYEE NO.",
+          "confidence": 0.999479,
+          "geometry": {
+            "x0": 989.0,
+            "y0": 1769.0,
+            "x1": 1180.0,
+            "y1": 1800.0
+          },
+          "source": "D(2,989,1769,1180,1800)",
+          "span": {
+            "offset": 3652,
+            "length": 12
+          }
+        },
+        {
+          "content": "BRANCH NUMBER",
+          "confidence": 0.999337,
+          "geometry": {
+            "x0": 1829.0,
+            "y0": 1769.0,
+            "x1": 2057.0,
+            "y1": 1799.0
+          },
+          "source": "D(2,1829,1769,2057,1799)",
+          "span": {
+            "offset": 3665,
+            "length": 13
+          }
+        },
+        {
+          "content": "NO. KAKITANGAN",
+          "confidence": 0.968586,
+          "geometry": {
+            "x0": 990.0,
+            "y0": 1805.0,
+            "x1": 1201.0,
+            "y1": 1836.0
+          },
+          "source": "D(2,990,1805,1201,1836)",
+          "span": {
+            "offset": 3679,
+            "length": 14
+          }
+        },
+        {
+          "content": "NOMBOR CAWANGAN",
+          "confidence": 0.999896,
+          "geometry": {
+            "x0": 1831.0,
+            "y0": 1806.0,
+            "x1": 2093.0,
+            "y1": 1836.0
+          },
+          "source": "D(2,1831,1806,2093,1836)",
+          "span": {
+            "offset": 3694,
+            "length": 15
+          }
+        },
+        {
+          "content": "DATE OF SUBMISSION (DD-MM-YY)",
+          "confidence": 0.999867,
+          "geometry": {
+            "x0": 103.0,
+            "y0": 1856.0,
+            "x1": 661.0,
+            "y1": 1890.0
+          },
+          "source": "D(2,103,1856,661,1890)",
+          "span": {
+            "offset": 3710,
+            "length": 29
+          }
+        },
+        {
+          "content": "SOURCE CODE:",
+          "confidence": 0.999488,
+          "geometry": {
+            "x0": 1465.0,
+            "y0": 1871.0,
+            "x1": 1655.0,
+            "y1": 1903.0
+          },
+          "source": "D(2,1465,1871,1655,1903)",
+          "span": {
+            "offset": 3740,
+            "length": 12
+          }
+        },
+        {
+          "content": "TARIKH PENGHANTARAN (HH-BB-TT)",
+          "confidence": 0.999781,
+          "geometry": {
+            "x0": 101.0,
+            "y0": 1892.0,
+            "x1": 665.0,
+            "y1": 1928.0
+          },
+          "source": "D(2,101,1892,665,1928)",
+          "span": {
+            "offset": 3753,
+            "length": 30
+          }
+        },
+        {
+          "content": "APPLY ONLINE AT WWW.PBEBANK.COM / MOHONLAH MELALUI WWW.PBEBANK.COM; OR/ATAU",
+          "confidence": 0.981333,
+          "geometry": {
+            "x0": 156.0,
+            "y0": 1963.0,
+            "x1": 1512.0,
+            "y1": 1993.0
+          },
+          "source": "D(2,156,1963,1512,1993)",
+          "span": {
+            "offset": 3784,
+            "length": 75
+          }
+        },
+        {
+          "content": "SEND COMPLETED APPLICATION FORM AND SUPPORTING DOCUMENTS TO ANY PUBLIC BANK/PUBLIC ISLAMIC BANK BRANCH OR DIRECTLY TO",
+          "confidence": 0.997424,
+          "geometry": {
+            "x0": 155.0,
+            "y0": 1997.0,
+            "x1": 2263.0,
+            "y1": 2027.0
+          },
+          "source": "D(2,155,1997,2263,2027)",
+          "span": {
+            "offset": 3860,
+            "length": 117
+          }
+        },
+        {
+          "content": "GROUND FLOOR, MENARA PUBLIC BANK, 146 JALAN AMPANG, 50450 KUALA LUMPUR / HANTARKAN BORANG PERMOHONAN YANG TELAH LENGKAP",
+          "confidence": 0.996197,
+          "geometry": {
+            "x0": 154.0,
+            "y0": 2030.0,
+            "x1": 2264.0,
+            "y1": 2061.0
+          },
+          "source": "D(2,154,2030,2264,2061)",
+          "span": {
+            "offset": 3978,
+            "length": 119
+          }
+        },
+        {
+          "content": "BERSERTA DOKUMEN SOKONGAN KE MANA-MANA CAWANGAN PUBLIC BANK/PUBLIC ISLAMIC BANK ATAU TERUS KE TINGKAT BAWAH, MENARA",
+          "confidence": 0.988821,
+          "geometry": {
+            "x0": 155.0,
+            "y0": 2064.0,
+            "x1": 2261.0,
+            "y1": 2094.0
+          },
+          "source": "D(2,155,2064,2261,2094)",
+          "span": {
+            "offset": 4098,
+            "length": 115
+          }
+        },
+        {
+          "content": "PUBLIC BANK, 146 JALAN AMPANG, 50450 KUALA LUMPUR; OR / ATAU",
+          "confidence": 0.979527,
+          "geometry": {
+            "x0": 155.0,
+            "y0": 2100.0,
+            "x1": 1134.0,
+            "y1": 2127.0
+          },
+          "source": "D(2,155,2100,1134,2127)",
+          "span": {
+            "offset": 4214,
+            "length": 60
+          }
+        },
+        {
+          "content": "E-MAIL TO CARDSMARKETING@PUBLICBANK.COM.MY / E-MEL KE CARDSMARKETING@PUBLICBANK.COM.MY",
+          "confidence": 0.989782,
+          "geometry": {
+            "x0": 156.0,
+            "y0": 2133.0,
+            "x1": 1695.0,
+            "y1": 2160.0
+          },
+          "source": "D(2,156,2133,1695,2160)",
+          "span": {
+            "offset": 4275,
+            "length": 86
+          }
+        },
+        {
+          "content": "DECLARATION",
+          "confidence": 0.999965,
+          "geometry": {
+            "x0": 106.0,
+            "y0": 2198.0,
+            "x1": 367.0,
+            "y1": 2232.0
+          },
+          "source": "D(2,106,2198,367,2232)",
+          "span": {
+            "offset": 4362,
+            "length": 11
+          }
+        },
+        {
+          "content": "PERAKUAN",
+          "confidence": 0.999993,
+          "geometry": {
+            "x0": 1219.0,
+            "y0": 2200.0,
+            "x1": 1424.0,
+            "y1": 2231.0
+          },
+          "source": "D(2,1219,2200,1424,2231)",
+          "span": {
+            "offset": 4374,
+            "length": 8
+          }
+        },
+        {
+          "content": "We confirm that all the above information is true and complete and authorise the Bank to",
+          "confidence": 0.99517,
+          "geometry": {
+            "x0": 86.0,
+            "y0": 2256.0,
+            "x1": 1145.0,
+            "y1": 2290.0
+          },
+          "source": "D(2,86,2256,1145,2290)",
+          "span": {
+            "offset": 4383,
+            "length": 88
+          }
+        },
+        {
+          "content": "Kami mengesahkan bahawa semua maklumat di atas adalah benar dan lengkap dan",
+          "confidence": 0.995872,
+          "geometry": {
+            "x0": 1200.0,
+            "y0": 2256.0,
+            "x1": 2292.0,
+            "y1": 2291.0
+          },
+          "source": "D(2,1200,2256,2292,2291)",
+          "span": {
+            "offset": 4472,
+            "length": 75
+          }
+        },
+        {
+          "content": "verify from whatever sources the Bank may consider appropriate including the Inland",
+          "confidence": 0.998284,
+          "geometry": {
+            "x0": 89.0,
+            "y0": 2296.0,
+            "x1": 1146.0,
+            "y1": 2330.0
+          },
+          "source": "D(2,89,2296,1146,2330)",
+          "span": {
+            "offset": 4548,
+            "length": 83
+          }
+        },
+        {
+          "content": "membenarkan Bank untuk mengesahkannya daripada apa juga sumber yang Bank anggap",
+          "confidence": 0.996899,
+          "geometry": {
+            "x0": 1199.0,
+            "y0": 2295.0,
+            "x1": 2292.0,
+            "y1": 2331.0
+          },
+          "source": "D(2,1199,2295,2292,2331)",
+          "span": {
+            "offset": 4632,
+            "length": 79
+          }
+        },
+        {
+          "content": "Revenue Board and further to seek and obtain credit information related to our application",
+          "confidence": 0.999271,
+          "geometry": {
+            "x0": 87.0,
+            "y0": 2335.0,
+            "x1": 1143.0,
+            "y1": 2370.0
+          },
+          "source": "D(2,87,2335,1143,2370)",
+          "span": {
+            "offset": 4712,
+            "length": 90
+          }
+        },
+        {
+          "content": "wajar termasuk Lembaga Hasil Dalam Negeri dan seterusnya mendapatkan maklumat kredit",
+          "confidence": 0.991409,
+          "geometry": {
+            "x0": 1201.0,
+            "y0": 2335.0,
+            "x1": 2295.0,
+            "y1": 2369.0
+          },
+          "source": "D(2,1201,2335,2295,2369)",
+          "span": {
+            "offset": 4803,
+            "length": 84
+          }
+        },
+        {
+          "content": "from any Credit Reporting Agencies governed by Credit Reporting Agencies Act 2010.",
+          "confidence": 0.999616,
+          "geometry": {
+            "x0": 88.0,
+            "y0": 2375.0,
+            "x1": 1100.0,
+            "y1": 2408.0
+          },
+          "source": "D(2,88,2375,1100,2408)",
+          "span": {
+            "offset": 4888,
+            "length": 82
+          }
+        },
+        {
+          "content": "berkaitan dengan permohonan kami daripada Agensi Pelaporan Kredit yang dikawal oleh",
+          "confidence": 0.995419,
+          "geometry": {
+            "x0": 1201.0,
+            "y0": 2375.0,
+            "x1": 2293.0,
+            "y1": 2408.0
+          },
+          "source": "D(2,1201,2375,2293,2408)",
+          "span": {
+            "offset": 4971,
+            "length": 83
+          }
+        },
+        {
+          "content": "Akta Agensi Pelaporan Kredit 2010.",
+          "confidence": 0.999905,
+          "geometry": {
+            "x0": 1199.0,
+            "y0": 2411.0,
+            "x1": 1624.0,
+            "y1": 2447.0
+          },
+          "source": "D(2,1199,2411,1624,2447)",
+          "span": {
+            "offset": 5055,
+            "length": 34
+          }
+        },
+        {
+          "content": "We acknowledge that:",
+          "confidence": 0.999898,
+          "geometry": {
+            "x0": 86.0,
+            "y0": 2434.0,
+            "x1": 355.0,
+            "y1": 2470.0
+          },
+          "source": "D(2,86,2434,355,2470)",
+          "span": {
+            "offset": 5090,
+            "length": 20
+          }
+        },
+        {
+          "content": "(a) the Tax Identification Number (TIN) provided by us is true, correct and complete; and",
+          "confidence": 0.986124,
+          "geometry": {
+            "x0": 89.0,
+            "y0": 2473.0,
+            "x1": 1130.0,
+            "y1": 2508.0
+          },
+          "source": "D(2,89,2473,1130,2508)",
+          "span": {
+            "offset": 5111,
+            "length": 89
+          }
+        },
+        {
+          "content": "Kami mengaku bahawa:",
+          "confidence": 0.999592,
+          "geometry": {
+            "x0": 1202.0,
+            "y0": 2475.0,
+            "x1": 1491.0,
+            "y1": 2506.0
+          },
+          "source": "D(2,1202,2475,1491,2506)",
+          "span": {
+            "offset": 5201,
+            "length": 20
+          }
+        },
+        {
+          "content": "(b) We have duly verified that the TIN is the same as the number in the Inland Revenue",
+          "confidence": 0.994997,
+          "geometry": {
+            "x0": 88.0,
+            "y0": 2510.0,
+            "x1": 1145.0,
+            "y1": 2546.0
+          },
+          "source": "D(2,88,2510,1145,2546)",
+          "span": {
+            "offset": 5222,
+            "length": 86
+          }
+        },
+        {
+          "content": "(a) Nombor Pengenalan Cukai (TiN) yang dikemukakan oleh kami adalah benar, betul dan",
+          "confidence": 0.987608,
+          "geometry": {
+            "x0": 1201.0,
+            "y0": 2510.0,
+            "x1": 2292.0,
+            "y1": 2546.0
+          },
+          "source": "D(2,1201,2510,2292,2546)",
+          "span": {
+            "offset": 5309,
+            "length": 84
+          }
+        },
+        {
+          "content": "Board Malaysia's (IRBM) records.",
+          "confidence": 0.99898,
+          "geometry": {
+            "x0": 130.0,
+            "y0": 2553.0,
+            "x1": 523.0,
+            "y1": 2584.0
+          },
+          "source": "D(2,130,2553,523,2584)",
+          "span": {
+            "offset": 5394,
+            "length": 32
+          }
+        },
+        {
+          "content": "lengkap; dan",
+          "confidence": 0.9987,
+          "geometry": {
+            "x0": 1239.0,
+            "y0": 2550.0,
+            "x1": 1399.0,
+            "y1": 2584.0
+          },
+          "source": "D(2,1239,2550,1399,2584)",
+          "span": {
+            "offset": 5427,
+            "length": 12
+          }
+        },
+        {
+          "content": "(b) Kami mengesahkan dengan sewajarnya bahawa nombor pengenalan cukai itu adalah",
+          "confidence": 0.997758,
+          "geometry": {
+            "x0": 1202.0,
+            "y0": 2589.0,
+            "x1": 2292.0,
+            "y1": 2623.0
+          },
+          "source": "D(2,1202,2589,2292,2623)",
+          "span": {
+            "offset": 5440,
+            "length": 80
+          }
+        },
+        {
+          "content": "In the event the TIN provided by us is untrue, incorrect or incomplete including but not",
+          "confidence": 0.989487,
+          "geometry": {
+            "x0": 88.0,
+            "y0": 2614.0,
+            "x1": 1147.0,
+            "y1": 2647.0
+          },
+          "source": "D(2,88,2614,1147,2647)",
+          "span": {
+            "offset": 5521,
+            "length": 88
+          }
+        },
+        {
+          "content": "sama dengan nombor dalam rekod Lembaga Hasil Dalam Negeri Malaysia (LHDNM).",
+          "confidence": 0.996081,
+          "geometry": {
+            "x0": 1238.0,
+            "y0": 2627.0,
+            "x1": 2239.0,
+            "y1": 2662.0
+          },
+          "source": "D(2,1238,2627,2239,2662)",
+          "span": {
+            "offset": 5610,
+            "length": 75
+          }
+        },
+        {
+          "content": "limited to circumstance where the TIN provided is not the same as IRBM's records, we are",
+          "confidence": 0.994198,
+          "geometry": {
+            "x0": 89.0,
+            "y0": 2651.0,
+            "x1": 1144.0,
+            "y1": 2684.0
+          },
+          "source": "D(2,89,2651,1144,2684)",
+          "span": {
+            "offset": 5686,
+            "length": 88
+          }
+        },
+        {
+          "content": "aware that the Bank will not be able to generate/issue any e-Invoice to us.",
+          "confidence": 0.996293,
+          "geometry": {
+            "x0": 86.0,
+            "y0": 2689.0,
+            "x1": 970.0,
+            "y1": 2723.0
+          },
+          "source": "D(2,86,2689,970,2723)",
+          "span": {
+            "offset": 5775,
+            "length": 75
+          }
+        },
+        {
+          "content": "Sekiranya, TIN yang dikemukakan oleh kami adalah tidak benar, tidak betul atau tidak",
+          "confidence": 0.993329,
+          "geometry": {
+            "x0": 1200.0,
+            "y0": 2688.0,
+            "x1": 2293.0,
+            "y1": 2722.0
+          },
+          "source": "D(2,1200,2688,2293,2722)",
+          "span": {
+            "offset": 5851,
+            "length": 84
+          }
+        },
+        {
+          "content": "lengkap termasuk tetapi tidak terhad pada keadaan apabila TiN yang diberikan tidak sama",
+          "confidence": 0.994003,
+          "geometry": {
+            "x0": 1201.0,
+            "y0": 2728.0,
+            "x1": 2293.0,
+            "y1": 2762.0
+          },
+          "source": "D(2,1201,2728,2293,2762)",
+          "span": {
+            "offset": 5936,
+            "length": 87
+          }
+        },
+        {
+          "content": "We agree not to hold the Bank liable for any losses, damages, costs and/or expenses we",
+          "confidence": 0.989369,
+          "geometry": {
+            "x0": 87.0,
+            "y0": 2751.0,
+            "x1": 1145.0,
+            "y1": 2787.0
+          },
+          "source": "D(2,87,2751,1145,2787)",
+          "span": {
+            "offset": 6024,
+            "length": 86
+          }
+        },
+        {
+          "content": "dengan nombor dalam rekod LHDNM, kami maklum bahawa Bank tidak akan dapat",
+          "confidence": 0.990983,
+          "geometry": {
+            "x0": 1202.0,
+            "y0": 2767.0,
+            "x1": 2295.0,
+            "y1": 2800.0
+          },
+          "source": "D(2,1202,2767,2295,2800)",
+          "span": {
+            "offset": 6111,
+            "length": 73
+          }
+        },
+        {
+          "content": "may suffer or incur due to any non-issuance of the e-Invoice arising from or in connection",
+          "confidence": 0.996747,
+          "geometry": {
+            "x0": 89.0,
+            "y0": 2793.0,
+            "x1": 1144.0,
+            "y1": 2826.0
+          },
+          "source": "D(2,89,2793,1144,2826)",
+          "span": {
+            "offset": 6185,
+            "length": 90
+          }
+        },
+        {
+          "content": "mengeluarkan apa-apa e-Invois kepada kami.",
+          "confidence": 0.990491,
+          "geometry": {
+            "x0": 1201.0,
+            "y0": 2807.0,
+            "x1": 1747.0,
+            "y1": 2840.0
+          },
+          "source": "D(2,1201,2807,1747,2840)",
+          "span": {
+            "offset": 6276,
+            "length": 42
+          }
+        },
+        {
+          "content": "with our failure to provide the correct and complete TiN and/or our failure in ensuring the",
+          "confidence": 0.992061,
+          "geometry": {
+            "x0": 89.0,
+            "y0": 2832.0,
+            "x1": 1143.0,
+            "y1": 2862.0
+          },
+          "source": "D(2,89,2832,1143,2862)",
+          "span": {
+            "offset": 6319,
+            "length": 91
+          }
+        },
+        {
+          "content": "TIN provided to the Bank is as per IRBM's records.",
+          "confidence": 0.997875,
+          "geometry": {
+            "x0": 89.0,
+            "y0": 2869.0,
+            "x1": 687.0,
+            "y1": 2902.0
+          },
+          "source": "D(2,89,2869,687,2902)",
+          "span": {
+            "offset": 6411,
+            "length": 50
+          }
+        },
+        {
+          "content": "Kami bersetuju untuk tidak mempertanggungjawabkan Bank bagi apa-apa kerugian, ganti",
+          "confidence": 0.997592,
+          "geometry": {
+            "x0": 1200.0,
+            "y0": 2867.0,
+            "x1": 2293.0,
+            "y1": 2902.0
+          },
+          "source": "D(2,1200,2867,2293,2902)",
+          "span": {
+            "offset": 6462,
+            "length": 83
+          }
+        },
+        {
+          "content": "rugi, kos dan/atau perbelanjaan yang kami mungkin tanggung atau alami kerana e-Invois",
+          "confidence": 0.994705,
+          "geometry": {
+            "x0": 1200.0,
+            "y0": 2907.0,
+            "x1": 2294.0,
+            "y1": 2940.0
+          },
+          "source": "D(2,1200,2907,2294,2940)",
+          "span": {
+            "offset": 6546,
+            "length": 85
+          }
+        },
+        {
+          "content": "We acknowledge that the Card may only be used subject to the Terms and Conditions of",
+          "confidence": 0.995973,
+          "geometry": {
+            "x0": 89.0,
+            "y0": 2929.0,
+            "x1": 1144.0,
+            "y1": 2962.0
+          },
+          "source": "D(2,89,2929,1144,2962)",
+          "span": {
+            "offset": 6632,
+            "length": 84
+          }
+        },
+        {
+          "content": "tidak dikeluarkan disebabkan atau berikutan kegagalan kami untuk memberikan TiN yang",
+          "confidence": 0.993976,
+          "geometry": {
+            "x0": 1200.0,
+            "y0": 2943.0,
+            "x1": 2292.0,
+            "y1": 2978.0
+          },
+          "source": "D(2,1200,2943,2292,2978)",
+          "span": {
+            "offset": 6717,
+            "length": 84
+          }
+        },
+        {
+          "content": "the Public Bank Visa/Public Islamic Bank Visa/Public Bank Mastercard/Public Islamic Bank",
+          "confidence": 0.990835,
+          "geometry": {
+            "x0": 89.0,
+            "y0": 2969.0,
+            "x1": 1145.0,
+            "y1": 2999.0
+          },
+          "source": "D(2,89,2969,1145,2999)",
+          "span": {
+            "offset": 6802,
+            "length": 88
+          }
+        },
+        {
+          "content": "betul dan lengkap dan/atau kegagalan kami untuk memastikan TiN yang dikemukakan",
+          "confidence": 0.989903,
+          "geometry": {
+            "x0": 1200.0,
+            "y0": 2981.0,
+            "x1": 2293.0,
+            "y1": 3016.0
+          },
+          "source": "D(2,1200,2981,2293,3016)",
+          "span": {
+            "offset": 6891,
+            "length": 79
+          }
+        },
+        {
+          "content": "Mastercard Cardmember Agreement and agree to be bound by the Terms and Conditions",
+          "confidence": 0.997479,
+          "geometry": {
+            "x0": 88.0,
+            "y0": 3008.0,
+            "x1": 1145.0,
+            "y1": 3041.0
+          },
+          "source": "D(2,88,3008,1145,3041)",
+          "span": {
+            "offset": 6971,
+            "length": 81
+          }
+        },
+        {
+          "content": "kepada Bank adalah seperti dalam rekod LHDNM.",
+          "confidence": 0.988217,
+          "geometry": {
+            "x0": 1200.0,
+            "y0": 3020.0,
+            "x1": 1792.0,
+            "y1": 3055.0
+          },
+          "source": "D(2,1200,3020,1792,3055)",
+          "span": {
+            "offset": 7053,
+            "length": 45
+          }
+        },
+        {
+          "content": "of the Card. We agree to pay the prevailing Annual Fee upon approval.",
+          "confidence": 0.985869,
+          "geometry": {
+            "x0": 87.0,
+            "y0": 3045.0,
+            "x1": 919.0,
+            "y1": 3080.0
+          },
+          "source": "D(2,87,3045,919,3080)",
+          "span": {
+            "offset": 7099,
+            "length": 69
+          }
+        },
+        {
+          "content": "Kami mengaku bahawa Kad tersebut hanya boleh digunakan tertakluk pada Terma dan",
+          "confidence": 0.997904,
+          "geometry": {
+            "x0": 1201.0,
+            "y0": 3084.0,
+            "x1": 2293.0,
+            "y1": 3117.0
+          },
+          "source": "D(2,1201,3084,2293,3117)",
+          "span": {
+            "offset": 7169,
+            "length": 79
+          }
+        },
+        {
+          "content": "We acknowledge that if our card application is approved, the yearly Annual Fee payable",
+          "confidence": 0.995986,
+          "geometry": {
+            "x0": 88.0,
+            "y0": 3106.0,
+            "x1": 1144.0,
+            "y1": 3142.0
+          },
+          "source": "D(2,88,3106,1144,3142)",
+          "span": {
+            "offset": 7249,
+            "length": 86
+          }
+        },
+        {
+          "content": "Syarat Perjanjian Ahli Kad Public Bank Visa/Public Islamic Bank Visa/Public Bank",
+          "confidence": 0.994648,
+          "geometry": {
+            "x0": 1200.0,
+            "y0": 3120.0,
+            "x1": 2295.0,
+            "y1": 3157.0
+          },
+          "source": "D(2,1200,3120,2295,3157)",
+          "span": {
+            "offset": 7336,
+            "length": 80
+          }
+        },
+        {
+          "content": "on the Card shall be waived as per terms stipulated provided:",
+          "confidence": 0.993944,
+          "geometry": {
+            "x0": 89.0,
+            "y0": 3146.0,
+            "x1": 819.0,
+            "y1": 3180.0
+          },
+          "source": "D(2,89,3146,819,3180)",
+          "span": {
+            "offset": 7417,
+            "length": 61
+          }
+        },
+        {
+          "content": "Mastercard/Public Islamic Bank Mastercard dan bersetuju untuk mematuhi Terma dan",
+          "confidence": 0.99549,
+          "geometry": {
+            "x0": 1200.0,
+            "y0": 3161.0,
+            "x1": 2293.0,
+            "y1": 3194.0
+          },
+          "source": "D(2,1200,3161,2293,3194)",
+          "span": {
+            "offset": 7479,
+            "length": 80
+          }
+        },
+        {
+          "content": "(i) Our Card Account is maintained to the satisfaction of the Bank",
+          "confidence": 0.994113,
+          "geometry": {
+            "x0": 89.0,
+            "y0": 3183.0,
+            "x1": 859.0,
+            "y1": 3218.0
+          },
+          "source": "D(2,89,3183,859,3218)",
+          "span": {
+            "offset": 7560,
+            "length": 66
+          }
+        },
+        {
+          "content": "Syarat Kad. Kami bersetuju untuk membayar Fi Tahunan apabila kad tersebut diluluskan.",
+          "confidence": 0.990471,
+          "geometry": {
+            "x0": 1201.0,
+            "y0": 3199.0,
+            "x1": 2256.0,
+            "y1": 3233.0
+          },
+          "source": "D(2,1201,3199,2256,3233)",
+          "span": {
+            "offset": 7627,
+            "length": 85
+          }
+        },
+        {
+          "content": "(ii) Our Card Account shall remain active for the duration of the approved period; and",
+          "confidence": 0.998882,
+          "geometry": {
+            "x0": 91.0,
+            "y0": 3225.0,
+            "x1": 1090.0,
+            "y1": 3258.0
+          },
+          "source": "D(2,91,3225,1090,3258)",
+          "span": {
+            "offset": 7713,
+            "length": 86
+          }
+        },
+        {
+          "content": "PUBLIC BANK BERHAD 196501000672 (6463-H) / PUBLIC ISLAMIC BANK BERHAD 197301001433 (14328-V)",
+          "confidence": 0.992062,
+          "geometry": {
+            "x0": 54.0,
+            "y0": 3294.0,
+            "x1": 1459.0,
+            "y1": 3334.0
+          },
+          "source": "D(2,54,3294,1459,3334)",
+          "span": {
+            "offset": 7800,
+            "length": 92
+          }
+        },
+        {
+          "content": "FORMS/PBC009/REV261125/YJX",
+          "confidence": 0.999958,
+          "geometry": {
+            "x0": 1813.0,
+            "y0": 3301.0,
+            "x1": 2307.0,
+            "y1": 3336.0
+          },
+          "source": "D(2,1813,3301,2307,3336)",
+          "span": {
+            "offset": 7893,
+            "length": 26
+          }
+        }
+      ]
+    },
+    {
+      "pageNumber": 3,
+      "angle": 0,
+      "width": 2382,
+      "height": 3368,
+      "spans": [
+        {
+          "offset": 0,
+          "length": 10607
+        }
+      ],
+      "words": [
+        {
+          "content": "(iii) There is no change in our credit standing as made known to the Bank.",
+          "confidence": 0.994639,
+          "geometry": {
+            "x0": 90.0,
+            "y0": 44.0,
+            "x1": 964.0,
+            "y1": 78.0
+          },
+          "source": "D(3,90,44,964,78)",
+          "span": {
+            "offset": 0,
+            "length": 74
+          }
+        },
+        {
+          "content": "Kami mengaku bahawa sekiranya permohonan kad kami diluluskan, Fi Tahunan setiap tahun",
+          "confidence": 0.999572,
+          "geometry": {
+            "x0": 1201.0,
+            "y0": 44.0,
+            "x1": 2292.0,
+            "y1": 77.0
+          },
+          "source": "D(3,1201,44,2292,77)",
+          "span": {
+            "offset": 75,
+            "length": 85
+          }
+        },
+        {
+          "content": "yang perlu dibayar bagi Kad tersebut akan diketepikan mengikut terma yang dinyatakan",
+          "confidence": 0.998824,
+          "geometry": {
+            "x0": 1199.0,
+            "y0": 81.0,
+            "x1": 2292.0,
+            "y1": 116.0
+          },
+          "source": "D(3,1199,81,2292,116)",
+          "span": {
+            "offset": 161,
+            "length": 84
+          }
+        },
+        {
+          "content": "The Bank shall be entitled to review our Card Account at its discretion and withdraw this",
+          "confidence": 0.988852,
+          "geometry": {
+            "x0": 90.0,
+            "y0": 106.0,
+            "x1": 1143.0,
+            "y1": 136.0
+          },
+          "source": "D(3,90,106,1143,136)",
+          "span": {
+            "offset": 246,
+            "length": 89
+          }
+        },
+        {
+          "content": "dengan syarat:",
+          "confidence": 0.999901,
+          "geometry": {
+            "x0": 1201.0,
+            "y0": 120.0,
+            "x1": 1381.0,
+            "y1": 154.0
+          },
+          "source": "D(3,1201,120,1381,154)",
+          "span": {
+            "offset": 336,
+            "length": 14
+          }
+        },
+        {
+          "content": "privilege in the event that any of the above conditions have not been fulfilled upon which",
+          "confidence": 0.995862,
+          "geometry": {
+            "x0": 90.0,
+            "y0": 144.0,
+            "x1": 1145.0,
+            "y1": 177.0
+          },
+          "source": "D(3,90,144,1145,177)",
+          "span": {
+            "offset": 351,
+            "length": 90
+          }
+        },
+        {
+          "content": "(i) Akaun Kad kami disenggara dengan memuaskan;",
+          "confidence": 0.994639,
+          "geometry": {
+            "x0": 1200.0,
+            "y0": 157.0,
+            "x1": 1845.0,
+            "y1": 192.0
+          },
+          "source": "D(3,1200,157,1845,192)",
+          "span": {
+            "offset": 442,
+            "length": 47
+          }
+        },
+        {
+          "content": "the Annual Fee shall become payable.",
+          "confidence": 0.997759,
+          "geometry": {
+            "x0": 89.0,
+            "y0": 185.0,
+            "x1": 538.0,
+            "y1": 217.0
+          },
+          "source": "D(3,89,185,538,217)",
+          "span": {
+            "offset": 490,
+            "length": 36
+          }
+        },
+        {
+          "content": "(ii) Akaun Kad kami terus aktif sepanjang tempoh yang diluluskan; dan",
+          "confidence": 0.995533,
+          "geometry": {
+            "x0": 1201.0,
+            "y0": 198.0,
+            "x1": 2054.0,
+            "y1": 233.0
+          },
+          "source": "D(3,1201,198,2054,233)",
+          "span": {
+            "offset": 527,
+            "length": 69
+          }
+        },
+        {
+          "content": "We further agree that the Principal Cardmember shall be responsible for all liabilities and",
+          "confidence": 0.991995,
+          "geometry": {
+            "x0": 89.0,
+            "y0": 246.0,
+            "x1": 1144.0,
+            "y1": 279.0
+          },
+          "source": "D(3,89,246,1144,279)",
+          "span": {
+            "offset": 597,
+            "length": 91
+          }
+        },
+        {
+          "content": "(iii) Tiada perubahan dalam kedudukan kredit kami seperti yang telah dimaklumkan kepada",
+          "confidence": 0.993179,
+          "geometry": {
+            "x0": 1201.0,
+            "y0": 237.0,
+            "x1": 2295.0,
+            "y1": 271.0
+          },
+          "source": "D(3,1201,237,2295,271)",
+          "span": {
+            "offset": 689,
+            "length": 87
+          }
+        },
+        {
+          "content": "Bank.",
+          "confidence": 0.999959,
+          "geometry": {
+            "x0": 1252.0,
+            "y0": 273.0,
+            "x1": 1326.0,
+            "y1": 307.0
+          },
+          "source": "D(3,1252,273,1326,307)",
+          "span": {
+            "offset": 777,
+            "length": 5
+          }
+        },
+        {
+          "content": "obligations of the Principal Cardmember as well as those of the Supplementary",
+          "confidence": 0.988323,
+          "geometry": {
+            "x0": 89.0,
+            "y0": 285.0,
+            "x1": 1144.0,
+            "y1": 318.0
+          },
+          "source": "D(3,89,285,1144,318)",
+          "span": {
+            "offset": 783,
+            "length": 77
+          }
+        },
+        {
+          "content": "Cardmember(s). The Supplementary Cardmember however, shall only be responsible for",
+          "confidence": 0.99885,
+          "geometry": {
+            "x0": 88.0,
+            "y0": 321.0,
+            "x1": 1145.0,
+            "y1": 356.0
+          },
+          "source": "D(3,88,321,1145,356)",
+          "span": {
+            "offset": 861,
+            "length": 82
+          }
+        },
+        {
+          "content": "Bank berhak untuk menyemak Akaun Kad kami atas budi bicaranya dan menarik balik",
+          "confidence": 0.997206,
+          "geometry": {
+            "x0": 1201.0,
+            "y0": 336.0,
+            "x1": 2293.0,
+            "y1": 369.0
+          },
+          "source": "D(3,1201,336,2293,369)",
+          "span": {
+            "offset": 944,
+            "length": 79
+          }
+        },
+        {
+          "content": "his/her own liabilities and obligations.",
+          "confidence": 0.999879,
+          "geometry": {
+            "x0": 88.0,
+            "y0": 360.0,
+            "x1": 537.0,
+            "y1": 393.0
+          },
+          "source": "D(3,88,360,537,393)",
+          "span": {
+            "offset": 1024,
+            "length": 40
+          }
+        },
+        {
+          "content": "keistimewaan ini sekiranya syarat di atas tidak dipenuhi apabila tiba masanya untuk",
+          "confidence": 0.990821,
+          "geometry": {
+            "x0": 1199.0,
+            "y0": 373.0,
+            "x1": 2294.0,
+            "y1": 408.0
+          },
+          "source": "D(3,1199,373,2294,408)",
+          "span": {
+            "offset": 1065,
+            "length": 83
+          }
+        },
+        {
+          "content": "The Bank may approve or reject our application as the Bank thinks fit without assigning",
+          "confidence": 0.999057,
+          "geometry": {
+            "x0": 89.0,
+            "y0": 424.0,
+            "x1": 1144.0,
+            "y1": 458.0
+          },
+          "source": "D(3,89,424,1144,458)",
+          "span": {
+            "offset": 1149,
+            "length": 87
+          }
+        },
+        {
+          "content": "membayar Fi Tahunan berikutnya.",
+          "confidence": 0.999893,
+          "geometry": {
+            "x0": 1201.0,
+            "y0": 416.0,
+            "x1": 1605.0,
+            "y1": 447.0
+          },
+          "source": "D(3,1201,416,1605,447)",
+          "span": {
+            "offset": 1237,
+            "length": 31
+          }
+        },
+        {
+          "content": "any reason.",
+          "confidence": 0.999527,
+          "geometry": {
+            "x0": 89.0,
+            "y0": 464.0,
+            "x1": 229.0,
+            "y1": 496.0
+          },
+          "source": "D(3,89,464,229,496)",
+          "span": {
+            "offset": 1269,
+            "length": 11
+          }
+        },
+        {
+          "content": "Seterusnya, kami bersetuju bahawa Ahli Kad Utama bertanggungjawab atas semua liabiliti",
+          "confidence": 0.997194,
+          "geometry": {
+            "x0": 1201.0,
+            "y0": 476.0,
+            "x1": 2293.0,
+            "y1": 509.0
+          },
+          "source": "D(3,1201,476,2293,509)",
+          "span": {
+            "offset": 1281,
+            "length": 86
+          }
+        },
+        {
+          "content": "We understand that in order for the Bank to consider/process our application herein for the",
+          "confidence": 0.993372,
+          "geometry": {
+            "x0": 86.0,
+            "y0": 522.0,
+            "x1": 1144.0,
+            "y1": 557.0
+          },
+          "source": "D(3,86,522,1144,557)",
+          "span": {
+            "offset": 1368,
+            "length": 91
+          }
+        },
+        {
+          "content": "dan obligasi Ahli Kad Utama dan Ahli Kad Tambahan. Ahli Kad Tambahan bagaimanapun",
+          "confidence": 0.993625,
+          "geometry": {
+            "x0": 1201.0,
+            "y0": 514.0,
+            "x1": 2292.0,
+            "y1": 547.0
+          },
+          "source": "D(3,1201,514,2292,547)",
+          "span": {
+            "offset": 1460,
+            "length": 81
+          }
+        },
+        {
+          "content": "Card or continue to provide the Card or for the purpose of monitoring and/or recovery of",
+          "confidence": 0.992292,
+          "geometry": {
+            "x0": 89.0,
+            "y0": 562.0,
+            "x1": 1145.0,
+            "y1": 596.0
+          },
+          "source": "D(3,89,562,1145,596)",
+          "span": {
+            "offset": 1542,
+            "length": 88
+          }
+        },
+        {
+          "content": "hanya bertanggungjawab atas liabiliti dan obligasinya sendiri.",
+          "confidence": 0.999119,
+          "geometry": {
+            "x0": 1201.0,
+            "y0": 553.0,
+            "x1": 1931.0,
+            "y1": 586.0
+          },
+          "source": "D(3,1201,553,1931,586)",
+          "span": {
+            "offset": 1631,
+            "length": 62
+          }
+        },
+        {
+          "content": "any sums due and payable under the Card, our personal or credit information (\"our",
+          "confidence": 0.989753,
+          "geometry": {
+            "x0": 89.0,
+            "y0": 602.0,
+            "x1": 1143.0,
+            "y1": 633.0
+          },
+          "source": "D(3,89,602,1143,633)",
+          "span": {
+            "offset": 1694,
+            "length": 81
+          }
+        },
+        {
+          "content": "Bank boleh meluluskan atau menolak permohonan kami yang Bank anggap wajar tanpa",
+          "confidence": 0.998437,
+          "geometry": {
+            "x0": 1200.0,
+            "y0": 612.0,
+            "x1": 2292.0,
+            "y1": 649.0
+          },
+          "source": "D(3,1200,612,2292,649)",
+          "span": {
+            "offset": 1776,
+            "length": 79
+          }
+        },
+        {
+          "content": "Personal Data\"), whether relating directly or indirectly to us may be collected, recorded,",
+          "confidence": 0.995459,
+          "geometry": {
+            "x0": 88.0,
+            "y0": 640.0,
+            "x1": 1142.0,
+            "y1": 674.0
+          },
+          "source": "D(3,88,640,1142,674)",
+          "span": {
+            "offset": 1856,
+            "length": 90
+          }
+        },
+        {
+          "content": "memberi apa-apa sebab.",
+          "confidence": 0.998407,
+          "geometry": {
+            "x0": 1201.0,
+            "y0": 656.0,
+            "x1": 1500.0,
+            "y1": 687.0
+          },
+          "source": "D(3,1201,656,1500,687)",
+          "span": {
+            "offset": 1947,
+            "length": 22
+          }
+        },
+        {
+          "content": "stored by the Bank and/or disclosed to, shared with, received from or forwarded to:",
+          "confidence": 0.993553,
+          "geometry": {
+            "x0": 89.0,
+            "y0": 680.0,
+            "x1": 1076.0,
+            "y1": 710.0
+          },
+          "source": "D(3,89,680,1076,710)",
+          "span": {
+            "offset": 1970,
+            "length": 83
+          }
+        },
+        {
+          "content": "(a) Any authority or bureau established by Bank Negara Malaysia (BNM), including the",
+          "confidence": 0.994787,
+          "geometry": {
+            "x0": 87.0,
+            "y0": 716.0,
+            "x1": 1145.0,
+            "y1": 753.0
+          },
+          "source": "D(3,87,716,1145,753)",
+          "span": {
+            "offset": 2054,
+            "length": 84
+          }
+        },
+        {
+          "content": "Kami memahami bahawa bagi membolehkan Bank mempertimbangkan/memproses",
+          "confidence": 0.999603,
+          "geometry": {
+            "x0": 1199.0,
+            "y0": 715.0,
+            "x1": 2293.0,
+            "y1": 750.0
+          },
+          "source": "D(3,1199,715,2293,750)",
+          "span": {
+            "offset": 2139,
+            "length": 69
+          }
+        },
+        {
+          "content": "Central Credit Bureau, Biro Maklumat Cek (BMC) and Central Credit Reference",
+          "confidence": 0.994696,
+          "geometry": {
+            "x0": 149.0,
+            "y0": 756.0,
+            "x1": 1144.0,
+            "y1": 786.0
+          },
+          "source": "D(3,149,756,1144,786)",
+          "span": {
+            "offset": 2209,
+            "length": 75
+          }
+        },
+        {
+          "content": "permohonan kami untuk Kad tersebut atau terus menyedia Kad itu atau bagi tujuan",
+          "confidence": 0.993642,
+          "geometry": {
+            "x0": 1200.0,
+            "y0": 755.0,
+            "x1": 2292.0,
+            "y1": 788.0
+          },
+          "source": "D(3,1200,755,2292,788)",
+          "span": {
+            "offset": 2285,
+            "length": 79
+          }
+        },
+        {
+          "content": "Information System (CCRIS) or such other bureau or body established or approved by",
+          "confidence": 0.993508,
+          "geometry": {
+            "x0": 148.0,
+            "y0": 791.0,
+            "x1": 1143.0,
+            "y1": 826.0
+          },
+          "source": "D(3,148,791,1143,826)",
+          "span": {
+            "offset": 2365,
+            "length": 82
+          }
+        },
+        {
+          "content": "pemantauan dan/atau pemerolehan semula jumlah yang perlu dibayar dan kena dibayar di",
+          "confidence": 0.992342,
+          "geometry": {
+            "x0": 1200.0,
+            "y0": 793.0,
+            "x1": 2293.0,
+            "y1": 826.0
+          },
+          "source": "D(3,1200,793,2293,826)",
+          "span": {
+            "offset": 2448,
+            "length": 84
+          }
+        },
+        {
+          "content": "BNM or any other authority having jurisdiction over the Bank; and",
+          "confidence": 0.99625,
+          "geometry": {
+            "x0": 149.0,
+            "y0": 832.0,
+            "x1": 925.0,
+            "y1": 866.0
+          },
+          "source": "D(3,149,832,925,866)",
+          "span": {
+            "offset": 2533,
+            "length": 65
+          }
+        },
+        {
+          "content": "bawah Kad tersebut, maklumat peribadi dan kredit kami (\"Data Peribadi kami\"), sama ada",
+          "confidence": 0.996712,
+          "geometry": {
+            "x0": 1199.0,
+            "y0": 831.0,
+            "x1": 2292.0,
+            "y1": 865.0
+          },
+          "source": "D(3,1199,831,2292,865)",
+          "span": {
+            "offset": 2599,
+            "length": 86
+          }
+        },
+        {
+          "content": "(b)",
+          "confidence": 0.999984,
+          "geometry": {
+            "x0": 88.0,
+            "y0": 870.0,
+            "x1": 127.0,
+            "y1": 906.0
+          },
+          "source": "D(3,88,870,127,906)",
+          "span": {
+            "offset": 2686,
+            "length": 3
+          }
+        },
+        {
+          "content": "The companies within Public Bank Group of Companies and its affiliates and",
+          "confidence": 0.998605,
+          "geometry": {
+            "x0": 147.0,
+            "y0": 870.0,
+            "x1": 1145.0,
+            "y1": 903.0
+          },
+          "source": "D(3,147,870,1145,903)",
+          "span": {
+            "offset": 2690,
+            "length": 74
+          }
+        },
+        {
+          "content": "secara langsung atau tidak langsung dengan kami, boleh dikumpul, direkodkan, disimpan",
+          "confidence": 0.998148,
+          "geometry": {
+            "x0": 1200.0,
+            "y0": 871.0,
+            "x1": 2292.0,
+            "y1": 904.0
+          },
+          "source": "D(3,1200,871,2292,904)",
+          "span": {
+            "offset": 2765,
+            "length": 85
+          }
+        },
+        {
+          "content": "companies which are or which in the future may be a subsidiary and/or related",
+          "confidence": 0.994384,
+          "geometry": {
+            "x0": 148.0,
+            "y0": 907.0,
+            "x1": 1144.0,
+            "y1": 941.0
+          },
+          "source": "D(3,148,907,1144,941)",
+          "span": {
+            "offset": 2851,
+            "length": 77
+          }
+        },
+        {
+          "content": "oleh Bank dan/atau didedahkan kepada, dikongsi dengan, diterima daripada atau",
+          "confidence": 0.997448,
+          "geometry": {
+            "x0": 1199.0,
+            "y0": 907.0,
+            "x1": 2293.0,
+            "y1": 942.0
+          },
+          "source": "D(3,1199,907,2293,942)",
+          "span": {
+            "offset": 2929,
+            "length": 77
+          }
+        },
+        {
+          "content": "company of the Bank; and",
+          "confidence": 0.982422,
+          "geometry": {
+            "x0": 150.0,
+            "y0": 948.0,
+            "x1": 463.0,
+            "y1": 978.0
+          },
+          "source": "D(3,150,948,463,978)",
+          "span": {
+            "offset": 3007,
+            "length": 24
+          }
+        },
+        {
+          "content": "dikemukakan kepada:",
+          "confidence": 0.999916,
+          "geometry": {
+            "x0": 1201.0,
+            "y0": 947.0,
+            "x1": 1465.0,
+            "y1": 978.0
+          },
+          "source": "D(3,1201,947,1465,978)",
+          "span": {
+            "offset": 3032,
+            "length": 19
+          }
+        },
+        {
+          "content": "(c)",
+          "confidence": 0.997387,
+          "geometry": {
+            "x0": 87.0,
+            "y0": 983.0,
+            "x1": 125.0,
+            "y1": 1021.0
+          },
+          "source": "D(3,87,983,125,1021)",
+          "span": {
+            "offset": 3052,
+            "length": 3
+          }
+        },
+        {
+          "content": "Any Credit Reporting Agencies licensed under the Credit Reporting Agencies Act",
+          "confidence": 0.997445,
+          "geometry": {
+            "x0": 151.0,
+            "y0": 984.0,
+            "x1": 1146.0,
+            "y1": 1017.0
+          },
+          "source": "D(3,151,984,1146,1017)",
+          "span": {
+            "offset": 3056,
+            "length": 78
+          }
+        },
+        {
+          "content": "(a) Mana-mana pihak berkuasa atau biro yang ditubuhkan oleh Bank Negara Malaysia",
+          "confidence": 0.99352,
+          "geometry": {
+            "x0": 1201.0,
+            "y0": 983.0,
+            "x1": 2292.0,
+            "y1": 1018.0
+          },
+          "source": "D(3,1201,983,2292,1018)",
+          "span": {
+            "offset": 3135,
+            "length": 80
+          }
+        },
+        {
+          "content": "2010; and",
+          "confidence": 0.999166,
+          "geometry": {
+            "x0": 148.0,
+            "y0": 1023.0,
+            "x1": 277.0,
+            "y1": 1059.0
+          },
+          "source": "D(3,148,1023,277,1059)",
+          "span": {
+            "offset": 3216,
+            "length": 9
+          }
+        },
+        {
+          "content": "(BNM), termasuk Biro Kredit Berpusat, Biro Maklumat Cek (BMC) dan Sistem Maklumat",
+          "confidence": 0.993282,
+          "geometry": {
+            "x0": 1242.0,
+            "y0": 1024.0,
+            "x1": 2295.0,
+            "y1": 1058.0
+          },
+          "source": "D(3,1242,1024,2295,1058)",
+          "span": {
+            "offset": 3226,
+            "length": 81
+          }
+        },
+        {
+          "content": "(d)",
+          "confidence": 0.999971,
+          "geometry": {
+            "x0": 88.0,
+            "y0": 1062.0,
+            "x1": 126.0,
+            "y1": 1098.0
+          },
+          "source": "D(3,88,1062,126,1098)",
+          "span": {
+            "offset": 3308,
+            "length": 3
+          }
+        },
+        {
+          "content": "Other financial institutions, and other persons as stipulated under section 47(2) of the",
+          "confidence": 0.993795,
+          "geometry": {
+            "x0": 145.0,
+            "y0": 1064.0,
+            "x1": 1143.0,
+            "y1": 1094.0
+          },
+          "source": "D(3,145,1064,1143,1094)",
+          "span": {
+            "offset": 3312,
+            "length": 88
+          }
+        },
+        {
+          "content": "Rujukan Kredit Berpusat (CCRIS) atau biro atau badan lain seumpamanya yang",
+          "confidence": 0.993882,
+          "geometry": {
+            "x0": 1240.0,
+            "y0": 1062.0,
+            "x1": 2292.0,
+            "y1": 1097.0
+          },
+          "source": "D(3,1240,1062,2292,1097)",
+          "span": {
+            "offset": 3401,
+            "length": 74
+          }
+        },
+        {
+          "content": "Central Bank of Malaysia Act 2009 (“CBA\") and for other financial institutions, credit",
+          "confidence": 0.989053,
+          "geometry": {
+            "x0": 150.0,
+            "y0": 1102.0,
+            "x1": 1145.0,
+            "y1": 1132.0
+          },
+          "source": "D(3,150,1102,1145,1132)",
+          "span": {
+            "offset": 3476,
+            "length": 86
+          }
+        },
+        {
+          "content": "ditubuhkan atau diluluskan oleh BNM atau mana-mana pihak berkuasa yang mempunyai",
+          "confidence": 0.995441,
+          "geometry": {
+            "x0": 1239.0,
+            "y0": 1100.0,
+            "x1": 2294.0,
+            "y1": 1135.0
+          },
+          "source": "D(3,1239,1100,2294,1135)",
+          "span": {
+            "offset": 3563,
+            "length": 80
+          }
+        },
+        {
+          "content": "reporting agencies and such other persons as the Bank thinks fit or deems",
+          "confidence": 0.99493,
+          "geometry": {
+            "x0": 149.0,
+            "y0": 1139.0,
+            "x1": 1145.0,
+            "y1": 1172.0
+          },
+          "source": "D(3,149,1139,1145,1172)",
+          "span": {
+            "offset": 3644,
+            "length": 73
+          }
+        },
+        {
+          "content": "bidang kuasa ke atas Bank; dan",
+          "confidence": 0.996268,
+          "geometry": {
+            "x0": 1242.0,
+            "y0": 1140.0,
+            "x1": 1624.0,
+            "y1": 1170.0
+          },
+          "source": "D(3,1242,1140,1624,1170)",
+          "span": {
+            "offset": 3718,
+            "length": 30
+          }
+        },
+        {
+          "content": "necessary; and",
+          "confidence": 0.999718,
+          "geometry": {
+            "x0": 149.0,
+            "y0": 1178.0,
+            "x1": 333.0,
+            "y1": 1209.0
+          },
+          "source": "D(3,149,1178,333,1209)",
+          "span": {
+            "offset": 3749,
+            "length": 14
+          }
+        },
+        {
+          "content": "(b) Syarikat-syarikat dalam Kumpulan Public Bank dan sekutunya dan syarikat yang pada",
+          "confidence": 0.994505,
+          "geometry": {
+            "x0": 1203.0,
+            "y0": 1177.0,
+            "x1": 2292.0,
+            "y1": 1210.0
+          },
+          "source": "D(3,1203,1177,2292,1210)",
+          "span": {
+            "offset": 3764,
+            "length": 85
+          }
+        },
+        {
+          "content": "(e) Any guarantor(s)/security parties, and/or its lawyers or any other debt collection agent",
+          "confidence": 0.999618,
+          "geometry": {
+            "x0": 88.0,
+            "y0": 1216.0,
+            "x1": 1147.0,
+            "y1": 1253.0
+          },
+          "source": "D(3,88,1216,1147,1253)",
+          "span": {
+            "offset": 3850,
+            "length": 92
+          }
+        },
+        {
+          "content": "masa ini dan masa akan datang mungkin menjadi syarikat subsidiari dan/atau syarikat",
+          "confidence": 0.994294,
+          "geometry": {
+            "x0": 1240.0,
+            "y0": 1217.0,
+            "x1": 2294.0,
+            "y1": 1250.0
+          },
+          "source": "D(3,1240,1217,2294,1250)",
+          "span": {
+            "offset": 3943,
+            "length": 83
+          }
+        },
+        {
+          "content": "or to such person(s) and/or entity(ies) as permitted by law.",
+          "confidence": 0.999615,
+          "geometry": {
+            "x0": 148.0,
+            "y0": 1255.0,
+            "x1": 842.0,
+            "y1": 1288.0
+          },
+          "source": "D(3,148,1255,842,1288)",
+          "span": {
+            "offset": 4027,
+            "length": 60
+          }
+        },
+        {
+          "content": "yang berkaitan dengan Bank; dan",
+          "confidence": 0.999851,
+          "geometry": {
+            "x0": 1240.0,
+            "y0": 1256.0,
+            "x1": 1644.0,
+            "y1": 1287.0
+          },
+          "source": "D(3,1240,1256,1644,1287)",
+          "span": {
+            "offset": 4088,
+            "length": 31
+          }
+        },
+        {
+          "content": "(c) Mana-mana Agensi Pelaporan Kredit yang dilesenkan di bawah Akta Agensi Pelaporan",
+          "confidence": 0.993499,
+          "geometry": {
+            "x0": 1202.0,
+            "y0": 1293.0,
+            "x1": 2292.0,
+            "y1": 1326.0
+          },
+          "source": "D(3,1202,1293,2292,1326)",
+          "span": {
+            "offset": 4120,
+            "length": 84
+          }
+        },
+        {
+          "content": "We hereby further consent and authorise the Bank to access and use our Personal Data",
+          "confidence": 0.999539,
+          "geometry": {
+            "x0": 90.0,
+            "y0": 1317.0,
+            "x1": 1144.0,
+            "y1": 1347.0
+          },
+          "source": "D(3,90,1317,1144,1347)",
+          "span": {
+            "offset": 4205,
+            "length": 84
+          }
+        },
+        {
+          "content": "Kredit 2010; dan",
+          "confidence": 0.999661,
+          "geometry": {
+            "x0": 1240.0,
+            "y0": 1330.0,
+            "x1": 1442.0,
+            "y1": 1361.0
+          },
+          "source": "D(3,1240,1330,1442,1361)",
+          "span": {
+            "offset": 4290,
+            "length": 16
+          }
+        },
+        {
+          "content": "for purposes stipulated in section 47(2) of the CBA and for other purposes as the Bank",
+          "confidence": 0.993344,
+          "geometry": {
+            "x0": 86.0,
+            "y0": 1353.0,
+            "x1": 1146.0,
+            "y1": 1387.0
+          },
+          "source": "D(3,86,1353,1146,1387)",
+          "span": {
+            "offset": 4307,
+            "length": 86
+          }
+        },
+        {
+          "content": "(d) Institusi kewangan lain, dan orang lain seperti yang dinyatakan di bawah seksyen 47(2)",
+          "confidence": 0.994783,
+          "geometry": {
+            "x0": 1203.0,
+            "y0": 1368.0,
+            "x1": 2291.0,
+            "y1": 1402.0
+          },
+          "source": "D(3,1203,1368,2291,1402)",
+          "span": {
+            "offset": 4394,
+            "length": 90
+          }
+        },
+        {
+          "content": "thinks fit, which may include but is not limited to, assessing our creditworthiness,",
+          "confidence": 0.993815,
+          "geometry": {
+            "x0": 89.0,
+            "y0": 1392.0,
+            "x1": 1142.0,
+            "y1": 1424.0
+          },
+          "source": "D(3,89,1392,1142,1424)",
+          "span": {
+            "offset": 4485,
+            "length": 84
+          }
+        },
+        {
+          "content": "Akta Bank Negara Malaysia 2009 (“CBA”) dan untuk institusi kewangan, agensi",
+          "confidence": 0.98403,
+          "geometry": {
+            "x0": 1239.0,
+            "y0": 1408.0,
+            "x1": 2293.0,
+            "y1": 1441.0
+          },
+          "source": "D(3,1239,1408,2293,1441)",
+          "span": {
+            "offset": 4570,
+            "length": 75
+          }
+        },
+        {
+          "content": "providing reporting or credit assessment services, providing electronic Know-Your-",
+          "confidence": 0.99905,
+          "geometry": {
+            "x0": 90.0,
+            "y0": 1432.0,
+            "x1": 1144.0,
+            "y1": 1465.0
+          },
+          "source": "D(3,90,1432,1144,1465)",
+          "span": {
+            "offset": 4646,
+            "length": 82
+          }
+        },
+        {
+          "content": "pelaporan kredit lain dan orang lain sebagaimana yang Bank anggap wajar dan perlu; dan",
+          "confidence": 0.991185,
+          "geometry": {
+            "x0": 1241.0,
+            "y0": 1448.0,
+            "x1": 2309.0,
+            "y1": 1479.0
+          },
+          "source": "D(3,1241,1448,2309,1479)",
+          "span": {
+            "offset": 4729,
+            "length": 86
+          }
+        },
+        {
+          "content": "Customer (e-KYC) solutions and providing financial advisory services.",
+          "confidence": 0.998827,
+          "geometry": {
+            "x0": 90.0,
+            "y0": 1469.0,
+            "x1": 908.0,
+            "y1": 1504.0
+          },
+          "source": "D(3,90,1469,908,1504)",
+          "span": {
+            "offset": 4816,
+            "length": 69
+          }
+        },
+        {
+          "content": "(e) Mana-mana pihak penjamin/sekuriti, dan/atau peguamnya atau ejen pemungut hutang",
+          "confidence": 0.996985,
+          "geometry": {
+            "x0": 1203.0,
+            "y0": 1486.0,
+            "x1": 2293.0,
+            "y1": 1519.0
+          },
+          "source": "D(3,1203,1486,2293,1519)",
+          "span": {
+            "offset": 4886,
+            "length": 83
+          }
+        },
+        {
+          "content": "We understand that we are entitled to obtain access to and to request correction of any of",
+          "confidence": 0.999763,
+          "geometry": {
+            "x0": 86.0,
+            "y0": 1531.0,
+            "x1": 1144.0,
+            "y1": 1566.0
+          },
+          "source": "D(3,86,1531,1144,1566)",
+          "span": {
+            "offset": 4970,
+            "length": 90
+          }
+        },
+        {
+          "content": "lain atau kepada orang dan/atau entiti yang dibenarkan oleh undang-undang.",
+          "confidence": 0.999604,
+          "geometry": {
+            "x0": 1239.0,
+            "y0": 1522.0,
+            "x1": 2157.0,
+            "y1": 1557.0
+          },
+          "source": "D(3,1239,1522,2157,1557)",
+          "span": {
+            "offset": 5061,
+            "length": 74
+          }
+        },
+        {
+          "content": "our Personal Data held by the Bank and that we can inform the Bank to cease using our",
+          "confidence": 0.997644,
+          "geometry": {
+            "x0": 87.0,
+            "y0": 1570.0,
+            "x1": 1144.0,
+            "y1": 1603.0
+          },
+          "source": "D(3,87,1570,1144,1603)",
+          "span": {
+            "offset": 5136,
+            "length": 85
+          }
+        },
+        {
+          "content": "Dengan ini kami mengizinkan dan membenarkan Bank untuk mengakses dan menggunakan",
+          "confidence": 0.999068,
+          "geometry": {
+            "x0": 1201.0,
+            "y0": 1585.0,
+            "x1": 2291.0,
+            "y1": 1618.0
+          },
+          "source": "D(3,1201,1585,2291,1618)",
+          "span": {
+            "offset": 5222,
+            "length": 80
+          }
+        },
+        {
+          "content": "Personal Data for the purposes above and that such reguest can be made in writing to the",
+          "confidence": 0.992321,
+          "geometry": {
+            "x0": 89.0,
+            "y0": 1607.0,
+            "x1": 1144.0,
+            "y1": 1641.0
+          },
+          "source": "D(3,89,1607,1144,1641)",
+          "span": {
+            "offset": 5303,
+            "length": 88
+          }
+        },
+        {
+          "content": "Data Peribadi kami bagi tujuan seperti yang dinyatakan dalam seksyen 47(2) CBA dan bagi",
+          "confidence": 0.993113,
+          "geometry": {
+            "x0": 1200.0,
+            "y0": 1623.0,
+            "x1": 2292.0,
+            "y1": 1658.0
+          },
+          "source": "D(3,1200,1623,2292,1658)",
+          "span": {
+            "offset": 5392,
+            "length": 87
+          }
+        },
+        {
+          "content": "Bank at our account holding branch or by sending it to PB Card Services, Public Bank",
+          "confidence": 0.985755,
+          "geometry": {
+            "x0": 88.0,
+            "y0": 1647.0,
+            "x1": 1146.0,
+            "y1": 1681.0
+          },
+          "source": "D(3,88,1647,1146,1681)",
+          "span": {
+            "offset": 5480,
+            "length": 84
+          }
+        },
+        {
+          "content": "tujuan lain sebagaimana yang Bank anggap wajar, yang mungkin termasuk tetapi tidak",
+          "confidence": 0.997299,
+          "geometry": {
+            "x0": 1201.0,
+            "y0": 1663.0,
+            "x1": 2292.0,
+            "y1": 1696.0
+          },
+          "source": "D(3,1201,1663,2292,1696)",
+          "span": {
+            "offset": 5565,
+            "length": 82
+          }
+        },
+        {
+          "content": "Berhad, 146 Jalan Ampang, 50450 Kuala Lumpur, Malaysia.",
+          "confidence": 0.994461,
+          "geometry": {
+            "x0": 87.0,
+            "y0": 1685.0,
+            "x1": 807.0,
+            "y1": 1720.0
+          },
+          "source": "D(3,87,1685,807,1720)",
+          "span": {
+            "offset": 5648,
+            "length": 55
+          }
+        },
+        {
+          "content": "terhad pada, mengakses kepercayaan kredit kami, memberikan perkhidmatan pelaporan",
+          "confidence": 0.995496,
+          "geometry": {
+            "x0": 1201.0,
+            "y0": 1701.0,
+            "x1": 2292.0,
+            "y1": 1734.0
+          },
+          "source": "D(3,1201,1701,2292,1734)",
+          "span": {
+            "offset": 5704,
+            "length": 81
+          }
+        },
+        {
+          "content": "atau penilaian kredit, memberi penyelesaian Kenali Pelanggan Anda Menerusi Platform",
+          "confidence": 0.993602,
+          "geometry": {
+            "x0": 1199.0,
+            "y0": 1737.0,
+            "x1": 2292.0,
+            "y1": 1771.0
+          },
+          "source": "D(3,1199,1737,2292,1771)",
+          "span": {
+            "offset": 5786,
+            "length": 83
+          }
+        },
+        {
+          "content": "We understand that for details of the Bank and Bank's Affiliates and how the Bank",
+          "confidence": 0.997994,
+          "geometry": {
+            "x0": 89.0,
+            "y0": 1749.0,
+            "x1": 1143.0,
+            "y1": 1779.0
+          },
+          "source": "D(3,89,1749,1143,1779)",
+          "span": {
+            "offset": 5870,
+            "length": 81
+          }
+        },
+        {
+          "content": "Digital (e-KYC) dan memberi perkhidmatan penasihatan kewangan.",
+          "confidence": 0.993673,
+          "geometry": {
+            "x0": 1202.0,
+            "y0": 1777.0,
+            "x1": 1999.0,
+            "y1": 1810.0
+          },
+          "source": "D(3,1202,1777,1999,1810)",
+          "span": {
+            "offset": 5952,
+            "length": 62
+          }
+        },
+        {
+          "content": "collects, uses, stores, to whom the Bank shares and how the Bank maintains our Personal",
+          "confidence": 0.999108,
+          "geometry": {
+            "x0": 90.0,
+            "y0": 1787.0,
+            "x1": 1144.0,
+            "y1": 1817.0
+          },
+          "source": "D(3,90,1787,1144,1817)",
+          "span": {
+            "offset": 6015,
+            "length": 87
+          }
+        },
+        {
+          "content": "Data, we can refer to the Bank's Privacy Notice at www.pbebank.com or obtain a copy",
+          "confidence": 0.999401,
+          "geometry": {
+            "x0": 87.0,
+            "y0": 1823.0,
+            "x1": 1144.0,
+            "y1": 1858.0
+          },
+          "source": "D(3,87,1823,1144,1858)",
+          "span": {
+            "offset": 6103,
+            "length": 83
+          }
+        },
+        {
+          "content": "Kami memahami bahawa kami berhak untuk mendapat akses kepada dan untuk memohon",
+          "confidence": 0.998424,
+          "geometry": {
+            "x0": 1201.0,
+            "y0": 1839.0,
+            "x1": 2291.0,
+            "y1": 1871.0
+          },
+          "source": "D(3,1201,1839,2291,1871)",
+          "span": {
+            "offset": 6187,
+            "length": 78
+          }
+        },
+        {
+          "content": "from the Bank's branches.",
+          "confidence": 0.999837,
+          "geometry": {
+            "x0": 89.0,
+            "y0": 1865.0,
+            "x1": 403.0,
+            "y1": 1896.0
+          },
+          "source": "D(3,89,1865,403,1896)",
+          "span": {
+            "offset": 6266,
+            "length": 25
+          }
+        },
+        {
+          "content": "pembetulan dibuat pada mana-mana Data Peribadi kami yang ada pada Bank dan bahawa",
+          "confidence": 0.995947,
+          "geometry": {
+            "x0": 1200.0,
+            "y0": 1878.0,
+            "x1": 2293.0,
+            "y1": 1912.0
+          },
+          "source": "D(3,1200,1878,2293,1912)",
+          "span": {
+            "offset": 6292,
+            "length": 81
+          }
+        },
+        {
+          "content": "Upon approval of Credit Card-i and in accordance with the provisions contained in the PIB",
+          "confidence": 0.993988,
+          "geometry": {
+            "x0": 88.0,
+            "y0": 1925.0,
+            "x1": 1144.0,
+            "y1": 1960.0
+          },
+          "source": "D(3,88,1925,1144,1960)",
+          "span": {
+            "offset": 6374,
+            "length": 89
+          }
+        },
+        {
+          "content": "kami boleh memaklumkan kepada Bank untuk berhenti daripada menggunakan Data",
+          "confidence": 0.99252,
+          "geometry": {
+            "x0": 1200.0,
+            "y0": 1917.0,
+            "x1": 2293.0,
+            "y1": 1950.0
+          },
+          "source": "D(3,1200,1917,2293,1950)",
+          "span": {
+            "offset": 6464,
+            "length": 75
+          }
+        },
+        {
+          "content": "Peribadi kami bagi tujuan di atas dan bahawa permohonan boleh dibuat secara bertulis",
+          "confidence": 0.996734,
+          "geometry": {
+            "x0": 1199.0,
+            "y0": 1953.0,
+            "x1": 2294.0,
+            "y1": 1988.0
+          },
+          "source": "D(3,1199,1953,2294,1988)",
+          "span": {
+            "offset": 6540,
+            "length": 84
+          }
+        },
+        {
+          "content": "Cardmember Agreement, we hereby request the Bank to purchase the Commodity from",
+          "confidence": 0.993064,
+          "geometry": {
+            "x0": 89.0,
+            "y0": 1965.0,
+            "x1": 1144.0,
+            "y1": 1998.0
+          },
+          "source": "D(3,89,1965,1144,1998)",
+          "span": {
+            "offset": 6625,
+            "length": 79
+          }
+        },
+        {
+          "content": "kepada Bank di cawangan pemegang akaun kami atau dengan menghantarnya kepada PB",
+          "confidence": 0.998693,
+          "geometry": {
+            "x0": 1200.0,
+            "y0": 1991.0,
+            "x1": 2293.0,
+            "y1": 2026.0
+          },
+          "source": "D(3,1200,1991,2293,2026)",
+          "span": {
+            "offset": 6705,
+            "length": 79
+          }
+        },
+        {
+          "content": "the Commodity Trader at the Bank's Purchase Price (\"BPP\"), which equivalent to the",
+          "confidence": 0.988365,
+          "geometry": {
+            "x0": 89.0,
+            "y0": 2004.0,
+            "x1": 1144.0,
+            "y1": 2034.0
+          },
+          "source": "D(3,89,2004,1144,2034)",
+          "span": {
+            "offset": 6785,
+            "length": 82
+          }
+        },
+        {
+          "content": "Card Services, Public Bank Berhad, 146 Jalan Ampang, 50450 Kuala Lumpur, Malaysia.",
+          "confidence": 0.994387,
+          "geometry": {
+            "x0": 1201.0,
+            "y0": 2031.0,
+            "x1": 2242.0,
+            "y1": 2066.0
+          },
+          "source": "D(3,1201,2031,2242,2066)",
+          "span": {
+            "offset": 6868,
+            "length": 82
+          }
+        },
+        {
+          "content": "approved Credit Limit (not exceeding the limit requested herein). We undertake to",
+          "confidence": 0.995173,
+          "geometry": {
+            "x0": 89.0,
+            "y0": 2043.0,
+            "x1": 1145.0,
+            "y1": 2076.0
+          },
+          "source": "D(3,89,2043,1145,2076)",
+          "span": {
+            "offset": 6951,
+            "length": 81
+          }
+        },
+        {
+          "content": "purchase the Commodity at the Bank's Sale Price as per the formula outlined in the PIB",
+          "confidence": 0.989173,
+          "geometry": {
+            "x0": 89.0,
+            "y0": 2079.0,
+            "x1": 1144.0,
+            "y1": 2114.0
+          },
+          "source": "D(3,89,2079,1144,2114)",
+          "span": {
+            "offset": 7033,
+            "length": 86
+          }
+        },
+        {
+          "content": "Kami memahami bahawa untuk mendapatkan butir-butir syarikat Bank dan sekutu Bank dan",
+          "confidence": 0.991289,
+          "geometry": {
+            "x0": 1201.0,
+            "y0": 2094.0,
+            "x1": 2292.0,
+            "y1": 2127.0
+          },
+          "source": "D(3,1201,2094,2292,2127)",
+          "span": {
+            "offset": 7120,
+            "length": 84
+          }
+        },
+        {
+          "content": "Cardmember Agreement. We acknowledge our liability for any violation to this promise.",
+          "confidence": 0.989396,
+          "geometry": {
+            "x0": 89.0,
+            "y0": 2117.0,
+            "x1": 1124.0,
+            "y1": 2152.0
+          },
+          "source": "D(3,89,2117,1124,2152)",
+          "span": {
+            "offset": 7205,
+            "length": 85
+          }
+        },
+        {
+          "content": "bagaimana Bank memungut, menggunakan, menyimpan, dengan siapa Bank berkongsi dan",
+          "confidence": 0.998646,
+          "geometry": {
+            "x0": 1201.0,
+            "y0": 2133.0,
+            "x1": 2292.0,
+            "y1": 2166.0
+          },
+          "source": "D(3,1201,2133,2292,2166)",
+          "span": {
+            "offset": 7291,
+            "length": 80
+          }
+        },
+        {
+          "content": "Subject to the Bank's approval and acceptance, we hereby irrevocably and",
+          "confidence": 0.992393,
+          "geometry": {
+            "x0": 89.0,
+            "y0": 2180.0,
+            "x1": 1145.0,
+            "y1": 2214.0
+          },
+          "source": "D(3,89,2180,1145,2214)",
+          "span": {
+            "offset": 7372,
+            "length": 72
+          }
+        },
+        {
+          "content": "bagaimana Bank menggunakan Data Peribadi kami, kami boleh merujuk Notis Privasi Bank",
+          "confidence": 0.997626,
+          "geometry": {
+            "x0": 1200.0,
+            "y0": 2169.0,
+            "x1": 2295.0,
+            "y1": 2204.0
+          },
+          "source": "D(3,1200,2169,2295,2204)",
+          "span": {
+            "offset": 7445,
+            "length": 84
+          }
+        },
+        {
+          "content": "melalui www.pbebank.com atau mendapatkan salinannya daripada cawangan Bank.",
+          "confidence": 0.999006,
+          "geometry": {
+            "x0": 1202.0,
+            "y0": 2210.0,
+            "x1": 2204.0,
+            "y1": 2240.0
+          },
+          "source": "D(3,1202,2210,2204,2240)",
+          "span": {
+            "offset": 7530,
+            "length": 75
+          }
+        },
+        {
+          "content": "unconditionally appoint the Bank as my/our agent under the Shariah principle of Wakalah,",
+          "confidence": 0.999076,
+          "geometry": {
+            "x0": 90.0,
+            "y0": 2220.0,
+            "x1": 1142.0,
+            "y1": 2250.0
+          },
+          "source": "D(3,90,2220,1142,2250)",
+          "span": {
+            "offset": 7606,
+            "length": 88
+          }
+        },
+        {
+          "content": "in accordance with the formula and terms outlined in the PIB Cardmember Agreement to:",
+          "confidence": 0.996774,
+          "geometry": {
+            "x0": 89.0,
+            "y0": 2258.0,
+            "x1": 1145.0,
+            "y1": 2290.0
+          },
+          "source": "D(3,89,2258,1145,2290)",
+          "span": {
+            "offset": 7695,
+            "length": 85
+          }
+        },
+        {
+          "content": "Selepas Kad Kredit-i diluluskan dan menurut peruntukan yang terkandung dalam Perjanjian",
+          "confidence": 0.999164,
+          "geometry": {
+            "x0": 1201.0,
+            "y0": 2272.0,
+            "x1": 2292.0,
+            "y1": 2305.0
+          },
+          "source": "D(3,1201,2272,2292,2305)",
+          "span": {
+            "offset": 7781,
+            "length": 87
+          }
+        },
+        {
+          "content": "(i) purchase the Commodity from the Bank at the Bank's Sale Price; and",
+          "confidence": 0.999239,
+          "geometry": {
+            "x0": 90.0,
+            "y0": 2296.0,
+            "x1": 955.0,
+            "y1": 2330.0
+          },
+          "source": "D(3,90,2296,955,2330)",
+          "span": {
+            "offset": 7869,
+            "length": 70
+          }
+        },
+        {
+          "content": "Ahli Kad PIB, kami dengan ini memohon Bank untuk membeli Komoditi daripada Pedagang",
+          "confidence": 0.992864,
+          "geometry": {
+            "x0": 1198.0,
+            "y0": 2308.0,
+            "x1": 2292.0,
+            "y1": 2345.0
+          },
+          "source": "D(3,1198,2308,2292,2345)",
+          "span": {
+            "offset": 7940,
+            "length": 83
+          }
+        },
+        {
+          "content": "(ii) sell the Commodity at the Bank's Purchase Price to any third-party",
+          "confidence": 0.97812,
+          "geometry": {
+            "x0": 90.0,
+            "y0": 2335.0,
+            "x1": 1144.0,
+            "y1": 2369.0
+          },
+          "source": "D(3,90,2335,1144,2369)",
+          "span": {
+            "offset": 8024,
+            "length": 71
+          }
+        },
+        {
+          "content": "Komoditi pada Harga Belian Bank (\"BPP”), bersamaan dengan Had Kredit yang diluluskan",
+          "confidence": 0.990767,
+          "geometry": {
+            "x0": 1201.0,
+            "y0": 2349.0,
+            "x1": 2292.0,
+            "y1": 2382.0
+          },
+          "source": "D(3,1201,2349,2292,2382)",
+          "span": {
+            "offset": 8096,
+            "length": 84
+          }
+        },
+        {
+          "content": "purchaser/commodity trader as the Bank deems appropriate",
+          "confidence": 0.999875,
+          "geometry": {
+            "x0": 130.0,
+            "y0": 2373.0,
+            "x1": 847.0,
+            "y1": 2406.0
+          },
+          "source": "D(3,130,2373,847,2406)",
+          "span": {
+            "offset": 8181,
+            "length": 56
+          }
+        },
+        {
+          "content": "(tidak melebihi had yang dimohon dalam ini). Kami mengaku janji untuk membeli Komoditi",
+          "confidence": 0.991928,
+          "geometry": {
+            "x0": 1202.0,
+            "y0": 2387.0,
+            "x1": 2293.0,
+            "y1": 2420.0
+          },
+          "source": "D(3,1202,2387,2293,2420)",
+          "span": {
+            "offset": 8238,
+            "length": 86
+          }
+        },
+        {
+          "content": "We agree to be bound by any contract or agreement that the Bank may enter into on our",
+          "confidence": 0.998015,
+          "geometry": {
+            "x0": 88.0,
+            "y0": 2433.0,
+            "x1": 1145.0,
+            "y1": 2468.0
+          },
+          "source": "D(3,88,2433,1145,2468)",
+          "span": {
+            "offset": 8325,
+            "length": 85
+          }
+        },
+        {
+          "content": "tersebut pada Harga Jualan Bank mengikut formula yang dinyatakan dalam Perjanjian Ahli",
+          "confidence": 0.999506,
+          "geometry": {
+            "x0": 1200.0,
+            "y0": 2424.0,
+            "x1": 2292.0,
+            "y1": 2457.0
+          },
+          "source": "D(3,1200,2424,2292,2457)",
+          "span": {
+            "offset": 8411,
+            "length": 86
+          }
+        },
+        {
+          "content": "Kad PIB. Kami mengakui liabiliti kami atas apa-apa pelanggaran janji ini.",
+          "confidence": 0.98782,
+          "geometry": {
+            "x0": 1199.0,
+            "y0": 2463.0,
+            "x1": 2061.0,
+            "y1": 2498.0
+          },
+          "source": "D(3,1199,2463,2061,2498)",
+          "span": {
+            "offset": 8498,
+            "length": 73
+          }
+        },
+        {
+          "content": "behalf in relation to the acquisition and sale of the Commodity with the aforementioned",
+          "confidence": 0.996082,
+          "geometry": {
+            "x0": 89.0,
+            "y0": 2474.0,
+            "x1": 1144.0,
+            "y1": 2507.0
+          },
+          "source": "D(3,89,2474,1144,2507)",
+          "span": {
+            "offset": 8572,
+            "length": 87
+          }
+        },
+        {
+          "content": "third-party purchaser/commodity trader.",
+          "confidence": 0.992507,
+          "geometry": {
+            "x0": 90.0,
+            "y0": 2514.0,
+            "x1": 568.0,
+            "y1": 2545.0
+          },
+          "source": "D(3,90,2514,568,2545)",
+          "span": {
+            "offset": 8660,
+            "length": 39
+          }
+        },
+        {
+          "content": "Tertakluk kepada kelulusan dan penerimaan Bank, kami dengan ini tanpa boleh ditarik balik",
+          "confidence": 0.996474,
+          "geometry": {
+            "x0": 1203.0,
+            "y0": 2526.0,
+            "x1": 2293.0,
+            "y1": 2559.0
+          },
+          "source": "D(3,1203,2526,2293,2559)",
+          "span": {
+            "offset": 8700,
+            "length": 89
+          }
+        },
+        {
+          "content": "We acknowledge and accept all Terms and Conditions associated with the Credit Card-i",
+          "confidence": 0.991662,
+          "geometry": {
+            "x0": 89.0,
+            "y0": 2574.0,
+            "x1": 1145.0,
+            "y1": 2607.0
+          },
+          "source": "D(3,89,2574,1145,2607)",
+          "span": {
+            "offset": 8790,
+            "length": 84
+          }
+        },
+        {
+          "content": "dan tanpa syarat melantik Bank sebagai ejen kami di bawah prinsip Syariah Wakalah, selaras",
+          "confidence": 0.996451,
+          "geometry": {
+            "x0": 1203.0,
+            "y0": 2566.0,
+            "x1": 2292.0,
+            "y1": 2596.0
+          },
+          "source": "D(3,1203,2566,2292,2596)",
+          "span": {
+            "offset": 8875,
+            "length": 90
+          }
+        },
+        {
+          "content": "application as per the Cardmember Agreement, including the obligation to pay the Bank",
+          "confidence": 0.999803,
+          "geometry": {
+            "x0": 89.0,
+            "y0": 2612.0,
+            "x1": 1145.0,
+            "y1": 2645.0
+          },
+          "source": "D(3,89,2612,1145,2645)",
+          "span": {
+            "offset": 8966,
+            "length": 85
+          }
+        },
+        {
+          "content": "dengan formula dan terma yang dinyatakan dalam Perjanjian Kad PIB, untuk:",
+          "confidence": 0.998833,
+          "geometry": {
+            "x0": 1203.0,
+            "y0": 2604.0,
+            "x1": 2114.0,
+            "y1": 2634.0
+          },
+          "source": "D(3,1203,2604,2114,2634)",
+          "span": {
+            "offset": 9052,
+            "length": 73
+          }
+        },
+        {
+          "content": "(i) membeli Komoditi daripada Bank pada Harga Jualan Bank; dan",
+          "confidence": 0.982712,
+          "geometry": {
+            "x0": 1202.0,
+            "y0": 2640.0,
+            "x1": 1995.0,
+            "y1": 2673.0
+          },
+          "source": "D(3,1202,2640,1995,2673)",
+          "span": {
+            "offset": 9126,
+            "length": 62
+          }
+        },
+        {
+          "content": "along with any Wakalah and/or brokerage fees (if any) as per specified therein.",
+          "confidence": 0.989862,
+          "geometry": {
+            "x0": 89.0,
+            "y0": 2651.0,
+            "x1": 1022.0,
+            "y1": 2684.0
+          },
+          "source": "D(3,89,2651,1022,2684)",
+          "span": {
+            "offset": 9189,
+            "length": 79
+          }
+        },
+        {
+          "content": "(ii) menjual Komoditi pada Harga Belian Bank kepada mana-mana pembeli/pedagang",
+          "confidence": 0.995293,
+          "geometry": {
+            "x0": 1201.0,
+            "y0": 2679.0,
+            "x1": 2291.0,
+            "y1": 2714.0
+          },
+          "source": "D(3,1201,2679,2291,2714)",
+          "span": {
+            "offset": 9269,
+            "length": 78
+          }
+        },
+        {
+          "content": "We undertake to indemnify the Bank for any and all losses, costs, expenses arising from",
+          "confidence": 0.999308,
+          "geometry": {
+            "x0": 88.0,
+            "y0": 2712.0,
+            "x1": 1143.0,
+            "y1": 2748.0
+          },
+          "source": "D(3,88,2712,1143,2748)",
+          "span": {
+            "offset": 9348,
+            "length": 87
+          }
+        },
+        {
+          "content": "komoditi pihak ketiga seperti yang dianggap wajar oleh Bank.",
+          "confidence": 0.989681,
+          "geometry": {
+            "x0": 1240.0,
+            "y0": 2718.0,
+            "x1": 1972.0,
+            "y1": 2752.0
+          },
+          "source": "D(3,1240,2718,1972,2752)",
+          "span": {
+            "offset": 9436,
+            "length": 60
+          }
+        },
+        {
+          "content": "claims, proceedings, actions, requests or any form of damages that the Bank may suffer",
+          "confidence": 0.995036,
+          "geometry": {
+            "x0": 88.0,
+            "y0": 2752.0,
+            "x1": 1143.0,
+            "y1": 2786.0
+          },
+          "source": "D(3,88,2752,1143,2786)",
+          "span": {
+            "offset": 9497,
+            "length": 86
+          }
+        },
+        {
+          "content": "Kami bersetuju untuk terikat dengan apa-apa kontrak atau perjanjian yang Bank mungkin",
+          "confidence": 0.999358,
+          "geometry": {
+            "x0": 1200.0,
+            "y0": 2779.0,
+            "x1": 2291.0,
+            "y1": 2814.0
+          },
+          "source": "D(3,1200,2779,2291,2814)",
+          "span": {
+            "offset": 9584,
+            "length": 85
+          }
+        },
+        {
+          "content": "or incur while fulfilling its agency responsibilities as described herein.",
+          "confidence": 0.994594,
+          "geometry": {
+            "x0": 88.0,
+            "y0": 2791.0,
+            "x1": 914.0,
+            "y1": 2824.0
+          },
+          "source": "D(3,88,2791,914,2824)",
+          "span": {
+            "offset": 9670,
+            "length": 74
+          }
+        },
+        {
+          "content": "meterai bagi pihak kami berkaitan dengan pemerolehan dan penjualan Komoditi dengan",
+          "confidence": 0.994299,
+          "geometry": {
+            "x0": 1200.0,
+            "y0": 2819.0,
+            "x1": 2292.0,
+            "y1": 2852.0
+          },
+          "source": "D(3,1200,2819,2292,2852)",
+          "span": {
+            "offset": 9745,
+            "length": 82
+          }
+        },
+        {
+          "content": "pembeli/pedagang komoditi pihak ketiga yang dinyatakan di atas.",
+          "confidence": 0.994908,
+          "geometry": {
+            "x0": 1200.0,
+            "y0": 2857.0,
+            "x1": 1981.0,
+            "y1": 2890.0
+          },
+          "source": "D(3,1200,2857,1981,2890)",
+          "span": {
+            "offset": 9828,
+            "length": 63
+          }
+        },
+        {
+          "content": "Kami mengakui dan menerima semua Terma dan Syarat berkaitan dengan permohonan Kad",
+          "confidence": 0.993626,
+          "geometry": {
+            "x0": 1201.0,
+            "y0": 2920.0,
+            "x1": 2293.0,
+            "y1": 2953.0
+          },
+          "source": "D(3,1201,2920,2293,2953)",
+          "span": {
+            "offset": 9892,
+            "length": 81
+          }
+        },
+        {
+          "content": "Kredit-i seperti dalam Perjanjian Ahli Kad, termasuk tanggungjawab untuk membayar",
+          "confidence": 0.997643,
+          "geometry": {
+            "x0": 1199.0,
+            "y0": 2957.0,
+            "x1": 2295.0,
+            "y1": 2992.0
+          },
+          "source": "D(3,1199,2957,2295,2992)",
+          "span": {
+            "offset": 9974,
+            "length": 81
+          }
+        },
+        {
+          "content": "kepada Bank berserta apa-apa Wakalah dan/atau fi pembrokeran (jika ada) seperti yang",
+          "confidence": 0.98461,
+          "geometry": {
+            "x0": 1200.0,
+            "y0": 2997.0,
+            "x1": 2292.0,
+            "y1": 3030.0
+          },
+          "source": "D(3,1200,2997,2292,3030)",
+          "span": {
+            "offset": 10056,
+            "length": 84
+          }
+        },
+        {
+          "content": "diperincikan dalam perjanjian tersebut.",
+          "confidence": 0.999825,
+          "geometry": {
+            "x0": 1203.0,
+            "y0": 3036.0,
+            "x1": 1664.0,
+            "y1": 3067.0
+          },
+          "source": "D(3,1203,3036,1664,3067)",
+          "span": {
+            "offset": 10141,
+            "length": 39
+          }
+        },
+        {
+          "content": "Kami mengaku janji untuk menanggung rugi kepada Bank terhadap apa-apa kerugian, kos,",
+          "confidence": 0.998594,
+          "geometry": {
+            "x0": 1200.0,
+            "y0": 3096.0,
+            "x1": 2288.0,
+            "y1": 3130.0
+          },
+          "source": "D(3,1200,3096,2288,3130)",
+          "span": {
+            "offset": 10181,
+            "length": 84
+          }
+        },
+        {
+          "content": "perbelanjaan berikutan tuntutan, prosiding, tindakan, permintaan atau apa jua bentuk ganti",
+          "confidence": 0.990296,
+          "geometry": {
+            "x0": 1200.0,
+            "y0": 3137.0,
+            "x1": 2292.0,
+            "y1": 3171.0
+          },
+          "source": "D(3,1200,3137,2292,3171)",
+          "span": {
+            "offset": 10266,
+            "length": 90
+          }
+        },
+        {
+          "content": "rugi yang mungkin dialami atau ditanggung oleh Bank semasa memenuhi",
+          "confidence": 0.992977,
+          "geometry": {
+            "x0": 1199.0,
+            "y0": 3175.0,
+            "x1": 2293.0,
+            "y1": 3209.0
+          },
+          "source": "D(3,1199,3175,2293,3209)",
+          "span": {
+            "offset": 10357,
+            "length": 67
+          }
+        },
+        {
+          "content": "tanggungjawabnya sebagai ejen seperti yang dijelaskan di sini.",
+          "confidence": 0.992186,
+          "geometry": {
+            "x0": 1201.0,
+            "y0": 3212.0,
+            "x1": 1949.0,
+            "y1": 3247.0
+          },
+          "source": "D(3,1201,3212,1949,3247)",
+          "span": {
+            "offset": 10425,
+            "length": 62
+          }
+        },
+        {
+          "content": "PUBLIC BANK BERHAD 196501000672 (6463-H) / PUBLIC ISLAMIC BANK BERHAD 197301001433 (14328-V)",
+          "confidence": 0.998653,
+          "geometry": {
+            "x0": 55.0,
+            "y0": 3293.0,
+            "x1": 1459.0,
+            "y1": 3334.0
+          },
+          "source": "D(3,55,3293,1459,3334)",
+          "span": {
+            "offset": 10488,
+            "length": 92
+          }
+        },
+        {
+          "content": "FORMS/PBC009/REV261125/YJX",
+          "confidence": 0.999955,
+          "geometry": {
+            "x0": 1813.0,
+            "y0": 3301.0,
+            "x1": 2306.0,
+            "y1": 3336.0
+          },
+          "source": "D(3,1813,3301,2306,3336)",
+          "span": {
+            "offset": 10581,
+            "length": 26
+          }
+        }
+      ]
+    },
+    {
+      "pageNumber": 4,
+      "angle": 0,
+      "width": 2382,
+      "height": 3368,
+      "spans": [
+        {
+          "offset": 0,
+          "length": 937
+        }
+      ],
+      "words": [
+        {
+          "content": "IMPORTANT",
+          "confidence": 0.999988,
+          "geometry": {
+            "x0": 115.0,
+            "y0": 51.0,
+            "x1": 337.0,
+            "y1": 85.0
+          },
+          "source": "D(4,115,51,337,85)",
+          "span": {
+            "offset": 0,
+            "length": 9
+          }
+        },
+        {
+          "content": "MUSTAHAK",
+          "confidence": 0.999985,
+          "geometry": {
+            "x0": 1220.0,
+            "y0": 51.0,
+            "x1": 1428.0,
+            "y1": 85.0
+          },
+          "source": "D(4,1220,51,1428,85)",
+          "span": {
+            "offset": 10,
+            "length": 8
+          }
+        },
+        {
+          "content": "For processing, please remember to enclose:",
+          "confidence": 0.999887,
+          "geometry": {
+            "x0": 105.0,
+            "y0": 121.0,
+            "x1": 642.0,
+            "y1": 155.0
+          },
+          "source": "D(4,105,121,642,155)",
+          "span": {
+            "offset": 19,
+            "length": 43
+          }
+        },
+        {
+          "content": "Untuk pemprosesan, sila lampirkan:",
+          "confidence": 0.998933,
+          "geometry": {
+            "x0": 1206.0,
+            "y0": 121.0,
+            "x1": 1634.0,
+            "y1": 155.0
+          },
+          "source": "D(4,1206,121,1634,155)",
+          "span": {
+            "offset": 63,
+            "length": 34
+          }
+        },
+        {
+          "content": "Copy of NRIC (both sides) or Passport and Work Permit for Non-Malaysians.",
+          "confidence": 0.992797,
+          "geometry": {
+            "x0": 150.0,
+            "y0": 158.0,
+            "x1": 1041.0,
+            "y1": 192.0
+          },
+          "source": "D(4,150,158,1041,192)",
+          "span": {
+            "offset": 98,
+            "length": 73
+          }
+        },
+        {
+          "content": "Salinan Kad Pengenalan (kedua-dua belah) atau Pasport dan Permit Kerja untuk Bukan",
+          "confidence": 0.992394,
+          "geometry": {
+            "x0": 1251.0,
+            "y0": 159.0,
+            "x1": 2282.0,
+            "y1": 193.0
+          },
+          "source": "D(4,1251,159,2282,193)",
+          "span": {
+            "offset": 172,
+            "length": 82
+          }
+        },
+        {
+          "content": "Supplementary Cardmember must be at least 18 years old.",
+          "confidence": 0.999678,
+          "geometry": {
+            "x0": 151.0,
+            "y0": 197.0,
+            "x1": 855.0,
+            "y1": 232.0
+          },
+          "source": "D(4,151,197,855,232)",
+          "span": {
+            "offset": 255,
+            "length": 55
+          }
+        },
+        {
+          "content": "Warganegara Malaysia.",
+          "confidence": 0.999553,
+          "geometry": {
+            "x0": 1252.0,
+            "y0": 196.0,
+            "x1": 1532.0,
+            "y1": 234.0
+          },
+          "source": "D(4,1252,196,1532,234)",
+          "span": {
+            "offset": 311,
+            "length": 21
+          }
+        },
+        {
+          "content": "Ahli Kad Tambahan mestilah berumur sekurang-kurangnya 18 tahun.",
+          "confidence": 0.999292,
+          "geometry": {
+            "x0": 1250.0,
+            "y0": 234.0,
+            "x1": 2072.0,
+            "y1": 270.0
+          },
+          "source": "D(4,1250,234,2072,270)",
+          "span": {
+            "offset": 333,
+            "length": 63
+          }
+        },
+        {
+          "content": "IMPORTANT NOTE : LEGAL ACTION MAY BE TAKEN AGAINST YOU IF YOU DO NOT KEEP",
+          "confidence": 0.993858,
+          "geometry": {
+            "x0": 104.0,
+            "y0": 258.0,
+            "x1": 1183.0,
+            "y1": 288.0
+          },
+          "source": "D(4,104,258,1183,288)",
+          "span": {
+            "offset": 397,
+            "length": 73
+          }
+        },
+        {
+          "content": "UP REPAYMENTS ON YOUR CREDIT CARD BALANCES.",
+          "confidence": 0.999695,
+          "geometry": {
+            "x0": 359.0,
+            "y0": 296.0,
+            "x1": 1030.0,
+            "y1": 326.0
+          },
+          "source": "D(4,359,296,1030,326)",
+          "span": {
+            "offset": 471,
+            "length": 43
+          }
+        },
+        {
+          "content": "MAKLUMAN PENTING: TINDAKAN UNDANG-UNDANG AKAN DIAMBIL TERHADAP",
+          "confidence": 0.995846,
+          "geometry": {
+            "x0": 1204.0,
+            "y0": 294.0,
+            "x1": 2283.0,
+            "y1": 327.0
+          },
+          "source": "D(4,1204,294,2283,327)",
+          "span": {
+            "offset": 515,
+            "length": 62
+          }
+        },
+        {
+          "content": "The information provided in this disclosure sheet is valid as at November 2025.",
+          "confidence": 0.995756,
+          "geometry": {
+            "x0": 103.0,
+            "y0": 340.0,
+            "x1": 998.0,
+            "y1": 375.0
+          },
+          "source": "D(4,103,340,998,375)",
+          "span": {
+            "offset": 578,
+            "length": 79
+          }
+        },
+        {
+          "content": "ANDA SEKIRANYA ANDA TIDAK MEMBUAT PEMBAYARAN",
+          "confidence": 0.988514,
+          "geometry": {
+            "x0": 1500.0,
+            "y0": 333.0,
+            "x1": 2280.0,
+            "y1": 363.0
+          },
+          "source": "D(4,1500,333,2280,363)",
+          "span": {
+            "offset": 658,
+            "length": 44
+          }
+        },
+        {
+          "content": "BALIK BAGI BAKI KAD KREDIT ANDA.",
+          "confidence": 0.998245,
+          "geometry": {
+            "x0": 1502.0,
+            "y0": 372.0,
+            "x1": 1968.0,
+            "y1": 402.0
+          },
+          "source": "D(4,1502,372,1968,402)",
+          "span": {
+            "offset": 703,
+            "length": 32
+          }
+        },
+        {
+          "content": "Maklumat yang disediakan di dalam lembaran pendedahan ini sah pada November 2025.",
+          "confidence": 0.993464,
+          "geometry": {
+            "x0": 1209.0,
+            "y0": 416.0,
+            "x1": 2215.0,
+            "y1": 449.0
+          },
+          "source": "D(4,1209,416,2215,449)",
+          "span": {
+            "offset": 736,
+            "length": 81
+          }
+        },
+        {
+          "content": "PUBLIC BANK BERHAD 196501000672 (6463-H) / PUBLIC ISLAMIC BANK BERHAD 197301001433 (14328-V)",
+          "confidence": 0.995242,
+          "geometry": {
+            "x0": 54.0,
+            "y0": 3294.0,
+            "x1": 1460.0,
+            "y1": 3334.0
+          },
+          "source": "D(4,54,3294,1460,3334)",
+          "span": {
+            "offset": 818,
+            "length": 92
+          }
+        },
+        {
+          "content": "FORMS/PBC009/REV261125/YJX",
+          "confidence": 0.999943,
+          "geometry": {
+            "x0": 1814.0,
+            "y0": 3303.0,
+            "x1": 2307.0,
+            "y1": 3334.0
+          },
+          "source": "D(4,1814,3303,2307,3334)",
+          "span": {
+            "offset": 911,
+            "length": 26
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -24,7 +24,7 @@ print("Running OCR...")
 model.infer(
     tokenizer,
     prompt="<image>document parsing.",
-    image_file="D:/Git/OCR-Benchmark/test/contract.png",
+    image_file="D:/Git/OCR-Benchmark/test/Fill_In_Blank.png",
     output_path="output",
     base_size=1024,
     image_size=640,

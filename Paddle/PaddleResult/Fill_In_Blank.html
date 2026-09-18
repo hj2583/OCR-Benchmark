@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>OCR Results with Confidence Scores</title>
+<style>
+  body { font-family: Arial, sans-serif; margin: 20px; background-color: #f5f5f5; }
+  .page-container { margin: 20px 0; page-break-after: always; }
+  .page-header { font-size: 18px; font-weight: bold; margin: 10px 0; color: #333; }
+  .page-stats { font-size: 12px; color: #666; margin-bottom: 10px; }
+  .ocr-page-view {
+    position: relative;
+    background-color: white;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    overflow: hidden;
+    margin: 10px 0;
+  }
+  .ocr-word {
+    position: absolute;
+    padding: 2px 4px;
+    border: 1px solid transparent;
+    font-size: 12px;
+    font-family: monospace;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+  .ocr-word:hover { border: 1px solid #333; }
+  .confidence-very-high { background-color: #90EE90; color: #000; }
+  .confidence-high { background-color: #FFEB3B; color: #000; }
+  .confidence-medium { background-color: #FFA500; color: #fff; }
+  .confidence-low { background-color: #FF6B6B; color: #fff; }
+  .legend {
+    margin: 20px 0;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-left: 4px solid #333;
+  }
+  .legend-item { margin: 5px 0; font-size: 12px; }
+  .legend-color { display: inline-block; width: 20px; height: 20px; margin-right: 8px; border: 1px solid #999; }
+</style>
+</head>
+<body>
+<div class="legend">
+<strong>Confidence Score Legend:</strong>
+<div class="legend-item"><div class="legend-color" style="background-color: #90EE90;"></div>Very High (0.9+)</div>
+<div class="legend-item"><div class="legend-color" style="background-color: #FFEB3B;"></div>High (0.8-0.9)</div>
+<div class="legend-item"><div class="legend-color" style="background-color: #FFA500;"></div>Medium (0.5-0.8)</div>
+<div class="legend-item"><div class="legend-color" style="background-color: #FF6B6B;"></div>Low (<0.5)</div>
+</div>
+<div class="page-container">
+<div class="page-header">Page 1</div>
+<div class="page-stats">Words: 65, Avg Confidence: 0.9942</div>
+<div class="ocr-page-view" style="width: 1000px; aspect-ratio: 2044/2734;">
+<div class="ocr-word confidence-very-high" style="left:5.9%;top:3.6%;width:10.3%;height:1.6%;" title="Word form (confidence: 1.000, source: D(1,120,99,330,144))">Word form</div>
+<div class="ocr-word confidence-very-high" style="left:5.9%;top:5.4%;width:61.2%;height:1.6%;" title="Fill in each blank with the correct form of the word in the bracket (confidence: 0.997, source: D(1,121,149,1371,193))">Fill in each blank with the correct form of the word in the bracket</div>
+<div class="ocr-word confidence-very-high" style="left:9.3%;top:11.5%;width:7.9%;height:2.0%;" title="1. The (confidence: 0.999, source: D(1,190,315,351,371))">1. The</div>
+<div class="ocr-word confidence-very-high" style="left:31.0%;top:11.7%;width:41.9%;height:1.9%;" title="(renew) of her passport will take two weeks. (confidence: 0.999, source: D(1,634,319,1491,371))">(renew) of her passport will take two weeks.</div>
+<div class="ocr-word confidence-very-high" style="left:9.3%;top:14.2%;width:9.2%;height:1.8%;" title="2. Don&#x27;t (confidence: 0.999, source: D(1,190,389,378,438))">2. Don&#x27;t</div>
+<div class="ocr-word confidence-very-high" style="left:31.7%;top:14.3%;width:42.3%;height:1.8%;" title="(angry) her anymore or she will beat you up. (confidence: 0.993, source: D(1,648,391,1512,441))">(angry) her anymore or she will beat you up.</div>
+<div class="ocr-word confidence-very-high" style="left:9.3%;top:16.8%;width:27.8%;height:1.8%;" title="3. The escaped leopard will (confidence: 1.000, source: D(1,191,459,760,508))">3. The escaped leopard will</div>
+<div class="ocr-word confidence-very-high" style="left:51.0%;top:16.8%;width:31.5%;height:1.9%;" title="(danger) the lives of the villagers (confidence: 1.000, source: D(1,1043,459,1686,510))">(danger) the lives of the villagers</div>
+<div class="ocr-word confidence-very-high" style="left:9.3%;top:19.4%;width:31.8%;height:1.8%;" title="4. The champion squad jumped (confidence: 1.000, source: D(1,190,530,839,580))">4. The champion squad jumped</div>
+<div class="ocr-word confidence-very-high" style="left:55.1%;top:19.4%;width:37.6%;height:1.8%;" title="(triumphant) when Its name was called. (confidence: 0.999, source: D(1,1126,530,1894,580))">(triumphant) when Its name was called.</div>
+<div class="ocr-word confidence-very-high" style="left:9.3%;top:21.9%;width:10.6%;height:1.8%;" title="5. Please (confidence: 0.998, source: D(1,190,599,407,648))">5. Please</div>
+<div class="ocr-word confidence-very-high" style="left:33.9%;top:21.9%;width:58.7%;height:1.9%;" title="(low) the volume of your voice. I can even hear you from next (confidence: 0.996, source: D(1,692,598,1892,650))">(low) the volume of your voice. I can even hear you from next</div>
+<div class="ocr-word confidence-very-high" style="left:12.7%;top:23.8%;width:5.5%;height:1.8%;" title="door. (confidence: 1.000, source: D(1,259,651,371,701))">door.</div>
+<div class="ocr-word confidence-very-high" style="left:9.1%;top:26.2%;width:8.0%;height:2.0%;" title="6. The (confidence: 1.000, source: D(1,187,717,350,772))">6. The</div>
+<div class="ocr-word confidence-very-high" style="left:31.0%;top:26.4%;width:56.9%;height:1.8%;" title="(endure) test will take approximately two hours to complete. (confidence: 1.000, source: D(1,633,723,1796,773))">(endure) test will take approximately two hours to complete.</div>
+<div class="ocr-word confidence-very-high" style="left:9.2%;top:28.9%;width:47.4%;height:2.0%;" title="7. The play is so boring. The script writer should (confidence: 0.994, source: D(1,189,790,1157,844))">7. The play is so boring. The script writer should</div>
+<div class="ocr-word confidence-very-high" style="left:70.6%;top:29.0%;width:23.3%;height:1.8%;" title="(live) It with more Jokes. (confidence: 0.995, source: D(1,1443,792,1919,842))">(live) It with more Jokes.</div>
+<div class="ocr-word confidence-very-high" style="left:9.2%;top:31.4%;width:8.0%;height:1.9%;" title="8. The (confidence: 1.000, source: D(1,188,859,351,912))">8. The</div>
+<div class="ocr-word confidence-very-high" style="left:31.0%;top:31.6%;width:40.5%;height:1.9%;" title="(rebel) was stopped in time by the military. (confidence: 0.982, source: D(1,633,863,1461,914))">(rebel) was stopped in time by the military.</div>
+<div class="ocr-word confidence-very-high" style="left:9.3%;top:34.1%;width:38.6%;height:1.8%;" title="9. The couple came here at the special (confidence: 0.991, source: D(1,190,931,980,980))">9. The couple came here at the special</div>
+<div class="ocr-word confidence-very-high" style="left:62.0%;top:34.2%;width:27.2%;height:1.8%;" title="(invite) of the prime minister. (confidence: 0.995, source: D(1,1268,934,1824,982))">(invite) of the prime minister.</div>
+<div class="ocr-word confidence-very-high" style="left:9.5%;top:36.6%;width:20.9%;height:2.0%;" title="10. Please accept my (confidence: 0.997, source: D(1,194,1000,621,1054))">10. Please accept my</div>
+<div class="ocr-word confidence-very-high" style="left:44.3%;top:36.6%;width:43.8%;height:1.8%;" title="(sister) advice. You look horrible in that dress. (confidence: 0.997, source: D(1,905,1002,1801,1052))">(sister) advice. You look horrible in that dress.</div>
+<div class="ocr-word confidence-very-high" style="left:9.5%;top:39.2%;width:7.6%;height:1.9%;" title="11.The (confidence: 1.000, source: D(1,194,1071,349,1122))">11.The</div>
+<div class="ocr-word confidence-very-high" style="left:31.0%;top:39.2%;width:50.9%;height:1.9%;" title="(tall) of the project left many of the staff disappointed. (confidence: 0.989, source: D(1,634,1072,1674,1123))">(tall) of the project left many of the staff disappointed.</div>
+<div class="ocr-word confidence-very-high" style="left:9.5%;top:41.9%;width:28.9%;height:1.7%;" title="12. The policemen are here to (confidence: 0.981, source: D(1,195,1145,785,1192))">12. The policemen are here to</div>
+<div class="ocr-word confidence-very-high" style="left:52.5%;top:41.8%;width:20.6%;height:1.8%;" title="(force) law and order. (confidence: 1.000, source: D(1,1073,1144,1494,1194))">(force) law and order.</div>
+<div class="ocr-word confidence-very-high" style="left:9.6%;top:44.4%;width:27.4%;height:1.7%;" title="13. The prophet is said to be (confidence: 0.990, source: D(1,196,1215,757,1262))">13. The prophet is said to be</div>
+<div class="ocr-word confidence-very-high" style="left:50.9%;top:44.4%;width:32.6%;height:1.9%;" title="(power) by God to save the world. (confidence: 1.000, source: D(1,1041,1213,1708,1266))">(power) by God to save the world.</div>
+<div class="ocr-word confidence-very-high" style="left:9.5%;top:47.0%;width:20.4%;height:1.7%;" title="14. You are under no (confidence: 0.991, source: D(1,195,1285,611,1331))">14. You are under no</div>
+<div class="ocr-word confidence-very-high" style="left:43.9%;top:46.9%;width:41.4%;height:1.9%;" title="(oblige) to accept the terms and conditions. (confidence: 0.988, source: D(1,897,1283,1743,1336))">(oblige) to accept the terms and conditions.</div>
+<div class="ocr-word confidence-very-high" style="left:9.4%;top:49.5%;width:13.0%;height:1.9%;" title="15. The rapid (confidence: 0.992, source: D(1,193,1353,458,1404))">15. The rapid</div>
+<div class="ocr-word confidence-very-high" style="left:36.4%;top:49.5%;width:47.5%;height:1.9%;" title="(grow) of the company took everyone by surprise. (confidence: 1.000, source: D(1,743,1353,1713,1406))">(grow) of the company took everyone by surprise.</div>
+<div class="ocr-word confidence-very-high" style="left:9.5%;top:52.0%;width:21.3%;height:1.9%;" title="16. All the pupils were (confidence: 0.982, source: D(1,195,1423,630,1474))">16. All the pupils were</div>
+<div class="ocr-word confidence-very-high" style="left:44.7%;top:52.0%;width:45.9%;height:2.0%;" title="(busy) finishing their exam papers when the bell (confidence: 1.000, source: D(1,914,1422,1852,1477))">(busy) finishing their exam papers when the bell</div>
+<div class="ocr-word confidence-very-high" style="left:12.6%;top:54.0%;width:5.6%;height:2.0%;" title="rang. (confidence: 1.000, source: D(1,258,1475,372,1530))">rang.</div>
+<div class="ocr-word confidence-very-high" style="left:9.5%;top:56.4%;width:22.0%;height:1.9%;" title="17. His grandmother is (confidence: 1.000, source: D(1,194,1542,644,1595))">17. His grandmother is</div>
+<div class="ocr-word confidence-very-high" style="left:45.4%;top:56.5%;width:41.7%;height:1.8%;" title="(critic) ill and wants to see him immediately. (confidence: 1.000, source: D(1,927,1544,1779,1594))">(critic) ill and wants to see him immediately.</div>
+<div class="ocr-word confidence-very-high" style="left:9.5%;top:59.1%;width:29.3%;height:1.9%;" title="18. &quot;Sally, you should be more (confidence: 0.968, source: D(1,195,1615,793,1667))">18. &quot;Sally, you should be more</div>
+<div class="ocr-word confidence-very-high" style="left:52.2%;top:59.2%;width:38.7%;height:1.8%;" title="(care) In your work.&quot; said the supervisor. (confidence: 0.987, source: D(1,1066,1618,1857,1666))">(care) In your work.&quot; said the supervisor.</div>
+<div class="ocr-word confidence-very-high" style="left:9.4%;top:61.6%;width:7.6%;height:1.8%;" title="19. The (confidence: 0.940, source: D(1,193,1684,348,1734))">19. The</div>
+<div class="ocr-word confidence-very-high" style="left:30.3%;top:61.7%;width:60.8%;height:1.7%;" title="(centre) location of the building makes it very convenient for the (confidence: 0.993, source: D(1,620,1688,1862,1735))">(centre) location of the building makes it very convenient for the</div>
+<div class="ocr-word confidence-very-high" style="left:12.8%;top:63.5%;width:25.0%;height:1.7%;" title="workers to go to the office (confidence: 1.000, source: D(1,261,1737,772,1784))">workers to go to the office</div>
+<div class="ocr-word confidence-very-high" style="left:9.4%;top:66.1%;width:20.9%;height:1.7%;" title="20. we laughed at the (confidence: 1.000, source: D(1,193,1807,620,1854))">20. we laughed at the</div>
+<div class="ocr-word confidence-very-high" style="left:44.3%;top:66.1%;width:21.1%;height:1.8%;" title="(see) of her dirty race. (confidence: 0.993, source: D(1,906,1807,1338,1856))">(see) of her dirty race.</div>
+<div class="ocr-word confidence-very-high" style="left:9.3%;top:68.6%;width:29.2%;height:1.9%;" title="21. The audience are listening (confidence: 0.985, source: D(1,191,1875,787,1926))">21. The audience are listening</div>
+<div class="ocr-word confidence-very-high" style="left:51.9%;top:68.7%;width:22.4%;height:1.8%;" title="(attend) to the speaker. (confidence: 1.000, source: D(1,1061,1878,1519,1926))">(attend) to the speaker.</div>
+<div class="ocr-word confidence-very-high" style="left:9.3%;top:71.2%;width:31.7%;height:1.8%;" title="22. Smoking and drinking are his (confidence: 0.999, source: D(1,191,1947,838,1997))">22. Smoking and drinking are his</div>
+<div class="ocr-word confidence-very-high" style="left:54.3%;top:71.2%;width:7.5%;height:2.0%;" title="(weak). (confidence: 1.000, source: D(1,1110,1947,1263,2001))">(weak).</div>
+<div class="ocr-word confidence-very-high" style="left:9.3%;top:73.7%;width:10.1%;height:1.9%;" title="23. She is (confidence: 0.994, source: D(1,190,2016,396,2068))">23. She is</div>
+<div class="ocr-word confidence-very-high" style="left:33.3%;top:73.8%;width:35.3%;height:1.9%;" title="(age) fast. She looks like an old lady. (confidence: 0.982, source: D(1,680,2018,1401,2070))">(age) fast. She looks like an old lady.</div>
+<div class="ocr-word confidence-very-high" style="left:9.2%;top:76.3%;width:12.0%;height:1.8%;" title="24. He Is an (confidence: 0.999, source: D(1,189,2087,435,2137))">24. He Is an</div>
+<div class="ocr-word confidence-very-high" style="left:35.3%;top:76.4%;width:14.0%;height:1.9%;" title="(image) writer. (confidence: 0.993, source: D(1,721,2088,1007,2139))">(image) writer.</div>
+<div class="ocr-word confidence-very-high" style="left:9.3%;top:78.9%;width:67.8%;height:1.8%;" title="25. We have to check the (available) of the Item you need in our stock. (confidence: 0.986, source: D(1,191,2157,1576,2206))">25. We have to check the (available) of the Item you need in our stock.</div>
+<div class="ocr-word confidence-very-high" style="left:9.4%;top:81.5%;width:24.7%;height:1.7%;" title="26. The committee had to (confidence: 0.995, source: D(1,193,2228,697,2275))">26. The committee had to</div>
+<div class="ocr-word confidence-very-high" style="left:47.6%;top:81.5%;width:44.0%;height:1.9%;" title="(Intense) their efforts to get more votes for the (confidence: 0.993, source: D(1,972,2227,1871,2279))">(Intense) their efforts to get more votes for the</div>
+<div class="ocr-word confidence-very-high" style="left:12.9%;top:83.4%;width:10.2%;height:1.5%;" title="candidate. (confidence: 1.000, source: D(1,263,2281,471,2323))">candidate.</div>
+<div class="ocr-word confidence-very-high" style="left:9.3%;top:85.9%;width:38.6%;height:1.8%;" title="27. Most people In Africa live in extreme (confidence: 1.000, source: D(1,191,2349,981,2399))">27. Most people In Africa live in extreme</div>
+<div class="ocr-word confidence-very-high" style="left:61.8%;top:85.8%;width:6.8%;height:2.1%;" title="(poor). (confidence: 1.000, source: D(1,1263,2346,1401,2404))">(poor).</div>
+<div class="ocr-word confidence-very-high" style="left:9.4%;top:88.5%;width:32.8%;height:1.8%;" title="28. London needs a new bridge to (confidence: 0.999, source: D(1,192,2420,863,2468))">28. London needs a new bridge to</div>
+<div class="ocr-word confidence-very-high" style="left:56.2%;top:88.5%;width:20.7%;height:1.9%;" title="(easy) the traffic flow. (confidence: 0.985, source: D(1,1149,2419,1572,2471))">(easy) the traffic flow.</div>
+<div class="ocr-word confidence-very-high" style="left:9.4%;top:91.1%;width:40.3%;height:1.7%;" title="29. The casualties were given RM1000 as (confidence: 0.996, source: D(1,193,2491,1017,2538))">29. The casualties were given RM1000 as</div>
+<div class="ocr-word confidence-very-high" style="left:63.1%;top:91.1%;width:13.9%;height:1.8%;" title="(compensate). (confidence: 1.000, source: D(1,1289,2492,1574,2540))">(compensate).</div>
+<div class="ocr-word confidence-very-high" style="left:9.4%;top:93.7%;width:23.9%;height:1.7%;" title="30. My father is the most (confidence: 0.997, source: D(1,193,2561,682,2608))">30. My father is the most</div>
+<div class="ocr-word confidence-very-high" style="left:47.8%;top:93.6%;width:28.6%;height:1.9%;" title="(tolerate) person in the family. (confidence: 1.000, source: D(1,977,2558,1562,2611))">(tolerate) person in the family.</div>
+</div>
+</div>
+</body>
+</html>

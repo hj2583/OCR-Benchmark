@@ -1,0 +1,993 @@
+{
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": 0,
+      "width": 2044,
+      "height": 2734,
+      "spans": [
+        {
+          "offset": 0,
+          "length": 1974
+        }
+      ],
+      "words": [
+        {
+          "content": "Word form",
+          "confidence": 0.999985,
+          "geometry": {
+            "x0": 120.0,
+            "y0": 99.0,
+            "x1": 330.0,
+            "y1": 144.0
+          },
+          "source": "D(1,120,99,330,144)",
+          "span": {
+            "offset": 0,
+            "length": 9
+          }
+        },
+        {
+          "content": "Fill in each blank with the correct form of the word in the bracket",
+          "confidence": 0.996511,
+          "geometry": {
+            "x0": 121.0,
+            "y0": 149.0,
+            "x1": 1371.0,
+            "y1": 193.0
+          },
+          "source": "D(1,121,149,1371,193)",
+          "span": {
+            "offset": 10,
+            "length": 67
+          }
+        },
+        {
+          "content": "1. The",
+          "confidence": 0.999406,
+          "geometry": {
+            "x0": 190.0,
+            "y0": 315.0,
+            "x1": 351.0,
+            "y1": 371.0
+          },
+          "source": "D(1,190,315,351,371)",
+          "span": {
+            "offset": 78,
+            "length": 6
+          }
+        },
+        {
+          "content": "(renew) of her passport will take two weeks.",
+          "confidence": 0.998698,
+          "geometry": {
+            "x0": 634.0,
+            "y0": 319.0,
+            "x1": 1491.0,
+            "y1": 371.0
+          },
+          "source": "D(1,634,319,1491,371)",
+          "span": {
+            "offset": 85,
+            "length": 44
+          }
+        },
+        {
+          "content": "2. Don't",
+          "confidence": 0.999007,
+          "geometry": {
+            "x0": 190.0,
+            "y0": 389.0,
+            "x1": 378.0,
+            "y1": 438.0
+          },
+          "source": "D(1,190,389,378,438)",
+          "span": {
+            "offset": 130,
+            "length": 8
+          }
+        },
+        {
+          "content": "(angry) her anymore or she will beat you up.",
+          "confidence": 0.992936,
+          "geometry": {
+            "x0": 648.0,
+            "y0": 391.0,
+            "x1": 1512.0,
+            "y1": 441.0
+          },
+          "source": "D(1,648,391,1512,441)",
+          "span": {
+            "offset": 139,
+            "length": 44
+          }
+        },
+        {
+          "content": "3. The escaped leopard will",
+          "confidence": 0.999835,
+          "geometry": {
+            "x0": 191.0,
+            "y0": 459.0,
+            "x1": 760.0,
+            "y1": 508.0
+          },
+          "source": "D(1,191,459,760,508)",
+          "span": {
+            "offset": 184,
+            "length": 27
+          }
+        },
+        {
+          "content": "(danger) the lives of the villagers",
+          "confidence": 0.99993,
+          "geometry": {
+            "x0": 1043.0,
+            "y0": 459.0,
+            "x1": 1686.0,
+            "y1": 510.0
+          },
+          "source": "D(1,1043,459,1686,510)",
+          "span": {
+            "offset": 212,
+            "length": 35
+          }
+        },
+        {
+          "content": "4. The champion squad jumped",
+          "confidence": 0.999691,
+          "geometry": {
+            "x0": 190.0,
+            "y0": 530.0,
+            "x1": 839.0,
+            "y1": 580.0
+          },
+          "source": "D(1,190,530,839,580)",
+          "span": {
+            "offset": 248,
+            "length": 28
+          }
+        },
+        {
+          "content": "(triumphant) when Its name was called.",
+          "confidence": 0.999304,
+          "geometry": {
+            "x0": 1126.0,
+            "y0": 530.0,
+            "x1": 1894.0,
+            "y1": 580.0
+          },
+          "source": "D(1,1126,530,1894,580)",
+          "span": {
+            "offset": 277,
+            "length": 38
+          }
+        },
+        {
+          "content": "5. Please",
+          "confidence": 0.998156,
+          "geometry": {
+            "x0": 190.0,
+            "y0": 599.0,
+            "x1": 407.0,
+            "y1": 648.0
+          },
+          "source": "D(1,190,599,407,648)",
+          "span": {
+            "offset": 316,
+            "length": 9
+          }
+        },
+        {
+          "content": "(low) the volume of your voice. I can even hear you from next",
+          "confidence": 0.995928,
+          "geometry": {
+            "x0": 692.0,
+            "y0": 598.0,
+            "x1": 1892.0,
+            "y1": 650.0
+          },
+          "source": "D(1,692,598,1892,650)",
+          "span": {
+            "offset": 326,
+            "length": 61
+          }
+        },
+        {
+          "content": "door.",
+          "confidence": 0.999996,
+          "geometry": {
+            "x0": 259.0,
+            "y0": 651.0,
+            "x1": 371.0,
+            "y1": 701.0
+          },
+          "source": "D(1,259,651,371,701)",
+          "span": {
+            "offset": 388,
+            "length": 5
+          }
+        },
+        {
+          "content": "6. The",
+          "confidence": 0.999649,
+          "geometry": {
+            "x0": 187.0,
+            "y0": 717.0,
+            "x1": 350.0,
+            "y1": 772.0
+          },
+          "source": "D(1,187,717,350,772)",
+          "span": {
+            "offset": 394,
+            "length": 6
+          }
+        },
+        {
+          "content": "(endure) test will take approximately two hours to complete.",
+          "confidence": 0.999723,
+          "geometry": {
+            "x0": 633.0,
+            "y0": 723.0,
+            "x1": 1796.0,
+            "y1": 773.0
+          },
+          "source": "D(1,633,723,1796,773)",
+          "span": {
+            "offset": 401,
+            "length": 60
+          }
+        },
+        {
+          "content": "7. The play is so boring. The script writer should",
+          "confidence": 0.99393,
+          "geometry": {
+            "x0": 189.0,
+            "y0": 790.0,
+            "x1": 1157.0,
+            "y1": 844.0
+          },
+          "source": "D(1,189,790,1157,844)",
+          "span": {
+            "offset": 462,
+            "length": 50
+          }
+        },
+        {
+          "content": "(live) It with more Jokes.",
+          "confidence": 0.994676,
+          "geometry": {
+            "x0": 1443.0,
+            "y0": 792.0,
+            "x1": 1919.0,
+            "y1": 842.0
+          },
+          "source": "D(1,1443,792,1919,842)",
+          "span": {
+            "offset": 513,
+            "length": 26
+          }
+        },
+        {
+          "content": "8. The",
+          "confidence": 0.999664,
+          "geometry": {
+            "x0": 188.0,
+            "y0": 859.0,
+            "x1": 351.0,
+            "y1": 912.0
+          },
+          "source": "D(1,188,859,351,912)",
+          "span": {
+            "offset": 540,
+            "length": 6
+          }
+        },
+        {
+          "content": "(rebel) was stopped in time by the military.",
+          "confidence": 0.981577,
+          "geometry": {
+            "x0": 633.0,
+            "y0": 863.0,
+            "x1": 1461.0,
+            "y1": 914.0
+          },
+          "source": "D(1,633,863,1461,914)",
+          "span": {
+            "offset": 547,
+            "length": 44
+          }
+        },
+        {
+          "content": "9. The couple came here at the special",
+          "confidence": 0.991245,
+          "geometry": {
+            "x0": 190.0,
+            "y0": 931.0,
+            "x1": 980.0,
+            "y1": 980.0
+          },
+          "source": "D(1,190,931,980,980)",
+          "span": {
+            "offset": 592,
+            "length": 38
+          }
+        },
+        {
+          "content": "(invite) of the prime minister.",
+          "confidence": 0.994603,
+          "geometry": {
+            "x0": 1268.0,
+            "y0": 934.0,
+            "x1": 1824.0,
+            "y1": 982.0
+          },
+          "source": "D(1,1268,934,1824,982)",
+          "span": {
+            "offset": 631,
+            "length": 31
+          }
+        },
+        {
+          "content": "10. Please accept my",
+          "confidence": 0.997342,
+          "geometry": {
+            "x0": 194.0,
+            "y0": 1000.0,
+            "x1": 621.0,
+            "y1": 1054.0
+          },
+          "source": "D(1,194,1000,621,1054)",
+          "span": {
+            "offset": 663,
+            "length": 20
+          }
+        },
+        {
+          "content": "(sister) advice. You look horrible in that dress.",
+          "confidence": 0.99681,
+          "geometry": {
+            "x0": 905.0,
+            "y0": 1002.0,
+            "x1": 1801.0,
+            "y1": 1052.0
+          },
+          "source": "D(1,905,1002,1801,1052)",
+          "span": {
+            "offset": 684,
+            "length": 49
+          }
+        },
+        {
+          "content": "11.The",
+          "confidence": 0.999993,
+          "geometry": {
+            "x0": 194.0,
+            "y0": 1071.0,
+            "x1": 349.0,
+            "y1": 1122.0
+          },
+          "source": "D(1,194,1071,349,1122)",
+          "span": {
+            "offset": 734,
+            "length": 6
+          }
+        },
+        {
+          "content": "(tall) of the project left many of the staff disappointed.",
+          "confidence": 0.989242,
+          "geometry": {
+            "x0": 634.0,
+            "y0": 1072.0,
+            "x1": 1674.0,
+            "y1": 1123.0
+          },
+          "source": "D(1,634,1072,1674,1123)",
+          "span": {
+            "offset": 741,
+            "length": 58
+          }
+        },
+        {
+          "content": "12. The policemen are here to",
+          "confidence": 0.98097,
+          "geometry": {
+            "x0": 195.0,
+            "y0": 1145.0,
+            "x1": 785.0,
+            "y1": 1192.0
+          },
+          "source": "D(1,195,1145,785,1192)",
+          "span": {
+            "offset": 800,
+            "length": 29
+          }
+        },
+        {
+          "content": "(force) law and order.",
+          "confidence": 0.999909,
+          "geometry": {
+            "x0": 1073.0,
+            "y0": 1144.0,
+            "x1": 1494.0,
+            "y1": 1194.0
+          },
+          "source": "D(1,1073,1144,1494,1194)",
+          "span": {
+            "offset": 830,
+            "length": 22
+          }
+        },
+        {
+          "content": "13. The prophet is said to be",
+          "confidence": 0.989746,
+          "geometry": {
+            "x0": 196.0,
+            "y0": 1215.0,
+            "x1": 757.0,
+            "y1": 1262.0
+          },
+          "source": "D(1,196,1215,757,1262)",
+          "span": {
+            "offset": 853,
+            "length": 29
+          }
+        },
+        {
+          "content": "(power) by God to save the world.",
+          "confidence": 0.999977,
+          "geometry": {
+            "x0": 1041.0,
+            "y0": 1213.0,
+            "x1": 1708.0,
+            "y1": 1266.0
+          },
+          "source": "D(1,1041,1213,1708,1266)",
+          "span": {
+            "offset": 883,
+            "length": 33
+          }
+        },
+        {
+          "content": "14. You are under no",
+          "confidence": 0.990916,
+          "geometry": {
+            "x0": 195.0,
+            "y0": 1285.0,
+            "x1": 611.0,
+            "y1": 1331.0
+          },
+          "source": "D(1,195,1285,611,1331)",
+          "span": {
+            "offset": 917,
+            "length": 20
+          }
+        },
+        {
+          "content": "(oblige) to accept the terms and conditions.",
+          "confidence": 0.988428,
+          "geometry": {
+            "x0": 897.0,
+            "y0": 1283.0,
+            "x1": 1743.0,
+            "y1": 1336.0
+          },
+          "source": "D(1,897,1283,1743,1336)",
+          "span": {
+            "offset": 938,
+            "length": 44
+          }
+        },
+        {
+          "content": "15. The rapid",
+          "confidence": 0.992074,
+          "geometry": {
+            "x0": 193.0,
+            "y0": 1353.0,
+            "x1": 458.0,
+            "y1": 1404.0
+          },
+          "source": "D(1,193,1353,458,1404)",
+          "span": {
+            "offset": 983,
+            "length": 13
+          }
+        },
+        {
+          "content": "(grow) of the company took everyone by surprise.",
+          "confidence": 0.999628,
+          "geometry": {
+            "x0": 743.0,
+            "y0": 1353.0,
+            "x1": 1713.0,
+            "y1": 1406.0
+          },
+          "source": "D(1,743,1353,1713,1406)",
+          "span": {
+            "offset": 997,
+            "length": 48
+          }
+        },
+        {
+          "content": "16. All the pupils were",
+          "confidence": 0.982089,
+          "geometry": {
+            "x0": 195.0,
+            "y0": 1423.0,
+            "x1": 630.0,
+            "y1": 1474.0
+          },
+          "source": "D(1,195,1423,630,1474)",
+          "span": {
+            "offset": 1046,
+            "length": 23
+          }
+        },
+        {
+          "content": "(busy) finishing their exam papers when the bell",
+          "confidence": 0.99951,
+          "geometry": {
+            "x0": 914.0,
+            "y0": 1422.0,
+            "x1": 1852.0,
+            "y1": 1477.0
+          },
+          "source": "D(1,914,1422,1852,1477)",
+          "span": {
+            "offset": 1070,
+            "length": 48
+          }
+        },
+        {
+          "content": "rang.",
+          "confidence": 0.999979,
+          "geometry": {
+            "x0": 258.0,
+            "y0": 1475.0,
+            "x1": 372.0,
+            "y1": 1530.0
+          },
+          "source": "D(1,258,1475,372,1530)",
+          "span": {
+            "offset": 1119,
+            "length": 5
+          }
+        },
+        {
+          "content": "17. His grandmother is",
+          "confidence": 0.99956,
+          "geometry": {
+            "x0": 194.0,
+            "y0": 1542.0,
+            "x1": 644.0,
+            "y1": 1595.0
+          },
+          "source": "D(1,194,1542,644,1595)",
+          "span": {
+            "offset": 1125,
+            "length": 22
+          }
+        },
+        {
+          "content": "(critic) ill and wants to see him immediately.",
+          "confidence": 0.999726,
+          "geometry": {
+            "x0": 927.0,
+            "y0": 1544.0,
+            "x1": 1779.0,
+            "y1": 1594.0
+          },
+          "source": "D(1,927,1544,1779,1594)",
+          "span": {
+            "offset": 1148,
+            "length": 46
+          }
+        },
+        {
+          "content": "18. \"Sally, you should be more",
+          "confidence": 0.968281,
+          "geometry": {
+            "x0": 195.0,
+            "y0": 1615.0,
+            "x1": 793.0,
+            "y1": 1667.0
+          },
+          "source": "D(1,195,1615,793,1667)",
+          "span": {
+            "offset": 1195,
+            "length": 30
+          }
+        },
+        {
+          "content": "(care) In your work.\" said the supervisor.",
+          "confidence": 0.986803,
+          "geometry": {
+            "x0": 1066.0,
+            "y0": 1618.0,
+            "x1": 1857.0,
+            "y1": 1666.0
+          },
+          "source": "D(1,1066,1618,1857,1666)",
+          "span": {
+            "offset": 1226,
+            "length": 42
+          }
+        },
+        {
+          "content": "19. The",
+          "confidence": 0.939655,
+          "geometry": {
+            "x0": 193.0,
+            "y0": 1684.0,
+            "x1": 348.0,
+            "y1": 1734.0
+          },
+          "source": "D(1,193,1684,348,1734)",
+          "span": {
+            "offset": 1269,
+            "length": 7
+          }
+        },
+        {
+          "content": "(centre) location of the building makes it very convenient for the",
+          "confidence": 0.993137,
+          "geometry": {
+            "x0": 620.0,
+            "y0": 1688.0,
+            "x1": 1862.0,
+            "y1": 1735.0
+          },
+          "source": "D(1,620,1688,1862,1735)",
+          "span": {
+            "offset": 1277,
+            "length": 66
+          }
+        },
+        {
+          "content": "workers to go to the office",
+          "confidence": 0.999983,
+          "geometry": {
+            "x0": 261.0,
+            "y0": 1737.0,
+            "x1": 772.0,
+            "y1": 1784.0
+          },
+          "source": "D(1,261,1737,772,1784)",
+          "span": {
+            "offset": 1344,
+            "length": 27
+          }
+        },
+        {
+          "content": "20. we laughed at the",
+          "confidence": 0.999953,
+          "geometry": {
+            "x0": 193.0,
+            "y0": 1807.0,
+            "x1": 620.0,
+            "y1": 1854.0
+          },
+          "source": "D(1,193,1807,620,1854)",
+          "span": {
+            "offset": 1372,
+            "length": 21
+          }
+        },
+        {
+          "content": "(see) of her dirty race.",
+          "confidence": 0.993088,
+          "geometry": {
+            "x0": 906.0,
+            "y0": 1807.0,
+            "x1": 1338.0,
+            "y1": 1856.0
+          },
+          "source": "D(1,906,1807,1338,1856)",
+          "span": {
+            "offset": 1394,
+            "length": 24
+          }
+        },
+        {
+          "content": "21. The audience are listening",
+          "confidence": 0.985182,
+          "geometry": {
+            "x0": 191.0,
+            "y0": 1875.0,
+            "x1": 787.0,
+            "y1": 1926.0
+          },
+          "source": "D(1,191,1875,787,1926)",
+          "span": {
+            "offset": 1419,
+            "length": 30
+          }
+        },
+        {
+          "content": "(attend) to the speaker.",
+          "confidence": 0.999959,
+          "geometry": {
+            "x0": 1061.0,
+            "y0": 1878.0,
+            "x1": 1519.0,
+            "y1": 1926.0
+          },
+          "source": "D(1,1061,1878,1519,1926)",
+          "span": {
+            "offset": 1450,
+            "length": 24
+          }
+        },
+        {
+          "content": "22. Smoking and drinking are his",
+          "confidence": 0.998861,
+          "geometry": {
+            "x0": 191.0,
+            "y0": 1947.0,
+            "x1": 838.0,
+            "y1": 1997.0
+          },
+          "source": "D(1,191,1947,838,1997)",
+          "span": {
+            "offset": 1475,
+            "length": 32
+          }
+        },
+        {
+          "content": "(weak).",
+          "confidence": 0.999994,
+          "geometry": {
+            "x0": 1110.0,
+            "y0": 1947.0,
+            "x1": 1263.0,
+            "y1": 2001.0
+          },
+          "source": "D(1,1110,1947,1263,2001)",
+          "span": {
+            "offset": 1508,
+            "length": 7
+          }
+        },
+        {
+          "content": "23. She is",
+          "confidence": 0.994253,
+          "geometry": {
+            "x0": 190.0,
+            "y0": 2016.0,
+            "x1": 396.0,
+            "y1": 2068.0
+          },
+          "source": "D(1,190,2016,396,2068)",
+          "span": {
+            "offset": 1516,
+            "length": 10
+          }
+        },
+        {
+          "content": "(age) fast. She looks like an old lady.",
+          "confidence": 0.981925,
+          "geometry": {
+            "x0": 680.0,
+            "y0": 2018.0,
+            "x1": 1401.0,
+            "y1": 2070.0
+          },
+          "source": "D(1,680,2018,1401,2070)",
+          "span": {
+            "offset": 1527,
+            "length": 39
+          }
+        },
+        {
+          "content": "24. He Is an",
+          "confidence": 0.999083,
+          "geometry": {
+            "x0": 189.0,
+            "y0": 2087.0,
+            "x1": 435.0,
+            "y1": 2137.0
+          },
+          "source": "D(1,189,2087,435,2137)",
+          "span": {
+            "offset": 1567,
+            "length": 12
+          }
+        },
+        {
+          "content": "(image) writer.",
+          "confidence": 0.993355,
+          "geometry": {
+            "x0": 721.0,
+            "y0": 2088.0,
+            "x1": 1007.0,
+            "y1": 2139.0
+          },
+          "source": "D(1,721,2088,1007,2139)",
+          "span": {
+            "offset": 1580,
+            "length": 15
+          }
+        },
+        {
+          "content": "25. We have to check the (available) of the Item you need in our stock.",
+          "confidence": 0.986472,
+          "geometry": {
+            "x0": 191.0,
+            "y0": 2157.0,
+            "x1": 1576.0,
+            "y1": 2206.0
+          },
+          "source": "D(1,191,2157,1576,2206)",
+          "span": {
+            "offset": 1596,
+            "length": 71
+          }
+        },
+        {
+          "content": "26. The committee had to",
+          "confidence": 0.995227,
+          "geometry": {
+            "x0": 193.0,
+            "y0": 2228.0,
+            "x1": 697.0,
+            "y1": 2275.0
+          },
+          "source": "D(1,193,2228,697,2275)",
+          "span": {
+            "offset": 1668,
+            "length": 24
+          }
+        },
+        {
+          "content": "(Intense) their efforts to get more votes for the",
+          "confidence": 0.993097,
+          "geometry": {
+            "x0": 972.0,
+            "y0": 2227.0,
+            "x1": 1871.0,
+            "y1": 2279.0
+          },
+          "source": "D(1,972,2227,1871,2279)",
+          "span": {
+            "offset": 1693,
+            "length": 49
+          }
+        },
+        {
+          "content": "candidate.",
+          "confidence": 0.999996,
+          "geometry": {
+            "x0": 263.0,
+            "y0": 2281.0,
+            "x1": 471.0,
+            "y1": 2323.0
+          },
+          "source": "D(1,263,2281,471,2323)",
+          "span": {
+            "offset": 1743,
+            "length": 10
+          }
+        },
+        {
+          "content": "27. Most people In Africa live in extreme",
+          "confidence": 0.999833,
+          "geometry": {
+            "x0": 191.0,
+            "y0": 2349.0,
+            "x1": 981.0,
+            "y1": 2399.0
+          },
+          "source": "D(1,191,2349,981,2399)",
+          "span": {
+            "offset": 1754,
+            "length": 41
+          }
+        },
+        {
+          "content": "(poor).",
+          "confidence": 0.999992,
+          "geometry": {
+            "x0": 1263.0,
+            "y0": 2346.0,
+            "x1": 1401.0,
+            "y1": 2404.0
+          },
+          "source": "D(1,1263,2346,1401,2404)",
+          "span": {
+            "offset": 1796,
+            "length": 7
+          }
+        },
+        {
+          "content": "28. London needs a new bridge to",
+          "confidence": 0.998935,
+          "geometry": {
+            "x0": 192.0,
+            "y0": 2420.0,
+            "x1": 863.0,
+            "y1": 2468.0
+          },
+          "source": "D(1,192,2420,863,2468)",
+          "span": {
+            "offset": 1804,
+            "length": 32
+          }
+        },
+        {
+          "content": "(easy) the traffic flow.",
+          "confidence": 0.985207,
+          "geometry": {
+            "x0": 1149.0,
+            "y0": 2419.0,
+            "x1": 1572.0,
+            "y1": 2471.0
+          },
+          "source": "D(1,1149,2419,1572,2471)",
+          "span": {
+            "offset": 1837,
+            "length": 24
+          }
+        },
+        {
+          "content": "29. The casualties were given RM1000 as",
+          "confidence": 0.996045,
+          "geometry": {
+            "x0": 193.0,
+            "y0": 2491.0,
+            "x1": 1017.0,
+            "y1": 2538.0
+          },
+          "source": "D(1,193,2491,1017,2538)",
+          "span": {
+            "offset": 1862,
+            "length": 39
+          }
+        },
+        {
+          "content": "(compensate).",
+          "confidence": 0.999986,
+          "geometry": {
+            "x0": 1289.0,
+            "y0": 2492.0,
+            "x1": 1574.0,
+            "y1": 2540.0
+          },
+          "source": "D(1,1289,2492,1574,2540)",
+          "span": {
+            "offset": 1902,
+            "length": 13
+          }
+        },
+        {
+          "content": "30. My father is the most",
+          "confidence": 0.997422,
+          "geometry": {
+            "x0": 193.0,
+            "y0": 2561.0,
+            "x1": 682.0,
+            "y1": 2608.0
+          },
+          "source": "D(1,193,2561,682,2608)",
+          "span": {
+            "offset": 1916,
+            "length": 25
+          }
+        },
+        {
+          "content": "(tolerate) person in the family.",
+          "confidence": 0.999815,
+          "geometry": {
+            "x0": 977.0,
+            "y0": 2558.0,
+            "x1": 1562.0,
+            "y1": 2611.0
+          },
+          "source": "D(1,977,2558,1562,2611)",
+          "span": {
+            "offset": 1942,
+            "length": 32
+          }
+        }
+      ]
+    }
+  ]
+}

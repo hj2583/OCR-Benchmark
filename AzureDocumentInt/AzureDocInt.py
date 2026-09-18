@@ -14,9 +14,9 @@ from azure.ai.documentintelligence.models import AnalyzeResult
 # ---------------------------------------------------------------------------
 # CONFIGURATION
 # ---------------------------------------------------------------------------
-ENDPOINT = os.getenv("AZURE_DOCUMENT_INTELLIGENCE_ENDPOINT")
-KEY = os.getenv("AZURE_DOCUMENT_INTELLIGENCE_KEY")
-INPUT_DOCUMENT = "C:/Users/HP/Desktop/OCR-Benchmark/test/Fill_In_Blank.pdf"
+ENDPOINT = ""
+KEY = ""
+INPUT_DOCUMENT = "C:/Users/HP/Desktop/OCR-Benchmark/test/Article.pdf"
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 
 OUTPUT_MARKDOWN = os.path.join(SCRIPT_DIR, "azure_full_document_context.md")

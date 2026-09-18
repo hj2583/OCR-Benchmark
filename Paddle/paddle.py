@@ -1253,7 +1253,7 @@ def _runtime_ocr_config():
         "device": os.environ.get("OCR_DEVICE", "cpu"),
         "enable_mkldnn": os.environ.get("OCR_ENABLE_MKLDNN", "0") == "1",
         "input_candidates": _parse_csv_env("OCR_INPUT_CANDIDATES"),
-        "output_summary": os.environ.get("OCR_OUTPUT_SUMMARY", "Paddle/PaddleResult/Fill_In_Blank.md"),
+        "output_summary": os.environ.get("OCR_OUTPUT_SUMMARY", "Paddle/PaddleResult/Article.md"),
     }
 
 
@@ -3071,7 +3071,7 @@ def _render_json_to_markdown(json_data):
 # ---------------------------------------------------------------------------
 # CONFIGURATION
 # ---------------------------------------------------------------------------
-INPUT_DOCUMENT = os.environ.get("OCR_INPUT_DOCUMENT", "C:/Users/HP/Desktop/OCR-Benchmark/test/Fill_In_Blank.pdf")
+INPUT_DOCUMENT = os.environ.get("OCR_INPUT_DOCUMENT", "C:/Users/HP/Desktop/OCR-Benchmark/test/Article.pdf")
 OUTPUT_SUMMARY = _runtime_ocr_config()["output_summary"]
 
 
